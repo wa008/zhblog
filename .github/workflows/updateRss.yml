@@ -29,7 +29,7 @@ jobs:
       - name: Update rss
         run: |
           cd ./src
-          python -m ./update_rss.py
+          python -u ./update_rss.py
 
       - name: Commit report
         env:
