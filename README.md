@@ -1,11 +1,23 @@
 # 中文独立博客
+[科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) by 阮一峰的网络日志 on 2024-06-21 08:13:05
+
+[科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html) by 阮一峰的网络日志 on 2024-06-14 08:13:48
+
 [<![CDATA[数字转换为更高量级单位的工具方法]]>](https://www.xiabingbao.com/post/fe/covert-num-sel4mj.html) by 个人博客-蚊子-前端博客 on 2024-06-13 10:37:56
 
+[科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) by 阮一峰的网络日志 on 2024-06-07 08:10:26
+
 [<![CDATA[如何避免旧请求的数据覆盖掉最新请求]]>](https://www.xiabingbao.com/post/request/request-sehwjw.html) by 个人博客-蚊子-前端博客 on 2024-06-03 16:21:32
+
+[科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) by 阮一峰的网络日志 on 2024-05-31 08:11:13
+
+[分布式数据库入门：以国产数据库 TDSQL 为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html) by 阮一峰的网络日志 on 2024-05-29 09:03:49
 
 [<![CDATA[反驳那些要实时刷新页面的前端部署方案]]>](https://www.xiabingbao.com/post/fe/fe-deploy-scdrbv.html) by 个人博客-蚊子-前端博客 on 2024-05-28 10:17:50
 
 [<![CDATA[JavaScript 中 toString 的冷知识]]>](https://www.xiabingbao.com/post/fe/js-tostring-se4i09.html) by 个人博客-蚊子-前端博客 on 2024-05-27 10:38:33
+
+[科技爱好者周刊（第 301 期）：OpenAI 的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html) by 阮一峰的网络日志 on 2024-05-24 08:15:17
 
 [<![CDATA[React 中 useState 和 useRef 与全局变量的区别]]>](https://www.xiabingbao.com/post/react/react-usestate-useref-sdk6xp.html) by 个人博客-蚊子-前端博客 on 2024-05-22 11:29:51
 

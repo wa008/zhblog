@@ -18,7 +18,8 @@ def rss_get_content_from_url(rss_url):
         title = item.title.content
         link = item.link.content
         day = parser.parse(item.pub_date.content).strftime("%Y-%m-%d %H:%M:%S")
-        result.append([day, title, link, auther])
+        if len(title) > 0 and len(link) > 0:
+            result.append([day, title, link, auther])
     return result
 
 def atom_get_content_from_url(rss_url):
@@ -30,7 +31,8 @@ def atom_get_content_from_url(rss_url):
         title = item.title.value
         link = item.id_
         day = item.published.strftime("%Y-%m-%d %H:%M:%S")
-        result.append([day, title, link, auther])
+        if len(title) > 0 and len(link) > 0:
+            result.append([day, title, link, auther])
     return result
 
 # print (atom_get_content_from_url("https://blog.t9t.io/atom.xml"))
@@ -79,6 +81,6 @@ output.write("# 中文独立博客\n")
 output = open(output_file, "a")
 for content in contents:
     day, title, link, auther = content
-    output.write("[{title}]({link}) by {auther} on {day}\n".format(title \
+    output.write("[{title}]({link}) by {auther} on {day}\n\n".format(title \
         = title, day = day, link = link, auther = auther))
 
