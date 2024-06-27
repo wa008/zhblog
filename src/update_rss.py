@@ -35,6 +35,7 @@ def atom_get_content_from_url(rss_url):
         link = item.id_
         day = item.published.strftime("%Y-%m-%d %H:%M:%S")
         result.append([day, title, link, auther])
+        index += 1
         if index >= 100: break
     return result
 
@@ -72,7 +73,7 @@ for url in urls:
         print ("except", url)
     print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt \
         * 100.0 / all_cnt))
-    if all_cnt >= 200:
+    if all_cnt >= 2000:
         break
 
 contents = sorted(contents, key = lambda x: x[0], reverse = True)[: 1000]
