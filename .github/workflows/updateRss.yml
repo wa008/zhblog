@@ -40,4 +40,6 @@ jobs:
           git remote set-url origin git@github.com:wa008/zhblog.git
           git checkout -b main
           git branch
+          git add ./README.md
+          git commit -m "update rss commit"
 
