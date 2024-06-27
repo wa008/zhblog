@@ -29,6 +29,8 @@
 
 [收到带限定文件夹的Switch版《星之梦》了。文件夹的图案是真的美！这版《星之梦》全名叫做《plan...](https://www.wikimoe.com/post/rfxdnmhq)  by  维基萌  on  2024-06-27 08:42:27
 
+[一种在 Electron 和 Web 环境下显示原生及自定义菜单的通用方法](https://innei.in/posts/tech/a-universal-method-about-show-electron-native-and-web-custom-menus)  by  静かな森  on  2024-06-27 07:00:43
+
 [2024 年湾区有意思的节庆](https://leimao.github.io/essay/2024%E5%B9%B4%E6%B9%BE%E5%8C%BA%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%8A%82%E5%BA%86/)  by  Lei Mao  on  2024-06-27 07:00:00
 
 [今天去松户办点事，突然想起来这里是「happy sugar life」的圣地！😇](https://www.wikimoe.com/post/4a0egwid)  by  维基萌  on  2024-06-27 05:45:55
@@ -48,6 +50,8 @@
 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/)  by  子舒的博客  on  2024-06-27 00:00:00
 
 [Weekly #6：出发，去（回）杭州！](https://skywt.cn/blog/weekly-6/)  by  SkyWT  on  2024-06-26 19:00:00
+
+[我的第一台 NAS 都有些什么](https://blog.fkynjyq.com/what-are-on-my-first-nas)  by  FKYnJYQ  on  2024-06-26 18:27:24
 
 [文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)  by  Jun Xie  on  2024-06-26 14:19:17
 
@@ -533,10 +537,6 @@
 
 [如何在HEXO中加入网络视频（以bilibili视频为例）](http://www.seis-jun.xyz/add-video)  by  Jun Xie  on  2024-06-18 11:56:47
 
-[我用AI开发了一个提取公众号封面图的浏览器插件【效率工具指南】](https://penghh.fun/2024/06/18/2024-6-22-extract_wemdia_cover/)  by  Angola Peng  on  2024-06-18 11:45:00
-
-[我们都是困在时间里的人【效率工具指南】](https://penghh.fun/2024/06/18/2024-6-18-trap_in_time/)  by  Angola Peng  on  2024-06-18 11:45:00
-
 [残余应力](https://coffeelize.top/posts/Residual-stresses.html)  by  coffeelize  on  2024-06-18 10:17:13
 
 [为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)  by  北门清燕  on  2024-06-18 10:06:00
@@ -654,8 +654,6 @@
 [1124](https://ramble.imzh.me/1124/)  by  jz's rambling on jz's rambles  on  2024-06-15 16:44:33
 
 [1123](https://ramble.imzh.me/1123/)  by  jz's rambling on jz's rambles  on  2024-06-15 16:43:18
-
-[为什么我说千织的角色设计很伟大](https://www.velasx.com/am/6201)  by  Zeee  on  2024-06-15 16:09:46
 
 [Memo_CoD Determinants of Lifespan Inequality](https://blog.yanyuteng.cn/2024/06/16/6a255d2/)  by  Yuteng Yan  on  2024-06-15 16:00:00
 
@@ -995,6 +993,8 @@
 
 [【翻訳】HANABI-Mr.Children-歌詞](https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/)  by  Jasonkay  on  2024-06-06 14:04:52
 
+[用九个月的时间入行 OLAP 数据库开发——研二的学生时光总结](https://blog.fkynjyq.com/the-start-of-my-olap-journey)  by  FKYnJYQ  on  2024-06-06 08:34:07
+
 [对pjsk国服下版号的说](https://blog.yuxiangwang0525.com/archives/124/)  by  YuxiangWang_0525的博客  on  2024-06-06 08:01:49
 
 [Rust tips #1 ~ #20](https://colobu.com/2024/06/06/rust-tips-1-20/)  by  smallnest  on  2024-06-06 01:26:42
@@ -1266,8 +1266,6 @@
 [近期追番报告](https://www.himiku.com/archives/recent-bangumi-report.html)  by  初之音  on  2024-05-28 20:41:00
 
 [新昌倒脱靴、桐洲岛和获蒲村](https://www.skyue.com/24052820.html)  by  拾月  on  2024-05-28 20:27:00
-
-[Velas Weekly Issue 10](https://www.velasx.com/am/6192)  by  Zeee  on  2024-05-28 17:32:35
 
 [瓶颈与迷茫](https://innei.in/notes/172)  by  静かな森  on  2024-05-28 12:35:32
 
@@ -1861,8 +1859,6 @@
 
 [Python读取NetCDF文件-裁剪&计算](https://blog.cuger.cn/p/fbd/)  by  Dorad  on  2024-05-12 11:55:00
 
-[全款拿下一辆九号电动车【效率工具指南】](https://penghh.fun/2024/05/12/2024-5-12-ninebot/)  by  Angola Peng  on  2024-05-12 11:45:00
-
 [母亲节随想](https://www.buzhangjiuzhou.com/index.php/archives/132/)  by  步丈九州的博客  on  2024-05-12 11:29:00
 
 [程序员与他的康威定律](https://www.edony.ink/programmer-and-conways-law/)  by  Shadow Walker 松烟阁  on  2024-05-12 10:56:12
@@ -1984,4 +1980,8 @@
 [Campbell Community Center 训练](https://leimao.github.io/life/Campbell-Community-Center-Track-Training-2024-05-09/)  by  Lei Mao  on  2024-05-09 07:00:00
 
 [Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)  by  素生  on  2024-05-09 05:38:27
+
+[Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
+
+[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
 
