@@ -43,6 +43,5 @@ jobs:
             git status
             git commit -m "update rss commit"
             git status
-            git show-ref
-            git push origin main --force
+            git push origin main
 
