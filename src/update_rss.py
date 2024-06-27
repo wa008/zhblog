@@ -67,7 +67,7 @@ for url in urls:
         print ("except", url)
     print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt \
         * 100.0 / all_cnt))
-    if all_cnt >= 2:
+    if all_cnt >= 2000:
         break
 
 contents = sorted(contents, key = lambda x: x[0], reverse = True)[: 1000]
