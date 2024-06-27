@@ -33,12 +33,13 @@ jobs:
   
       - name: Commit report
         run: |
-            git config --global user.name 'wa009'
+            git config --global user.name 'wa008'
             git config --global user.email 'hzp1024@qq.com'
             git status
             git add ./README.md
             git status
             git commit -m "update rss commit"
             git status
-            git push origin main
+            git show-ref
+            git push -u origin main
 
