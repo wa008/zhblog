@@ -81,6 +81,6 @@ output.write("# 中文独立博客\n")
 output = open(output_file, "a")
 for content in contents:
     day, title, link, auther = content
-    output.write("[{title}]({link}) by {auther} on {day}\n\n".format(title \
+    output.write("[{title}]({link})  by  {auther}  on  {day}\n\n".format(title \
         = title, day = day, link = link, auther = auther))
 
