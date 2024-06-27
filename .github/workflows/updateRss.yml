@@ -37,7 +37,7 @@ jobs:
         run: |
           git config --global user.name 'wa008'
           git config --global user.email 'hzp1024@qq.com'
-          git remote set-url origin git@github.com:wa008/zhblog.git
+          git remote set-url origin https://wa008:${{ secrets.DEBIAN_REPO_TOKEN }}@github.com/wa008/zhblog.git
           git checkout -b main
           git branch
           git add ./README.md
