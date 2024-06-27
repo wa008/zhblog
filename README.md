@@ -27,8 +27,6 @@
 
 [收到带限定文件夹的Switch版《星之梦》了。文件夹的图案是真的美！这版《星之梦》全名叫做《plan...](https://www.wikimoe.com/post/rfxdnmhq)  by  维基萌  on  2024-06-27 08:42:27
 
-[一种在 Electron 和 Web 环境下显示原生及自定义菜单的通用方法](https://innei.in/posts/tech/a-universal-method-about-show-electron-native-and-web-custom-menus)  by  静かな森  on  2024-06-27 07:00:43
-
 [2024 年湾区有意思的节庆](https://leimao.github.io/essay/2024%E5%B9%B4%E6%B9%BE%E5%8C%BA%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%8A%82%E5%BA%86/)  by  Lei Mao  on  2024-06-27 07:00:00
 
 [今天去松户办点事，突然想起来这里是「happy sugar life」的圣地！😇](https://www.wikimoe.com/post/4a0egwid)  by  维基萌  on  2024-06-27 05:45:55
@@ -1984,4 +1982,6 @@
 [0509 - Al Brooks 的机缘](https://atjason.com/daily/2024-05-09.html)  by  Jason  on  2024-05-09 14:00:00
 
 [2023 年终总结 | 要让生活「自洽」](https://muyun.work/2023-summary.html)  by  Muyun99 的杂谈  on  2024-05-09 11:08:00
+
+[Campbell Community Center 训练](https://leimao.github.io/life/Campbell-Community-Center-Track-Training-2024-05-09/)  by  Lei Mao  on  2024-05-09 07:00:00
 
