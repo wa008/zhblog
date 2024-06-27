@@ -21,7 +21,7 @@ jobs:
 
     - name: install packages
       run: "pip install --upgrade pip && pip install -r ./requirements.txt"
-		
+
     - name: Update rss
       run: |
         cd ./src
