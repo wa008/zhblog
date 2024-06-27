@@ -60,6 +60,7 @@ for url in urls:
 '''
 
 for url in urls:
+    print ("url: ", url)
     all_cnt += 1
     try:
         try:
@@ -70,7 +71,7 @@ for url in urls:
             contents += content
     except:
         skip_cnt += 1
-        print ("except", url)
+        print ("except")
     print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt \
         * 100.0 / all_cnt))
     if all_cnt >= 2000:
