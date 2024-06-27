@@ -42,4 +42,5 @@ jobs:
           git branch
           git add ./README.md
           git commit -m "update rss commit"
+          git push origin main
 
