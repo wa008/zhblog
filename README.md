@@ -47,8 +47,6 @@
 
 [Weekly #6：出发，去（回）杭州！](https://skywt.cn/blog/weekly-6/)  by  SkyWT  on  2024-06-26 19:00:00
 
-[我的第一台 NAS 都有些什么](https://blog.fkynjyq.com/what-are-on-my-first-nas)  by  FKYnJYQ  on  2024-06-26 18:27:24
-
 [文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)  by  Jun Xie  on  2024-06-26 14:19:17
 
 [好家伙，我可不记得在这网站上注册过账号，就这样赤裸裸的以我的名义照搬我的项目？](https://www.wikimoe.com/post/q1xslsh3)  by  维基萌  on  2024-06-26 13:10:08
@@ -478,8 +476,6 @@
 [文献阅读（十二）](http://www.seis-jun.xyz/paper-reading-12)  by  Jun Xie  on  2024-06-20 00:09:35
 
 [奇趣周刊 - 第 55 期](https://zishu.me/blog/weekly-55.html/)  by  子舒的博客  on  2024-06-20 00:00:00
-
-[《龙崖》百科和攻略](https://cirry.cn/blog/games/dragon-cliff/)  by  Cirry's Blog  on  2024-06-20 00:00:00
 
 [盈立新加坡出金OCBC实测](https://innomad.io/usmart-sg-ocbc)  by  Innomad 一挪迈  on  2024-06-20 00:00:00
 
@@ -993,8 +989,6 @@
 
 [【翻訳】HANABI-Mr.Children-歌詞](https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/)  by  Jasonkay  on  2024-06-06 14:04:52
 
-[用九个月的时间入行 OLAP 数据库开发——研二的学生时光总结](https://blog.fkynjyq.com/the-start-of-my-olap-journey)  by  FKYnJYQ  on  2024-06-06 08:34:07
-
 [对pjsk国服下版号的说](https://blog.yuxiangwang0525.com/archives/124/)  by  YuxiangWang_0525的博客  on  2024-06-06 08:01:49
 
 [Rust tips #1 ~ #20](https://colobu.com/2024/06/06/rust-tips-1-20/)  by  smallnest  on  2024-06-06 01:26:42
@@ -1289,8 +1283,6 @@
 
 [悉尼搬家经验总结](https://www.bobjiang.com/sydney/move-home/)  by  Bob Jiang 敏捷开发培训 敏捷认证Scrum Master  on  2024-05-28 00:00:00
 
-[vivo手机OriginOS4关闭5g功能](https://cirry.cn/blog/life/essay/vivo-originos4-open-5g/)  by  Cirry's Blog  on  2024-05-28 00:00:00
-
 [书店多去，san 值多加](https://path2exile.com/posts/bookstore/)  by  p2e  on  2024-05-28 00:00:00
 
 [使用Ruby-build 在 MacOS上 编译 Portable ruby](https://mark24code.github.io/ruby/2024/05/27/%E4%BD%BF%E7%94%A8Ruby-build-%E5%9C%A8-MacOS%E4%B8%8A-%E7%BC%96%E8%AF%91-Portable-ruby.html)  by  Mark24  on  2024-05-27 19:31:01
@@ -1360,8 +1352,6 @@
 [å®è·µè®º](https://blog.wohin.me/morning/shi-jian-lun/)  by  Fernweh  on  2024-05-26 00:00:00
 
 [çç¾è®º](https://blog.wohin.me/morning/mao-dun-lun/)  by  Fernweh  on  2024-05-26 00:00:00
-
-[拳皇漫画观看顺序](https://cirry.cn/blog/life/essay/koxmoe/)  by  Cirry's Blog  on  2024-05-26 00:00:00
 
 [多媒體檔案管理和下載伺服器 - 軟體篇](https://xnum.github.io/2024/05/media-storage-server)  by  Jia Jun Yeh  on  2024-05-26 00:00:00
 
@@ -1563,8 +1553,6 @@
 
 [奇趣周刊 - 第 52 期](https://zishu.me/blog/weekly-52.html/)  by  子舒的博客  on  2024-05-23 00:00:00
 
-[这几年的折腾经历](https://cirry.cn/blog/life/essay/use-app/)  by  Cirry's Blog  on  2024-05-23 00:00:00
-
 [在Linux上面安裝glances並設定為系統服務](https://xnum.github.io/2024/05/install-glances)  by  Jia Jun Yeh  on  2024-05-23 00:00:00
 
 [戴尔 PowerEdge R730XD 折腾日志](https://www.himiku.com/archives/dell-poweredge-r730xd.html)  by  初之音  on  2024-05-22 22:15:00
@@ -1731,8 +1719,6 @@
 
 [ç¬ç«å¼ååç°å¨åï¼ç¬¬133æï¼ : å¯ä¸é¡¹ç®10ä¸ªæèµäº10ä¸ç¾å](https://www.ezindie.com/weekly/issue-133)  by  è®©å°äº§åçç¬ç«åç°æ´ç®å - ezindie.com  on  2024-05-17 00:00:00
 
-[关于原码、反码、补码的个人理解](https://cirry.cn/blog/code/c/number-encoding/)  by  Cirry's Blog  on  2024-05-17 00:00:00
-
 [溝通](https://blog.othree.net/log/2024/05/16/communication/)  by  O3noBLOG  on  2024-05-16 20:19:02
 
 [五一常州行](https://www.skyue.com/24051620.html)  by  拾月  on  2024-05-16 20:06:00
@@ -1840,8 +1826,6 @@
 [哪吒面板终极进化之VPS橱窗](https://www.bmqy.net/2665.html)  by  北门清燕  on  2024-05-13 03:16:00
 
 [Tabby的Web前端与Gateway网关部署](https://blog.thatcoder.cn/tabby-web-gateway/)  by  钟意  on  2024-05-13 02:00:00
-
-[群晖设置https反代](https://cirry.cn/blog/life/essay/synology-set-https/)  by  Cirry's Blog  on  2024-05-13 00:00:00
 
 [瞎逼逼：谈谈容器日志采集](https://www.codesky.me/archives/log-agent.wind)  by  CodeSky 代码之空  on  2024-05-12 21:29:00
 
@@ -1984,4 +1968,20 @@
 [Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)  by  素生  on  2024-05-09 05:38:27
 
 [Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
+
+[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
+
+[mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
+
+[在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  on  2024-05-09 00:00:00
+
+[My journey with Vim](https://yuexun.me/my-journey-with-vim)  by  Yuexun's Blog  on  2024-05-09 00:00:00
+
+[Android｜修复阿里云播放器下载不回调的问题](https://mazhuang.org/2024/05/09/fix-aliyun-player-downloader-callback)  by  Zhuang Ma  on  2024-05-09 00:00:00
+
+[奇趣周刊 - 第 51 期](https://zishu.me/blog/weekly-51.html/)  by  子舒的博客  on  2024-05-09 00:00:00
+
+[用纯CSS3实现的滑动按钮](https://f2h2h1.github.io/article/用纯CSS3实现的滑动按钮.html)  by  f2h2h1's blog  on  2024-05-08 18:34:39
+
+[看見不同的學習風景](https://blog.othree.net/log/2024/05/08/see-different/)  by  O3noBLOG  on  2024-05-08 17:06:12
 
