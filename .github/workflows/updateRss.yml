@@ -16,8 +16,8 @@ jobs:
       - name: checkout actions
         run: bash echo "1"
 
-      - name: Set up Python 3.9
       - uses: actions/setup-python@v2
+      - name: Set up Python 3.9
         with:
           python-version: 3.9
   
