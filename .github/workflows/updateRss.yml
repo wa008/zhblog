@@ -34,17 +34,7 @@ jobs:
       - name: Commit report
         env:
             GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run:
-            git config --global user.name 'wa008'
-            git config --global user.email 'hzp1024@qq.com'
-            git remote set-url origin git@github.com:wa008/zhblog.git
-            git branch
-            echo "hzp chechout branch"
-            git checkout -b main
-            git status
-            git add ./README.md
-            git status
-            git commit -m "update rss commit"
-            git status
-            git push origin main
+        run: |
+          git config --global user.name 'wa008'
+          git branch
 
