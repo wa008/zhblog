@@ -33,7 +33,7 @@ jobs:
   
       - name: Commit report
         run: |
-            git config --global user.name 'wa008'
+            git config --global user.name 'wa007'
             git config --global user.email 'hzp1024@qq.com'
             git status
             git add ./README.md
