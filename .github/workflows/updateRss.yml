@@ -1,12 +1,13 @@
 name: updateRss
 
 on:
-  # push:
   schedule:
     - cron: '5 * * * *'
 
 jobs:
   build:
+    # comment
     name: "add hackNews"
+    # comment
     runs-on: ubuntu-latest
 
