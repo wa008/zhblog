@@ -1,10 +1,9 @@
 name: updateRss
-
 on:
   push:
   schedule:
   # Temporarily closed
-    - cron: '5 * * * *'
+  - cron: '5 * * * *'
 
 jobs:
   build:
