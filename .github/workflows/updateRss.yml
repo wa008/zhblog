@@ -31,20 +31,11 @@ jobs:
           cd ./src
           python ./update_rss.py
 
-      - name: set key
-        env:
-            SSH_AUTH_SOCK: /tmp/ssh_agent.sock
-        run: |
-            mkdir -p ~/.ssh
-            ssh-keyscan github.com >> ~/.ssh/known_hosts
-            ssh-agent -a $SSH_AUTH_SOCK > /dev/null
-            ssh-add - <<< "${{ secrets.SSH_PRIVATE_KEY }}"
-
       - name: Commit report
         run:
             git config --global user.name 'wa008'
             git config --global user.email 'hzp1024@qq.com'
-            git remote set-url origin git@github.com:wa008/zhblog.git
+            git remote set-url origin https://wa008:${{ secrets.DEBIAN_REPO_TOKEN }}@github.com/wa008/zhblog.git
             git branch
             echo "hzp chechout branch"
             git checkout -b main
