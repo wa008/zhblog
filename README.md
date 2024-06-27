@@ -29,8 +29,6 @@
 
 [收到带限定文件夹的Switch版《星之梦》了。文件夹的图案是真的美！这版《星之梦》全名叫做《plan...](https://www.wikimoe.com/post/rfxdnmhq)  by  维基萌  on  2024-06-27 08:42:27
 
-[一种在 Electron 和 Web 环境下显示原生及自定义菜单的通用方法](https://innei.in/posts/tech/a-universal-method-about-show-electron-native-and-web-custom-menus)  by  静かな森  on  2024-06-27 07:00:43
-
 [2024 年湾区有意思的节庆](https://leimao.github.io/essay/2024%E5%B9%B4%E6%B9%BE%E5%8C%BA%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%8A%82%E5%BA%86/)  by  Lei Mao  on  2024-06-27 07:00:00
 
 [今天去松户办点事，突然想起来这里是「happy sugar life」的圣地！😇](https://www.wikimoe.com/post/4a0egwid)  by  维基萌  on  2024-06-27 05:45:55
@@ -50,6 +48,8 @@
 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/)  by  子舒的博客  on  2024-06-27 00:00:00
 
 [Weekly #6：出发，去（回）杭州！](https://skywt.cn/blog/weekly-6/)  by  SkyWT  on  2024-06-26 19:00:00
+
+[我的第一台 NAS 都有些什么](https://blog.fkynjyq.com/what-are-on-my-first-nas)  by  FKYnJYQ  on  2024-06-26 18:27:24
 
 [文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)  by  Jun Xie  on  2024-06-26 14:19:17
 
@@ -74,8 +74,6 @@
 [openSUSE.Asia å³°ä¼ 2025ï¼å¾éä¸»åæ¹](/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/06/25/opensuse.asia.html)  by  openSUSE ä¸­æç¤¾åº  on  2024-06-25 19:40:00
 
 [Leap Micro 6.0 ç°å·²æ­£å¼åå¸ï¼Leap Micro 5.4 å·²ç»æ­¢çå½å¨æã](/%E6%9B%B4%E6%96%B0%E9%80%9A%E5%91%8A/2024/06/25/leap-micro.html)  by  openSUSE ä¸­æç¤¾åº  on  2024-06-25 19:40:00
-
-[Linuxåºç¡](https://www.anjhon.top/Linux-base)  by  Anjhon  on  2024-06-25 16:00:00
 
 [免费搭建 Docker 镜像存储库解决拉取问题](https://dusays.com/721/)  by  Teacher Du  on  2024-06-25 16:00:00
 
@@ -667,6 +665,8 @@
 
 [文献阅读（三）](http://www.seis-jun.xyz/paper-reading-3)  by  Jun Xie  on  2024-06-15 10:37:59
 
+[在基于 arm 架构的服务器上安装 PVE](https://lxnchan.cn/arm-pve.html)  by  泠泫凝  on  2024-06-15 08:24:00
+
 [湾区汽车轮胎频繁被钉子扎](https://leimao.github.io/essay/%E6%B9%BE%E5%8C%BA%E6%B1%BD%E8%BD%A6%E8%BD%AE%E8%83%8E%E9%A2%91%E7%B9%81%E8%A2%AB%E9%92%89%E5%AD%90%E6%89%8E/)  by  Lei Mao  on  2024-06-15 07:00:00
 
 [Nginx if 避坑指南](https://taoshu.in/nginx/if-is-evil.html)  by  涛叔  on  2024-06-15 00:00:00
@@ -995,6 +995,8 @@
 
 [【翻訳】HANABI-Mr.Children-歌詞](https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/)  by  Jasonkay  on  2024-06-06 14:04:52
 
+[用九个月的时间入行 OLAP 数据库开发——研二的学生时光总结](https://blog.fkynjyq.com/the-start-of-my-olap-journey)  by  FKYnJYQ  on  2024-06-06 08:34:07
+
 [对pjsk国服下版号的说](https://blog.yuxiangwang0525.com/archives/124/)  by  YuxiangWang_0525的博客  on  2024-06-06 08:01:49
 
 [Rust tips #1 ~ #20](https://colobu.com/2024/06/06/rust-tips-1-20/)  by  smallnest  on  2024-06-06 01:26:42
@@ -1021,8 +1023,6 @@
 
 [📢 福强AI学堂关停并转啦！](http://afoo.me/posts/2024-06-06-ai-down-and-move-along.html)  by  王福强的个人博客：一个架构士的思考与沉淀  on  2024-06-05 16:00:00
 
-[SQLåºç¡](https://www.anjhon.top/sql-base)  by  Anjhon  on  2024-06-05 16:00:00
-
 [20240605](http://61.life/2024/0605)  by  61’s life  on  2024-06-05 15:49:11
 
 [关我辟事 Vol.18：新大陆](https://blog.douchi.space/spark-joy-digest-2024-5b/)  by  椒盐豆豉  on  2024-06-05 08:13:00
@@ -1036,8 +1036,6 @@
 [通过无服务环境搭建属于自己的EPG服务](https://www.fanmingming.com/article/EPG-Service-with-Cloudflare-Worker.html)  by  范明明  on  2024-06-04 22:24:22
 
 [纳武利尤单抗+伊匹木单抗：晚期肝癌一线治疗的新选择 #ASCO24](http://whyes.org/2024/checkmate-9dw-nivolumab-ipilimumab-hcc)  by  whyes 的博客  on  2024-06-04 16:08:21
-
-[0601-0607](https://www.anjhon.top/newsletter-0601-0607)  by  Anjhon  on  2024-06-04 16:00:00
 
 [Potainer 容器管理器的安装与使用](https://dusays.com/714/)  by  Teacher Du  on  2024-06-04 16:00:00
 
@@ -1060,8 +1058,6 @@
 [Redka - 父亲是Redis，母亲是SQLite](https://colobu.com/2024/06/04/redka-redis-with-sqlite/)  by  smallnest  on  2024-06-03 23:28:39
 
 [准备抄底房地产](https://xingbianren.cn/post/224.html)  by  刑辩人在路上  on  2024-06-03 18:34:46
-
-[æçãäººçä¸å¹´ã](https://www.anjhon.top/my-seven-up)  by  Anjhon  on  2024-06-03 16:00:00
 
 [Memo_冰心游记](https://blog.yanyuteng.cn/2024/06/04/ece907af/)  by  Yuteng Yan  on  2024-06-03 16:00:00
 
@@ -1537,8 +1533,6 @@
 
 [「歌手2024」我又回来了](https://imzh.me/posts/back_to_singer2024/)  by  时光旅行者 on 小豪的博客天空  on  2024-05-23 17:57:40
 
-[è®°ç¬¬ä¸æ¬¡æ¨èå¼åå®è·µéå°çé®é¢](https://www.anjhon.top/machine-learning-recommender-problem-recode)  by  Anjhon  on  2024-05-23 16:00:00
-
 [iStoreOS 路由系统介绍与安装](https://dusays.com/710/)  by  Teacher Du  on  2024-05-23 16:00:00
 
 [正在加速崩塌的是「中文」，不是互联网](https://blog.est.im/2024/stderr-09)  by  est の 输入输出  on  2024-05-23 15:16:00
@@ -1592,6 +1586,8 @@
 [四十不惑？扯淡呢！Never, ever, never!](http://afoo.me/posts/2024-05-22-crystal-clear-40.html)  by  王福强的个人博客：一个架构士的思考与沉淀  on  2024-05-21 16:00:00
 
 [vue2 åçº§vue3æ¥éé®é¢æ´ç](/posts/2024/05/upgrade-vue3/)  by  æ¶é´çæå  on  2024-05-21 15:15:41
+
+[自制 EVE-NG 镜像](https://lxnchan.cn/eve-ng-makes-images-your-self.html)  by  泠泫凝  on  2024-05-21 14:54:00
 
 [0521 - 学习 Al Brooks](https://atjason.com/daily/2024-05-21.html)  by  Jason  on  2024-05-21 14:00:00
 
@@ -1984,4 +1980,8 @@
 [Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)  by  素生  on  2024-05-09 05:38:27
 
 [Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
+
+[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
+
+[mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
 
