@@ -79,8 +79,7 @@ output.write("# 中文独立博客\n")
 output = open(output_file, "a")
 for content in contents:
     day, title, link, auther = content
-    if len(title) > 0 and len(link) > 3:
-        title = title.replace(">", "/>")
+    if len(title) > 0 and len(link) > 3 and "<![" not in title:
         output.write("[{title}]({link})  by  {auther}  on  {day}\n\n".format(title \
             = title, day = day, link = link, auther = auther))
 
