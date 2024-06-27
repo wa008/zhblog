@@ -36,6 +36,6 @@ jobs:
             git config --global user.name 'wa009'
             git config --global user.email 'hzp1024@qq.com'
             git add ./README.md
-            git commit -am "update rss commit"
+            git commit -m "update rss commit"
             git push origin main
 
