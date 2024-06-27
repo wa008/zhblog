@@ -11,6 +11,8 @@
 
 [字节跳动和TikTok内推](https://wsgzao.github.io/post/tiktok-referral/)  by  wsgzao  on  2025-03-12 04:12:12
 
+[Caddy 简单配置允许跨域的反向代理](https://paugram.com/coding/caddy-simple-proxy-with-cors.html)  by  保罗的小宇宙  on  2024-06-27 21:08:00
+
 [å¨ Flutter ä¸­éé 1Password ç»å½](https://oldj.net/article/2024/06/27/flutter-and-1password/)  by  oldj's blog  on  2024-06-27 14:34:00
 
 [ä¹å°åè¾¾ç«å±±é¶æ²³ä¹æ](https://blog.7wate.com/archives/wu-lan-ha-da-huo-shan-yin-he-zhi-lu)  by  åé³èç  on  2024-06-27 12:20:57
@@ -529,10 +531,6 @@
 
 [如何在HEXO中加入网络视频（以bilibili视频为例）](http://www.seis-jun.xyz/add-video)  by  Jun Xie  on  2024-06-18 11:56:47
 
-[我用AI开发了一个提取公众号封面图的浏览器插件【效率工具指南】](https://penghh.fun/2024/06/18/2024-6-22-extract_wemdia_cover/)  by  Angola Peng  on  2024-06-18 11:45:00
-
-[我们都是困在时间里的人【效率工具指南】](https://penghh.fun/2024/06/18/2024-6-18-trap_in_time/)  by  Angola Peng  on  2024-06-18 11:45:00
-
 [残余应力](https://coffeelize.top/posts/Residual-stresses.html)  by  coffeelize  on  2024-06-18 10:17:13
 
 [为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)  by  北门清燕  on  2024-06-18 10:06:00
@@ -660,8 +658,6 @@
 [第一次刷酸体验](https://pinlyu.com/posts/87/)  by  班班  on  2024-06-15 13:00:00
 
 [文献阅读（三）](http://www.seis-jun.xyz/paper-reading-3)  by  Jun Xie  on  2024-06-15 10:37:59
-
-[在基于 arm 架构的服务器上安装 PVE](https://lxnchan.cn/arm-pve.html)  by  泠泫凝  on  2024-06-15 08:24:00
 
 [湾区汽车轮胎频繁被钉子扎](https://leimao.github.io/essay/%E6%B9%BE%E5%8C%BA%E6%B1%BD%E8%BD%A6%E8%BD%AE%E8%83%8E%E9%A2%91%E7%B9%81%E8%A2%AB%E9%92%89%E5%AD%90%E6%89%8E/)  by  Lei Mao  on  2024-06-15 07:00:00
 
@@ -1591,8 +1587,6 @@
 
 [vue2 åçº§vue3æ¥éé®é¢æ´ç](/posts/2024/05/upgrade-vue3/)  by  æ¶é´çæå  on  2024-05-21 15:15:41
 
-[自制 EVE-NG 镜像](https://lxnchan.cn/eve-ng-makes-images-your-self.html)  by  泠泫凝  on  2024-05-21 14:54:00
-
 [0521 - 学习 Al Brooks](https://atjason.com/daily/2024-05-21.html)  by  Jason  on  2024-05-21 14:00:00
 
 [周报 2024-05-12](https://blog.rxliuli.com/p/bad908e3481c4981a4da32a44275c4b4/)  by  rxliuli  on  2024-05-21 13:34:26
@@ -1859,8 +1853,6 @@
 
 [Python读取NetCDF文件-裁剪&计算](https://blog.cuger.cn/p/fbd/)  by  Dorad  on  2024-05-12 11:55:00
 
-[全款拿下一辆九号电动车【效率工具指南】](https://penghh.fun/2024/05/12/2024-5-12-ninebot/)  by  Angola Peng  on  2024-05-12 11:45:00
-
 [母亲节随想](https://www.buzhangjiuzhou.com/index.php/archives/132/)  by  步丈九州的博客  on  2024-05-12 11:29:00
 
 [程序员与他的康威定律](https://www.edony.ink/programmer-and-conways-law/)  by  Shadow Walker 松烟阁  on  2024-05-12 10:56:12
@@ -1984,4 +1976,12 @@
 [Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)  by  素生  on  2024-05-09 05:38:27
 
 [Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
+
+[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
+
+[mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
+
+[在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  on  2024-05-09 00:00:00
+
+[My journey with Vim](https://yuexun.me/my-journey-with-vim)  by  Yuexun's Blog  on  2024-05-09 00:00:00
 
