@@ -11,6 +11,8 @@
 
 [字节跳动和TikTok内推](https://wsgzao.github.io/post/tiktok-referral/)  by  wsgzao  on  2025-03-12 04:12:12
 
+[ç¬ç«å¼ååç°å¨åï¼ç¬¬139æï¼ : å¹´æ¶å¥960ä¸ç¾åçç¿»é¡µä¹¦å¶ä½å·¥å·](https://www.ezindie.com/weekly/issue-139)  by  è®©å°äº§åçç¬ç«åç°æ´ç®å - ezindie.com  on  2024-06-28 00:00:00
+
 [Caddy 简单配置允许跨域的反向代理](https://paugram.com/coding/caddy-simple-proxy-with-cors.html)  by  保罗的小宇宙  on  2024-06-27 21:08:00
 
 [å¨ Flutter ä¸­éé 1Password ç»å½](https://oldj.net/article/2024/06/27/flutter-and-1password/)  by  oldj's blog  on  2024-06-27 14:34:00
@@ -1982,6 +1984,4 @@
 [mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
 
 [在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  on  2024-05-09 00:00:00
-
-[My journey with Vim](https://yuexun.me/my-journey-with-vim)  by  Yuexun's Blog  on  2024-05-09 00:00:00
 
