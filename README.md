@@ -665,6 +665,8 @@
 
 [文献阅读（三）](http://www.seis-jun.xyz/paper-reading-3)  by  Jun Xie  on  2024-06-15 10:37:59
 
+[在基于 arm 架构的服务器上安装 PVE](https://lxnchan.cn/arm-pve.html)  by  泠泫凝  on  2024-06-15 08:24:00
+
 [湾区汽车轮胎频繁被钉子扎](https://leimao.github.io/essay/%E6%B9%BE%E5%8C%BA%E6%B1%BD%E8%BD%A6%E8%BD%AE%E8%83%8E%E9%A2%91%E7%B9%81%E8%A2%AB%E9%92%89%E5%AD%90%E6%89%8E/)  by  Lei Mao  on  2024-06-15 07:00:00
 
 [Nginx if 避坑指南](https://taoshu.in/nginx/if-is-evil.html)  by  涛叔  on  2024-06-15 00:00:00
@@ -1591,6 +1593,8 @@
 
 [vue2 åçº§vue3æ¥éé®é¢æ´ç](/posts/2024/05/upgrade-vue3/)  by  æ¶é´çæå  on  2024-05-21 15:15:41
 
+[自制 EVE-NG 镜像](https://lxnchan.cn/eve-ng-makes-images-your-self.html)  by  泠泫凝  on  2024-05-21 14:54:00
+
 [0521 - 学习 Al Brooks](https://atjason.com/daily/2024-05-21.html)  by  Jason  on  2024-05-21 14:00:00
 
 [周报 2024-05-12](https://blog.rxliuli.com/p/bad908e3481c4981a4da32a44275c4b4/)  by  rxliuli  on  2024-05-21 13:34:26
@@ -1980,8 +1984,4 @@
 [Campbell Community Center 训练](https://leimao.github.io/life/Campbell-Community-Center-Track-Training-2024-05-09/)  by  Lei Mao  on  2024-05-09 07:00:00
 
 [Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)  by  素生  on  2024-05-09 05:38:27
-
-[Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
-
-[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
 
