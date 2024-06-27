@@ -10,27 +10,32 @@ import atoma
 # rss_url = "http://feeds.feedburner.com/ruanyifeng"
 
 def rss_get_content_from_url(rss_url):
-    response = get(rss_url)
+    response = get(rss_url, timeout = 3)
     rss = RSSParser.parse(response.text)
     auther = rss.channel.title.content
     result = []
+    index = 0
     for item in rss.channel.items:
         title = item.title.content
         link = item.link.content
         day = parser.parse(item.pub_date.content).strftime("%Y-%m-%d %H:%M:%S")
         result.append([day, title, link, auther])
+        index += 1
+        if index >= 100: break
     return result
 
 def atom_get_content_from_url(rss_url):
-    response = get(rss_url)
+    response = get(rss_url, timeout = 3)
     rss = atoma.parse_atom_bytes(response.content)
     auther = rss.authors[0].name
     result = []
+    index = 0
     for item in rss.entries:
         title = item.title.value
         link = item.id_
         day = item.published.strftime("%Y-%m-%d %H:%M:%S")
         result.append([day, title, link, auther])
+        if index >= 100: break
     return result
 
 # print (atom_get_content_from_url("https://blog.t9t.io/atom.xml"))
