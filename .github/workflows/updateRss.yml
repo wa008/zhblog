@@ -41,5 +41,5 @@ jobs:
             git commit -m "update rss commit"
             git status
             git show-ref
-            git push -u origin main --force
+            git push origin main --force
 
