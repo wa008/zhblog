@@ -35,6 +35,9 @@ jobs:
         run: |
             git config --global user.name 'wa008'
             git config --global user.email 'hzp1024@qq.com'
+            git branch
+            echo "hzp chechout branch"
+            git checkout -b main
             git status
             git add ./README.md
             git status
