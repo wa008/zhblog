@@ -1,0 +1,38 @@
+name: updateRss
+
+on:
+  push:
+  schedule:
+  # Temporarily closed
+  # - cron: '5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: checkout actions
+    - uses: actions/checkout@v1
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.9
+
+    - name: install packages
+      run: |
+        pip install -r requirements.txt
+		
+    - name: Update rss
+      run: |
+        cd ./src
+        python ./update_rss.py
+
+    - name: Commit report
+        run: |
+          git config --global user.name 'wa009'
+          git config --global user.email 'hzp1024@qq.com'
+          git add ./README.md
+          git commit -am "update rss commit"
+          git push origin main
+
