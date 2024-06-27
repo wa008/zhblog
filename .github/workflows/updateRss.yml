@@ -20,9 +20,7 @@ jobs:
         python-version: 3.9
 
     - name: install packages
-    - uses: 'install packages'
-      run: |
-        pip install -r requirements.txt
+      run: "pip install --upgrade pip && pip install -r ./requirements.txt"
 		
     - name: Update rss
       run: |
@@ -30,7 +28,7 @@ jobs:
         python ./update_rss.py
 
     - name: Commit report
-        run: |
+      run: |
           git config --global user.name 'wa009'
           git config --global user.email 'hzp1024@qq.com'
           git add ./README.md
