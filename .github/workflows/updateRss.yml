@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit report
         env:
-            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run:
             git config --global user.name 'wa008'
             git config --global user.email 'hzp1024@qq.com'
