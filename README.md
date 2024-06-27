@@ -37,9 +37,13 @@
 
 [一觉醒来发现照搬自己的仓库都无权访问了，个人页面也看不到项目了，但是star、fork、watch的...](https://www.wikimoe.com/post/u23a1ol8)  by  维基萌  on  2024-06-27 00:03:49
 
+[来简单聊聊 AI Gateway](https://hijiangtao.github.io/2024/06/27/AI-Gateway)  by  hijiangtao  on  2024-06-27 00:00:00
+
 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/)  by  子舒的博客  on  2024-06-27 00:00:00
 
 [Weekly #6：出发，去（回）杭州！](https://skywt.cn/blog/weekly-6/)  by  SkyWT  on  2024-06-26 19:00:00
+
+[我的第一台 NAS 都有些什么](https://blog.fkynjyq.com/what-are-on-my-first-nas)  by  FKYnJYQ  on  2024-06-26 18:27:24
 
 [文献阅读（十五）](http://www.seis-jun.xyz/paper-reading-15)  by  Jun Xie  on  2024-06-26 14:19:17
 
@@ -987,6 +991,8 @@
 
 [【翻訳】HANABI-Mr.Children-歌詞](https://jasonkayzk.github.io/2024/06/06/HANABI-Mr-Children-%E6%AD%8C%E8%A9%9E/)  by  Jasonkay  on  2024-06-06 14:04:52
 
+[用九个月的时间入行 OLAP 数据库开发——研二的学生时光总结](https://blog.fkynjyq.com/the-start-of-my-olap-journey)  by  FKYnJYQ  on  2024-06-06 08:34:07
+
 [对pjsk国服下版号的说](https://blog.yuxiangwang0525.com/archives/124/)  by  YuxiangWang_0525的博客  on  2024-06-06 08:01:49
 
 [Rust tips #1 ~ #20](https://colobu.com/2024/06/06/rust-tips-1-20/)  by  smallnest  on  2024-06-06 01:26:42
@@ -1238,8 +1244,6 @@
 [当代顶流，邓紫棋上海演唱会的九点观察](https://lmmsoft.github.io//G_E_M_I_am_gloria_concert)  by  lmm333  on  2024-05-29 04:00:00
 
 [大型迁移现场：腾讯云 to 阿里云大冒险](https://www.codesky.me/archives/tecent-cloud-to-aliyun.wind)  by  CodeSky 代码之空  on  2024-05-29 00:14:49
-
-[nap](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/nap/)  by  夜行人  on  2024-05-29 00:00:00
 
 [午觉](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/wujiao/)  by  夜行人  on  2024-05-29 00:00:00
 
@@ -1980,8 +1984,4 @@
 [Toots 2024 Apr.28 - May.4](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240504/)  by  素生  on  2024-05-09 05:38:27
 
 [Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
-
-[中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
-
-[mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
 
