@@ -11,8 +11,6 @@
 
 [字节跳动和TikTok内推](https://wsgzao.github.io/post/tiktok-referral/)  by  wsgzao  on  2025-03-12 04:12:12
 
-[å¨ Flutter ä¸­éé 1Password ç»å½](https://oldj.net/article/2024/06/27/flutter-and-1password/)  by  oldj's blog  on  2024-06-27 14:34:00
-
 [ä¹å°åè¾¾ç«å±±é¶æ²³ä¹æ](https://blog.7wate.com/archives/wu-lan-ha-da-huo-shan-yin-he-zhi-lu)  by  åé³èç  on  2024-06-27 12:20:57
 
 [游记｜淀山湖，上海周末露营度假好去处](https://blog.ops-coffee.cn/r/city-china-shanghai-dianshanhu)  by  运维咖啡吧  on  2024-06-27 11:44:44
@@ -527,6 +525,10 @@
 
 [如何在HEXO中加入网络视频（以bilibili视频为例）](http://www.seis-jun.xyz/add-video)  by  Jun Xie  on  2024-06-18 11:56:47
 
+[我用AI开发了一个提取公众号封面图的浏览器插件【效率工具指南】](https://penghh.fun/2024/06/18/2024-6-22-extract_wemdia_cover/)  by  Angola Peng  on  2024-06-18 11:45:00
+
+[我们都是困在时间里的人【效率工具指南】](https://penghh.fun/2024/06/18/2024-6-18-trap_in_time/)  by  Angola Peng  on  2024-06-18 11:45:00
+
 [残余应力](https://coffeelize.top/posts/Residual-stresses.html)  by  coffeelize  on  2024-06-18 10:17:13
 
 [为哪吒面板增加视频背景](https://www.bmqy.net/2671.html)  by  北门清燕  on  2024-06-18 10:06:00
@@ -876,6 +878,8 @@
 [2024-06-09 如何通过阿里云 OpenAPI 管理 CDN](https://blog.cmyr.ltd/archives/46e67068.html)  by  草梅友仁  on  2024-06-09 10:18:09
 
 [Quick comparisons of Viture Pro and Xreal Air 2 Pro](http://persumi.com/u/fredwu/gadgets/e/reviews/p/quick-comparisons-of-viture-pro-and-xreal-air-2-pro)  by  Fred Wu (@fredwu)  on  2024-06-09 10:08:39
+
+[curl遇到的坑](https://xingpingcn.top/curl-learning.html)  by  邢平cn  on  2024-06-09 09:21:09
 
 [不敢改变是我在焦虑什么](https://innei.in/notes/173)  by  静かな森  on  2024-06-09 05:15:17
 
@@ -1853,6 +1857,8 @@
 
 [Python读取NetCDF文件-裁剪&计算](https://blog.cuger.cn/p/fbd/)  by  Dorad  on  2024-05-12 11:55:00
 
+[全款拿下一辆九号电动车【效率工具指南】](https://penghh.fun/2024/05/12/2024-5-12-ninebot/)  by  Angola Peng  on  2024-05-12 11:45:00
+
 [母亲节随想](https://www.buzhangjiuzhou.com/index.php/archives/132/)  by  步丈九州的博客  on  2024-05-12 11:29:00
 
 [程序员与他的康威定律](https://www.edony.ink/programmer-and-conways-law/)  by  Shadow Walker 松烟阁  on  2024-05-12 10:56:12
@@ -1978,10 +1984,4 @@
 [Toots 2024 Apr.21 - Apr.27](http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240427/)  by  素生  on  2024-05-09 05:36:27
 
 [中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
-
-[mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
-
-[在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  on  2024-05-09 00:00:00
-
-[My journey with Vim](https://yuexun.me/my-journey-with-vim)  by  Yuexun's Blog  on  2024-05-09 00:00:00
 
