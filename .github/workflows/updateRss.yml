@@ -14,3 +14,4 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: checkout actions
+        run: bash echo "1"
