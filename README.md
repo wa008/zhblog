@@ -29,6 +29,8 @@
 
 [收到带限定文件夹的Switch版《星之梦》了。文件夹的图案是真的美！这版《星之梦》全名叫做《plan...](https://www.wikimoe.com/post/rfxdnmhq)  by  维基萌  on  2024-06-27 08:42:27
 
+[一种在 Electron 和 Web 环境下显示原生及自定义菜单的通用方法](https://innei.in/posts/tech/a-universal-method-about-show-electron-native-and-web-custom-menus)  by  静かな森  on  2024-06-27 07:00:43
+
 [2024 年湾区有意思的节庆](https://leimao.github.io/essay/2024%E5%B9%B4%E6%B9%BE%E5%8C%BA%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%8A%82%E5%BA%86/)  by  Lei Mao  on  2024-06-27 07:00:00
 
 [今天去松户办点事，突然想起来这里是「happy sugar life」的圣地！😇](https://www.wikimoe.com/post/4a0egwid)  by  维基萌  on  2024-06-27 05:45:55
@@ -664,8 +666,6 @@
 [第一次刷酸体验](https://pinlyu.com/posts/87/)  by  班班  on  2024-06-15 13:00:00
 
 [文献阅读（三）](http://www.seis-jun.xyz/paper-reading-3)  by  Jun Xie  on  2024-06-15 10:37:59
-
-[在基于 arm 架构的服务器上安装 PVE](https://lxnchan.cn/arm-pve.html)  by  泠泫凝  on  2024-06-15 08:24:00
 
 [湾区汽车轮胎频繁被钉子扎](https://leimao.github.io/essay/%E6%B9%BE%E5%8C%BA%E6%B1%BD%E8%BD%A6%E8%BD%AE%E8%83%8E%E9%A2%91%E7%B9%81%E8%A2%AB%E9%92%89%E5%AD%90%E6%89%8E/)  by  Lei Mao  on  2024-06-15 07:00:00
 
@@ -1587,8 +1587,6 @@
 
 [vue2 åçº§vue3æ¥éé®é¢æ´ç](/posts/2024/05/upgrade-vue3/)  by  æ¶é´çæå  on  2024-05-21 15:15:41
 
-[自制 EVE-NG 镜像](https://lxnchan.cn/eve-ng-makes-images-your-self.html)  by  泠泫凝  on  2024-05-21 14:54:00
-
 [0521 - 学习 Al Brooks](https://atjason.com/daily/2024-05-21.html)  by  Jason  on  2024-05-21 14:00:00
 
 [周报 2024-05-12](https://blog.rxliuli.com/p/bad908e3481c4981a4da32a44275c4b4/)  by  rxliuli  on  2024-05-21 13:34:26
@@ -1984,4 +1982,6 @@
 [中介园区合谋，物流工难日结｜工劳小报 #41](https://feed.laborinfocn6.com/issue41/)  by  工劳小报｜工劳快讯  on  2024-05-09 00:34:38
 
 [mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  on  2024-05-09 00:00:00
+
+[在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  on  2024-05-09 00:00:00
 
