@@ -9,6 +9,14 @@ import atoma
 
 # rss_url = "http://feeds.feedburner.com/ruanyifeng"
 
+def if_contain_symbol(keyword):
+    symbols = "~@#$^&\\ä»æçæ³å°ç"
+    for symbol in symbols:
+        if symbol in keyword:
+            return True
+    return False
+
+
 def rss_get_content_from_url(rss_url):
     response = get(rss_url, timeout = 3)
     rss = RSSParser.parse(response.text)
@@ -74,19 +82,20 @@ for url in urls:
         print ("except")
     print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt \
         * 100.0 / all_cnt))
-    if all_cnt >= 2000:
+    if all_cnt >= 2:
         break
 
 contents = sorted(contents, key = lambda x: x[0], reverse = True)[: 1000]
 
-output_file = "./../README.md"
+output_file = "./../index.md"
 output = open(output_file, "w")
 output.write("# 中文独立博客\n")
 
 output = open(output_file, "a")
 for content in contents:
     day, title, link, auther = content
-    if len(title) > 0 and len(link) > 3 and "<![" not in title:
+    if len(title) > 0 and len(link) > 3 and "<![" not in title and \
+    if_contain_symbol(title) == False:
         output.write("[{title}]({link})  by  {auther}  on  {day}\n\n".format(title \
             = title, day = day, link = link, auther = auther))
 
