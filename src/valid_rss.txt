@@ -1,1 +1,2 @@
 https://blog.t9t.io/atom.xml
+http://feeds.feedburner.com/ruanyifeng
