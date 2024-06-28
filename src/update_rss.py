@@ -63,7 +63,8 @@ def get_urls_from_independent_blogs():
 def get_urls_from_valid_blog():
     output_urls = []
     rss_urls = open('valid_rss.txt', 'r').read().split('\n')
-    rss_urls = random.shuffle(list(set(rss_urls)))
+    rss_urls = list(set(rss_urls))
+    random.shuffle(rss_urls)
     print ('2. get_urls_from_valid_blog begin input_len = ', len(rss_urls))
     index = 0
     domains = []
@@ -87,7 +88,8 @@ def get_urls_from_valid_blog():
                 pass
         index += 1
         print ('get_urls_from_valid_blog process:{:}/{:}={:.2f}, output = {:}'.format(index, len(rss_urls), index / len(rss_urls), len(output_urls)))
-    output_urls = random.shuffle(list(set(output_urls)))
+    output_urls = list(set(output_urls))
+    random.shuffle(output_urls)
     print ('2. get_urls_from_valid_blog done, output_len = {:}'.format(len(output_urls)))
     print ('-' * 50 + '\n\n')
     return output_urls
