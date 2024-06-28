@@ -6,6 +6,7 @@ import requests
 from dateutil import parser
 from datetime import datetime
 from urllib.parse import urlparse
+import random
 import re
 import atoma
 
@@ -183,7 +184,7 @@ if __name__ == "__main__":
         limit = 5
         output = './test'
     else:
-        limit = 2000
+        limit = 200
         output = "./../index.md"
     rss_urls = get_urls_from_independent_blogs()
     invite_urls = get_urls_from_valid_blog()
