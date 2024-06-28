@@ -81,7 +81,7 @@ def get_urls_from_valid_blog():
                 # print ('link_page', link_page)
                 res = requests.get(link_page, timeout = 3)
                 link_list = re.findall(r"(?<=href=\").+?(?=\")|(?<=href=\').+?(?=\')", res.text)
-                link_list = [x for x in link_list if main_page not in x and re.match('(.*)\w/\w(.*)', x) is None]
+                link_list = [x.strip('/') for x in link_list if main_page not in x and re.match('(.*)\w/\w(.*)', x) is None]
                 # print ('link_list', link_list)
                 output_urls += link_list
             except:
@@ -170,7 +170,7 @@ def write_output(contents, output_file):
     for content in contents:
         day, title, link, auther = content
         now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts:
+        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http'):
             today = day.split(" ")[0]
             if today != last_day:
                 output.write("\n### {}\n".format(today))
