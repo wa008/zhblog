@@ -52,15 +52,18 @@ def atom_get_content_from_url(rss_url):
     return result
 
 def get_urls_from_independent_blogs():
+    print ('1. get_urls_from_independent_blogs begin')
     datas = requests.get('https://raw.githubusercontent.com/timqian/chinese-independent-blogs/master/blogs-original.csv').text.split('\n')[1: ]
     urls = [x.split(",")[2].strip(' ') for x in datas if len(x.split(',')) >= 3]
+    print ('1. get_urls_from_independent_blogs done len = ', len(urls))
+    print ('-' * 50 + '\n\n')
     return urls
 
 def get_urls_from_valid_blog():
     output_urls = []
     rss_urls = open('valid_rss.txt', 'r').read().split('\n')
     rss_urls = list(set(rss_urls))
-    print ('get_urls_from_valid_blog begin', len(rss_urls))
+    print ('2. get_urls_from_valid_blog begin input_len = ', len(rss_urls))
     index = 0
     domains = []
     for url in rss_urls:
@@ -82,15 +85,17 @@ def get_urls_from_valid_blog():
             except:
                 pass
         index += 1
-        print ('get_urls_from_valid_blog', index, len(output_urls))
+        print ('get_urls_from_valid_blog process:{:}/{:}={:.2f}, output = {:}'.format(index, len(rss_urls), index / len(rss_urls), len(output_urls)))
     output_urls = list(set(output_urls))
+    print ('2. get_urls_from_valid_blog done, output_len = {:}'.format(len(output_urls)))
+    print ('-' * 50 + '\n\n')
     return output_urls
 
 def get_blogs_from_rss(rss_urls, limit = 2):
     contents = []
     all_cnt = 0
     skip_cnt = 0
-    print ('get_blogs_from_rss', len(rss_urls))
+    print ('3. get_blogs_from_rss begin input_len = ', len(rss_urls))
     for url in rss_urls:
         print ("url: ", url)
         all_cnt += 1
@@ -104,10 +109,12 @@ def get_blogs_from_rss(rss_urls, limit = 2):
         except:
             skip_cnt += 1
             print ("except")
-        print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt \
-            * 100.0 / all_cnt))
+        print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt * 100.0 / all_cnt))
+        print ("process: {:} / {:} = {:2f}%".format(all_cnt, len(rss_urls), all_cnt / len(rss_urls)))
         if all_cnt >= limit:
             break
+    print ('3. get_blogs_from_rss done, output_len = {:}'.format(len(contents)))
+    print ('-' * 50 + '\n\n')
     return contents
 
 def get_blogs_from_link_urls(link_urls, limit = 2):
@@ -116,32 +123,41 @@ def get_blogs_from_link_urls(link_urls, limit = 2):
     skip_cnt = 0
     
     rss_suffix = ['feed.xml', 'atom.xml', 'feed', 'index.xml', 'rss.xml', 'rss']
-    print ('get_blogs_from_link_url', len(link_urls))
+    print ('4. get_blogs_from_link_url input_len = ', len(link_urls))
     for url in link_urls:
-        print ("url: ", url, all_cnt)
+        print ("url: ", url)
+        all_cnt += 1
+        fail = 1
         for suf in rss_suffix:
             rss = url + '/' + suf
-            all_cnt += 1
             try:
                 try:
                     content = atom_get_content_from_url(url)
                     contents += content
+                    fail = 0
                 except:
                     content = rss_get_content_from_url(url)
                     contents += content
+                    fail = 0
                 break
             except:
-                skip_cnt += 1
-                print ("except")
-        print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt \
-            * 100.0 / all_cnt))
+                pass
+        if fail == 1:
+            print ('except')
+        skip_cnt += fail
+        print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt * 100.0 / all_cnt))
+        print ("process: {:} / {:} = {:2f}%".format(all_cnt, len(link_urls), all_cnt / len(link_urls)))
         if all_cnt >= limit:
             break
     # print ('link_urls content', contents)
+    print ('4. get_blogs_from_link_url done, output_len = {:}'.format(len(contents)))
+    print ('-' * 50 + '\n\n')
     return contents
 
 
 def write_output(contents, output_file):
+    print ('5. write_output input_len = ', len(contents))
+    index = 0
     contents = sorted(contents, key = lambda x: x[0], reverse = True)[: 1000]
     output = open(output_file, "w")
     output.write("# 中文独立博客\n")
@@ -158,17 +174,19 @@ def write_output(contents, output_file):
                 last_day = today
             output.write("[{title}]({link})  by  {auther}  at  {day}\n\n".format(title \
                 = title, day = day, link = link, auther = auther))
+    print ('5. write_output done')
+    print ('-' * 50 + '\n\n')
 
 if __name__ == "__main__":
     is_test = 1
     if is_test == 1:
-        limit = 20
+        limit = 5
         output = './test'
     else:
         limit = 100000
         output = "./../index.md"
     rss_urls = get_urls_from_independent_blogs()
     invite_urls = get_urls_from_valid_blog()
-    # open('valid_rss.txt', "w").write('')
+    open('valid_rss.txt', "w").write('')
     contents = get_blogs_from_rss(rss_urls, limit) + get_blogs_from_link_urls(invite_urls, limit)
     write_output(contents, output)
