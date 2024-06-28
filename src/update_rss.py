@@ -95,9 +95,9 @@ last_day = ""
 output = open(output_file, "a")
 for content in contents:
     day, title, link, auther = content
+    now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts:
         today = day.split(" ")[0]
-        now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         if today != last_day:
             output.write("\n### {}\n".format(today))
             last_day = today
