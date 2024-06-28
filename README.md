@@ -12,6 +12,8 @@
 + github pages
 + WordPress
 
+多半天时间肝了个通过友链扩展的逻辑，其他的日后再说。
+
 # 致谢
 + 中文独立博客：https://github.com/timqian/chinese-independent-blogs
 + 中文博客列表导航项目：https://zhblogs.ohyee.cc
