@@ -5,7 +5,7 @@ on:
   #   branches:
   #     - main
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   build:
@@ -41,6 +41,7 @@ jobs:
           git checkout -b main
           git branch
           git add ./index.md
+          git add ./src/valid_rss.txt
           git commit -m "github workflows auto update rss"
           git push origin main
 

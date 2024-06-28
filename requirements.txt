@@ -3,3 +3,4 @@ pip==24.1.1
 python-dateutil==2.9.0.post0
 requests==2.32.3
 rss-parser==2.0.0
+urllib3=2.2.2
