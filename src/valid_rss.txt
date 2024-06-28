@@ -14,7 +14,6 @@ https://blog.lilydjwg.me/posts.rss
 https://hundren.github.io/atom.xml
 https://toweave.github.io/rss.xml
 https://dumplingbao.github.io/atom.xml
-https://greatdk.com/feed
 https://jimmysong.io/index.xml
 http://chinese.catchen.me/feeds/posts/default
 https://lutaonan.com/rss.xml
@@ -39,7 +38,6 @@ http://weiwuhui.com/feed
 https://blog.yxwang.me/index.xml
 https://hufangyun.com/atom.xml
 https://jiongks.name/atom.xml
-http://www.fengtang.com/blog/?feed=rss2
 https://blog.devtang.com/atom.xml
 https://onevcat.com/feed.xml
 https://colobu.com/atom.xml
@@ -102,10 +100,4 @@ https://claude-ray.github.io/atom.xml
 https://lepture.com/feed.xml
 https://quail.ink/lyric/feed/atom
 https://iphyer.github.io/feed.xml
-http://wwj718.github.io/index.xml
-https://www.codesky.me/feed/atom/
-https://www.codesky.me/feed/atom/
-https://www.codesky.me/feed/atom/
-https://www.codesky.me/feed/atom/
-https://www.codesky.me/feed/atom/
-https://www.codesky.me/feed/atom/
+https://chinese.catchen.me/feeds/posts/default

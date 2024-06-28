@@ -3,8 +3,6 @@
 ### 2024-06-26
 [通过github actions部署aws lambda记录 - s3部署、ECR部署 以及固定出口IP](https://www.the5fire.com/aws_lambda_s3_ecr_github_actions.html)  by  the5fire  at  2024-06-26 09:22:03
 
-[从「文风测试」到「 OC 成分分析器」，AI产品的一波流也有春天](https://greatdk.com/1984.html)  by  王登科-DK博客  at  2024-06-26 01:13:02
-
 
 ### 2024-06-25
 [產品長的挑戰：如何選擇和驗證產品機會 Part I](https://mrpm.cc/?p=1669)  by  Mr. PM 下午先生  at  2024-06-25 06:06:18
@@ -53,8 +51,6 @@
 
 [Spline library for Snap!](http://wwj718.github.io/post/programming/snap-spline-en/)  by  夜行人  at  2024-06-14 00:00:00
 
-[Spline library for Snap!](http://wwj718.github.io/post/programming/snap-spline-en/)  by  夜行人  at  2024-06-14 00:00:00
-
 
 ### 2024-06-13
 [chromium/libcef.dll真是毒瘤](https://blog.est.im/2024/stderr-12)  by  est の 输入输出  at  2024-06-13 21:15:00
@@ -87,8 +83,6 @@
 
 [Snap! 中的 Spline 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-spline/)  by  夜行人  at  2024-06-10 00:00:00
 
-[Snap! 中的 Spline 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-spline/)  by  夜行人  at  2024-06-10 00:00:00
-
 
 ### 2024-06-09
 [伏弟魔](tag:blogger.com,1999:blog-8640548720142298079.post-4079300614189487342)  by  水星  at  2024-06-09 19:25:00
@@ -112,10 +106,6 @@
 
 ### 2024-06-03
 [Redka - 父亲是Redis，母亲是SQLite](https://colobu.com/2024/06/04/redka-redis-with-sqlite/)  by  smallnest  at  2024-06-03 23:28:39
-
-[iframe library for Snap!](http://wwj718.github.io/post/programming/snap-iframe-en/)  by  夜行人  at  2024-06-03 00:00:00
-
-[Snap! 中的 iframe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-iframe/)  by  夜行人  at  2024-06-03 00:00:00
 
 [iframe library for Snap!](http://wwj718.github.io/post/programming/snap-iframe-en/)  by  夜行人  at  2024-06-03 00:00:00
 
@@ -153,17 +143,11 @@
 
 [午觉](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/wujiao/)  by  夜行人  at  2024-05-29 00:00:00
 
-[午觉](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/wujiao/)  by  夜行人  at  2024-05-29 00:00:00
-
 
 ### 2024-05-28
 [一日一技：如何正确处理多行字符串的缩进问题](https://www.kingname.info/2024/05/28/indent-in-multiline-str/)  by  青南  at  2024-05-28 20:46:24
 
 [一日一技：为什么这个JSON无法解析？](https://www.kingname.info/2024/05/28/slash-in-json/)  by  青南  at  2024-05-28 20:46:11
-
-[Bringing GPT-4o to Snap!](http://wwj718.github.io/post/programming/snap-gpt-4o-en/)  by  夜行人  at  2024-05-28 00:00:00
-
-[Snap! 中的 GPT-4o](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-gpt-4o/)  by  夜行人  at  2024-05-28 00:00:00
 
 [Bringing GPT-4o to Snap!](http://wwj718.github.io/post/programming/snap-gpt-4o-en/)  by  夜行人  at  2024-05-28 00:00:00
 
@@ -183,8 +167,6 @@
 
 
 ### 2024-05-25
-[Snap! 中的硬件模拟器](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-simulate-iot/)  by  夜行人  at  2024-05-25 00:00:00
-
 [Snap! 中的硬件模拟器](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-simulate-iot/)  by  夜行人  at  2024-05-25 00:00:00
 
 
@@ -289,10 +271,6 @@
 
 [Snap! 中的 Python 解释器](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-python-interpreter/)  by  夜行人  at  2024-05-11 00:00:00
 
-[Python function for Snap!](http://wwj718.github.io/post/programming/snap-python-function-en/)  by  夜行人  at  2024-05-11 00:00:00
-
-[Snap! 中的 Python 解释器](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-python-interpreter/)  by  夜行人  at  2024-05-11 00:00:00
-
 
 ### 2024-05-10
 [sqlx: 扩展标准sql库](https://colobu.com/2024/05/10/sqlx-a-brief-introduction/)  by  smallnest  at  2024-05-10 14:08:45
@@ -310,10 +288,6 @@
 [在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  at  2024-05-09 00:00:00
 
 [My journey with Vim](https://yuexun.me/my-journey-with-vim)  by  Yuexun's Blog  at  2024-05-09 00:00:00
-
-[mediapipe in Snap!](http://wwj718.github.io/post/programming/snap-mediapipe-js-en/)  by  夜行人  at  2024-05-09 00:00:00
-
-[在 Snap! 中使用 mediapipe 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mediapipe-js/)  by  夜行人  at  2024-05-09 00:00:00
 
 
 ### 2024-05-08
@@ -367,8 +341,6 @@
 
 [调试 Snap! 程序](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/debug-snap-promgram/)  by  夜行人  at  2024-04-29 00:00:00
 
-[调试 Snap! 程序](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/debug-snap-promgram/)  by  夜行人  at  2024-04-29 00:00:00
-
 
 ### 2024-04-28
 [理解赚钱的不易](tag:blogger.com,1999:blog-8640548720142298079.post-4437450984988420824)  by  水星  at  2024-04-28 16:32:00
@@ -387,15 +359,11 @@
 
 [中国历代政治得失](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/merits-and-demerits-of-political-systems-in-dynastic-china/)  by  夜行人  at  2024-04-27 00:00:00
 
-[中国历代政治得失](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/merits-and-demerits-of-political-systems-in-dynastic-china/)  by  夜行人  at  2024-04-27 00:00:00
-
 
 ### 2024-04-26
 [0426 - 环境刺激](https://atjason.com/daily/2024-04-26.html)  by  Jason  at  2024-04-26 14:00:00
 
 [看呐 车展上的那对红男绿男](http://weiwuhui.com/10684.html)  by  扯氮集  at  2024-04-26 06:41:37
-
-[悉达多](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/siddhartha/)  by  夜行人  at  2024-04-26 00:00:00
 
 [悉达多](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/siddhartha/)  by  夜行人  at  2024-04-26 00:00:00
 
@@ -418,8 +386,6 @@
 
 ### 2024-04-22
 [在 Electron 中使用 SQLite 的最好方式](https://lutaonan.com/blog/electron-sqlite/)  by  Randy's Blog  at  2024-04-22 00:00:00
-
-[Snap! 中的嵌套精灵](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-nesting-sprites/)  by  夜行人  at  2024-04-22 00:00:00
 
 [Snap! 中的嵌套精灵](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-nesting-sprites/)  by  夜行人  at  2024-04-22 00:00:00
 
@@ -449,13 +415,9 @@
 
 [发布 Snap! 国内版本](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/deploy-local-version-of-snap/)  by  夜行人  at  2024-04-15 00:00:00
 
-[发布 Snap! 国内版本](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/deploy-local-version-of-snap/)  by  夜行人  at  2024-04-15 00:00:00
-
 
 ### 2024-04-14
 [Headscale下篇-自定义中转derper](https://nicksxs.me/2024/04/14/Headscale%E4%B8%8B%E7%AF%87-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%AD%E8%BD%ACderper/)  by  Nicksxs  at  2024-04-14 11:45:29
-
-[思考，快与慢](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/thinking-fast-and-slow/)  by  夜行人  at  2024-04-14 00:00:00
 
 [思考，快与慢](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/thinking-fast-and-slow/)  by  夜行人  at  2024-04-14 00:00:00
 
@@ -466,10 +428,6 @@
 
 ### 2024-04-12
 [一增遮百丑 不增百丑来](http://weiwuhui.com/10691.html)  by  扯氮集  at  2024-04-12 06:45:55
-
-[[译] 调试模式是唯一模式](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/debug-mode-is-only-mode/)  by  夜行人  at  2024-04-12 00:00:00
-
-[lively 学习笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/lively-note/)  by  夜行人  at  2024-04-12 00:00:00
 
 [[译] 调试模式是唯一模式](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/debug-mode-is-only-mode/)  by  夜行人  at  2024-04-12 00:00:00
 
@@ -487,15 +445,11 @@
 
 [使用 Squeak(Etoys) 模拟日食月食](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/simulate-eclipse/)  by  夜行人  at  2024-04-10 00:00:00
 
-[使用 Squeak(Etoys) 模拟日食月食](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/simulate-eclipse/)  by  夜行人  at  2024-04-10 00:00:00
-
 
 ### 2024-04-09
 [一日一技：在macOS上查看任意软件的调试信息](https://www.kingname.info/2024/04/09/mac-app-debug/)  by  青南  at  2024-04-09 21:12:11
 
 [玩转 stream API](https://ssshooter.com/stream-explanation/)  by  Usubeni Fantasy  at  2024-04-09 12:59:18
-
-[SqueakJS 学习笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeakjs-note/)  by  夜行人  at  2024-04-09 00:00:00
 
 [SqueakJS 学习笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeakjs-note/)  by  夜行人  at  2024-04-09 00:00:00
 
@@ -508,8 +462,6 @@
 [一日一技：setup.py里面的两个小技巧](https://www.kingname.info/2024/04/07/setup/)  by  青南  at  2024-04-07 21:05:48
 
 [Headscale渐入佳境-路由设置](https://nicksxs.me/2024/04/07/Headscale%E6%B8%90%E5%85%A5%E4%BD%B3%E5%A2%83-%E8%B7%AF%E7%94%B1%E8%AE%BE%E7%BD%AE/)  by  Nicksxs  at  2024-04-07 12:36:45
-
-[Squeak 学习笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeak-note/)  by  夜行人  at  2024-04-07 00:00:00
 
 [Squeak 学习笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeak-note/)  by  夜行人  at  2024-04-07 00:00:00
 
@@ -526,12 +478,6 @@
 [信息噪音时代的悲哀](https://blog.est.im/2024/stderr-07)  by  est の 输入输出  at  2024-04-03 16:21:00
 
 [Dialog 的魔法](https://blog.othree.net/log/2024/04/03/the-magic-of-dialog/)  by  O3noBLOG  at  2024-04-03 11:49:41
-
-[[译] Alan Kay: 原型 vs 类](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/prototypes-vs-classes-alankay/)  by  夜行人  at  2024-04-03 00:00:00
-
-[[译] Alan Kay: 后期绑定(late binding)的意义是什么?](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/what-is-the-significance-of-late-binding/)  by  夜行人  at  2024-04-03 00:00:00
-
-[介绍 Dynatalk](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/introducing-dynatalk/)  by  夜行人  at  2024-04-03 00:00:00
 
 [[译] Alan Kay: 原型 vs 类](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/prototypes-vs-classes-alankay/)  by  夜行人  at  2024-04-03 00:00:00
 
@@ -701,6 +647,8 @@
 
 [如何扩大工作的 scope？](tag:blogger.com,1999:blog-7005036.post-779013994023427551)  by  Cat Chen  at  2024-03-01 11:17:00
 
+[如何扩大工作的 scope？](tag:blogger.com,1999:blog-7005036.post-779013994023427551)  by  Cat Chen  at  2024-03-01 11:17:00
+
 [《星海遊俠2》重製版玩後感](tag:blogger.com,1999:blog-8640548720142298079.post-4845274575909720677)  by  水星  at  2024-03-01 06:57:00
 
 [再读《过秦论》有感](https://www.zddhub.com/2024/03/01/w09-feelings-2.html)  by  ZDDHUB  at  2024-03-01 00:00:00
@@ -767,6 +715,8 @@
 
 [Vision Pro 使用体验（Part 2）](tag:blogger.com,1999:blog-7005036.post-6754008583217795090)  by  Cat Chen  at  2024-02-18 21:26:00
 
+[Vision Pro 使用体验（Part 2）](tag:blogger.com,1999:blog-7005036.post-6754008583217795090)  by  Cat Chen  at  2024-02-18 21:26:00
+
 [Java 线程池系列-第二篇](https://nicksxs.me/2024/02/18/Java-%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%B3%BB%E5%88%97-%E7%AC%AC%E4%BA%8C%E7%AF%87/)  by  Nicksxs  at  2024-02-18 10:47:52
 
 
@@ -789,6 +739,8 @@
 
 
 ### 2024-02-09
+[Vision Pro 使用体验（Part 1）](tag:blogger.com,1999:blog-7005036.post-1202837874368934513)  by  Cat Chen  at  2024-02-09 19:41:00
+
 [Vision Pro 使用体验（Part 1）](tag:blogger.com,1999:blog-7005036.post-1202837874368934513)  by  Cat Chen  at  2024-02-09 19:41:00
 
 [小马宋的营销总结(1) - 读《营销笔记》](https://blog.devtang.com/2024/02/09/xiaomasong-notes-1/)  by  唐巧  at  2024-02-09 13:53:40
@@ -817,8 +769,6 @@
 
 [制作一根属于你自己的魔杖🪄](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-snap-wand/)  by  夜行人  at  2024-02-06 00:00:00
 
-[制作一根属于你自己的魔杖🪄](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-snap-wand/)  by  夜行人  at  2024-02-06 00:00:00
-
 
 ### 2024-02-04
 [沒有零風險的路](tag:blogger.com,1999:blog-8640548720142298079.post-879429212624341633)  by  水星  at  2024-02-04 23:47:00
@@ -839,8 +789,6 @@
 
 [MicroBlocks 编程案例: WiFi Radio 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-wifi-radio/)  by  夜行人  at  2024-01-28 00:00:00
 
-[MicroBlocks 编程案例: WiFi Radio 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-wifi-radio/)  by  夜行人  at  2024-01-28 00:00:00
-
 
 ### 2024-01-27
 [关于 Error Boundaries， 你需要知道的一切](https://lucifer.ren/blog/2024/01/28/error-boundaries/)  by  lucifer  at  2024-01-27 16:00:00
@@ -852,10 +800,6 @@
 
 ### 2024-01-23
 [如果你发现你的 OOM Killer 在乱杀进程](https://blog.lilydjwg.me/posts/216773.html)  by  依云's Blog  at  2024-01-23 18:55:12
-
-
-### 2024-01-22
-[哄哄模拟器的完整复盘，火了，但一度让我很发愁](https://greatdk.com/1962.html)  by  王登科-DK博客  at  2024-01-22 03:40:31
 
 
 ### 2024-01-21
@@ -879,8 +823,6 @@
 
 [读《为什么学生不喜欢上学》](https://jiajunhuang.com/articles/2024_01_16-why_dont_students_like_school.md.html)  by  Jiajun的技术笔记  at  2024-01-16 00:00:00
 
-[Snap! 使用笔记: 动态添加 Snap! 造型](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-add-costume-dynamically/)  by  夜行人  at  2024-01-16 00:00:00
-
 
 ### 2024-01-15
 [PNG暴动](tag:blogger.com,1999:blog-8640548720142298079.post-6330327549272592417)  by  水星  at  2024-01-15 23:44:00
@@ -893,12 +835,8 @@
 
 [离线版 MicroBlocks webapp](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/offline-microblocks-webapp/)  by  夜行人  at  2024-01-15 00:00:00
 
-[离线版 MicroBlocks webapp](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/offline-microblocks-webapp/)  by  夜行人  at  2024-01-15 00:00:00
-
 
 ### 2024-01-14
-[MicroBlocks 编程案例: 扩展 OctoStudio 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-octostudio-bleradio/)  by  夜行人  at  2024-01-14 00:00:00
-
 [MicroBlocks 编程案例: 扩展 OctoStudio 库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-octostudio-bleradio/)  by  夜行人  at  2024-01-14 00:00:00
 
 
@@ -926,8 +864,6 @@
 [持有10年以上的主力](tag:blogger.com,1999:blog-8640548720142298079.post-3049827970619411911)  by  水星  at  2024-01-09 16:30:00
 
 [跑夜车的滴滴司机](https://blog.devtang.com/2024/01/09/didi-driver-who-work-at-midnight/)  by  唐巧  at  2024-01-09 09:50:20
-
-[MicroBlocks 蓝牙客户端库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-ble-client/)  by  夜行人  at  2024-01-09 00:00:00
 
 [MicroBlocks 蓝牙客户端库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-ble-client/)  by  夜行人  at  2024-01-09 00:00:00
 
@@ -964,10 +900,6 @@
 
 ### 2024-01-03
 [冷眼《決戰股市終極方案》的提醒](tag:blogger.com,1999:blog-8640548720142298079.post-6113960102031315681)  by  水星  at  2024-01-03 17:47:00
-
-[[译]Alan Kay 在 OOPSLA'97 中提到的 Web 的替代解决方案是什么？](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/what-is-alan-kays-alternative-solution-for-the-web-which-he-mentioned-in-oopsla-97/)  by  夜行人  at  2024-01-03 00:00:00
-
-[图形化编程中的"帽子"积木](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/hat-blocks/)  by  夜行人  at  2024-01-03 00:00:00
 
 [[译]Alan Kay 在 OOPSLA'97 中提到的 Web 的替代解决方案是什么？](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/what-is-alan-kays-alternative-solution-for-the-web-which-he-mentioned-in-oopsla-97/)  by  夜行人  at  2024-01-03 00:00:00
 
@@ -1013,12 +945,6 @@
 
 [浏览器中的 Scratch 1.4](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeakjs-scratch14/)  by  夜行人  at  2023-12-29 00:00:00
 
-[MicroBlocks ❤️ Teachable Machine](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-teachable-machine/)  by  夜行人  at  2023-12-29 00:00:00
-
-[MicroBlocks 无线编程(BLE)](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-wireless-programming/)  by  夜行人  at  2023-12-29 00:00:00
-
-[浏览器中的 Scratch 1.4](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeakjs-scratch14/)  by  夜行人  at  2023-12-29 00:00:00
-
 
 ### 2023-12-27
 [一日一测：Bright Data的海外代理测试](https://www.kingname.info/2023/12/27/test-bright-data-proxy/)  by  青南  at  2023-12-27 22:10:08
@@ -1040,8 +966,6 @@
 
 ### 2023-12-21
 [Debounce and Throttle](https://reorx.com/blog/debounce-and-throttle/)  by  Reorx’s Forge  at  2023-12-21 20:23:46
-
-[我试图用 GPT 改造 Google 统计，但最终变成了一个有点鸡肋的产品](https://greatdk.com/1958.html)  by  王登科-DK博客  at  2023-12-21 07:17:51
 
 
 ### 2023-12-19
@@ -1131,8 +1055,6 @@
 
 [MicroBlocks 开发笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-dev-notes/)  by  夜行人  at  2023-12-01 00:00:00
 
-[MicroBlocks 开发笔记](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-dev-notes/)  by  夜行人  at  2023-12-01 00:00:00
-
 
 ### 2023-11-30
 [吃饭时也可以练习正念](https://limboy.me/posts/be-mindful-while-eating/)  by  Limboy  at  2023-11-30 00:00:00
@@ -1171,8 +1093,6 @@
 
 [将基于 Scratch Link 的插件迁移到 Snap!](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/scratch-link-extensions-to-snap/)  by  夜行人  at  2023-11-21 00:00:00
 
-[将基于 Scratch Link 的插件迁移到 Snap!](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/scratch-link-extensions-to-snap/)  by  夜行人  at  2023-11-21 00:00:00
-
 
 ### 2023-11-20
 [我如何帮助 GPT-4 在 1 小时内自主解决 LeetCode 上 100 个编程问题](https://blog.t9t.io/leetcode-gpt-4-2023-11-20/)  by  timqian  at  2023-11-20 00:00:00
@@ -1187,8 +1107,6 @@
 
 [MicroBlocks 编程案例: 制作无线 Makey Makey](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-wireless-makeymakey/)  by  夜行人  at  2023-11-18 00:00:00
 
-[MicroBlocks 编程案例: 制作无线 Makey Makey](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-wireless-makeymakey/)  by  夜行人  at  2023-11-18 00:00:00
-
 
 ### 2023-11-17
 [这周发现一个好队友](https://www.zddhub.com/2023/11/17/w46-good-pair.html)  by  ZDDHUB  at  2023-11-17 00:00:00
@@ -1196,8 +1114,6 @@
 [Snap! websocket 驱动库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-websocket-prims/)  by  夜行人  at  2023-11-17 00:00:00
 
 [FreeBSD 使用 vm-bhyve 安装Debian虚拟机](https://jiajunhuang.com/articles/2023_11_17-freebsd_vm_bhyve.md.html)  by  Jiajun的技术笔记  at  2023-11-17 00:00:00
-
-[Snap! websocket 驱动库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-websocket-prims/)  by  夜行人  at  2023-11-17 00:00:00
 
 
 ### 2023-11-16
@@ -1225,8 +1141,6 @@
 ### 2023-11-13
 [MicroBlocks ❤️ OctoStudio: 将手机用作 MicroBlocks 的传感器与执行器](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-octostudio/)  by  夜行人  at  2023-11-13 00:00:00
 
-[MicroBlocks ❤️ OctoStudio: 将手机用作 MicroBlocks 的传感器与执行器](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-octostudio/)  by  夜行人  at  2023-11-13 00:00:00
-
 
 ### 2023-11-12
 [MicroBlocks 编程案例: 模拟 USB 键盘](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-mouse-keyboard-library/)  by  夜行人  at  2023-11-12 00:00:00
@@ -1234,10 +1148,6 @@
 [Snap! 蓝牙驱动库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-ble-library/)  by  夜行人  at  2023-11-12 00:00:00
 
 [长任务系统如何处理？](https://jiajunhuang.com/articles/2023_11_12-long_running_task.md.html)  by  Jiajun的技术笔记  at  2023-11-12 00:00:00
-
-[MicroBlocks 编程案例: 模拟 USB 键盘](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-mouse-keyboard-library/)  by  夜行人  at  2023-11-12 00:00:00
-
-[Snap! 蓝牙驱动库](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-ble-library/)  by  夜行人  at  2023-11-12 00:00:00
 
 
 ### 2023-11-11
@@ -1297,8 +1207,6 @@
 ### 2023-10-28
 [破解 OctoStudio](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/extend-octostudio/)  by  夜行人  at  2023-10-28 00:00:00
 
-[破解 OctoStudio](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/extend-octostudio/)  by  夜行人  at  2023-10-28 00:00:00
-
 
 ### 2023-10-27
 [海娃与三丫](https://www.zddhub.com/2023/10/27/w43-haiwa-yu-sanya.html)  by  ZDDHUB  at  2023-10-27 00:00:00
@@ -1313,6 +1221,8 @@
 
 [2023 年邀请链接（referral links）](tag:blogger.com,1999:blog-7005036.post-1648201670237207776)  by  Cat Chen  at  2023-10-22 16:02:00
 
+[2023 年邀请链接（referral links）](tag:blogger.com,1999:blog-7005036.post-1648201670237207776)  by  Cat Chen  at  2023-10-22 16:02:00
+
 
 ### 2023-10-21
 [A Separable Extension Is Solvable by Radicals Iff It Is Solvable](https://desvl.xyz/2023/10/21/solvable-by-radical/)  by  Desvl  at  2023-10-21 08:39:01
@@ -1322,8 +1232,6 @@
 
 ### 2023-10-20
 [PixelsMeasure 3.0 发布啦！](https://www.zddhub.com/2023/10/20/w42-release-pixelsmeasure-3.0.html)  by  ZDDHUB  at  2023-10-20 00:00:00
-
-[冥想](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/meditation/)  by  夜行人  at  2023-10-20 00:00:00
 
 [冥想](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/meditation/)  by  夜行人  at  2023-10-20 00:00:00
 
@@ -1483,16 +1391,12 @@
 
 [Unity 学习笔记之消息传递](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/learn-unity-message-passing/)  by  夜行人  at  2023-08-20 00:00:00
 
-[Unity 学习笔记之消息传递](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/learn-unity-message-passing/)  by  夜行人  at  2023-08-20 00:00:00
-
 
 ### 2023-08-19
 [苦难](https://www.zddhub.com/2023/08/19/w33-suffering.html)  by  ZDDHUB  at  2023-08-19 00:00:00
 
 
 ### 2023-08-17
-[为 Future Park(teamLab) 的交互艺术设计一个通用架构](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/teamlab-future-park-dynatalk/)  by  夜行人  at  2023-08-17 00:00:00
-
 [为 Future Park(teamLab) 的交互艺术设计一个通用架构](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/teamlab-future-park-dynatalk/)  by  夜行人  at  2023-08-17 00:00:00
 
 
@@ -1503,13 +1407,9 @@
 ### 2023-08-14
 [增强 Roblox Studio 的互操作性](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/enhanced-roblox-studio-interoperability/)  by  夜行人  at  2023-08-14 00:00:00
 
-[增强 Roblox Studio 的互操作性](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/enhanced-roblox-studio-interoperability/)  by  夜行人  at  2023-08-14 00:00:00
-
 
 ### 2023-08-12
 [SL(2,R) As a Topological Space and Topological Group](https://desvl.xyz/2023/08/12/sl2-decomposition/)  by  Desvl  at  2023-08-12 17:28:22
-
-[在 Roblox 中探索自主 Agent](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/autonomous-agent-in-roblox/)  by  夜行人  at  2023-08-12 00:00:00
 
 [在 Roblox 中探索自主 Agent](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/autonomous-agent-in-roblox/)  by  夜行人  at  2023-08-12 00:00:00
 
@@ -1551,8 +1451,6 @@
 
 
 ### 2023-07-30
-[减肥 15 斤后，我获得了一个灵感，并开发了一个 AI 加持的 iOS APP](https://greatdk.com/1936.html)  by  王登科-DK博客  at  2023-07-30 17:21:06
-
 [开发一个浏览器插件在第三天卖出 1000 元](https://lutaonan.com/blog/my-extension-sold-1k-yuan/)  by  Randy's Blog  at  2023-07-30 00:00:00
 
 [当我谈摄影时，我谈些什么](https://leovan.me/cn/2023/07/what-i-talk-about-when-i-talk-about-photography-colors-part-1/)  by  中文博客 on 范叶亮 | Leo Van  at  2023-07-30 00:00:00
@@ -1655,8 +1553,6 @@
 ### 2023-06-29
 [在 nspawn 里运行 docker](https://blog.lilydjwg.me/posts/216651.html)  by  依云's Blog  at  2023-06-29 14:38:23
 
-[10年，一个独立博客的重生](https://greatdk.com/1929.html)  by  王登科-DK博客  at  2023-06-29 08:44:08
-
 
 ### 2023-06-25
 [Swift on Server Tour 1  你的第一个 Server App 以及它背后的故事](https://blog.kevinzhow.com/posts/swift-on-server-tour-1/zh)  by  Kevin Blog  at  2023-06-25 15:13:41
@@ -1731,20 +1627,14 @@
 
 [MicroBlocks ❤️ Roblox: 操场大小的像素屏](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-roblox-neopanel/)  by  夜行人  at  2023-06-04 00:00:00
 
-[MicroBlocks ❤️ Roblox: 操场大小的像素屏](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-roblox-neopanel/)  by  夜行人  at  2023-06-04 00:00:00
-
 
 ### 2023-06-03
 [回炉重铸， 91 天见证不一样的自己（第 11 期）](https://lucifer.ren/blog/2023/06/04/91algo-11/)  by  lucifer  at  2023-06-03 16:00:00
 
 [山路骑行 路口](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/mountain-biking-2/)  by  夜行人  at  2023-06-03 00:00:00
 
-[山路骑行 路口](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/mountain-biking-2/)  by  夜行人  at  2023-06-03 00:00:00
-
 
 ### 2023-05-28
-[山路骑行](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/mountain-biking/)  by  夜行人  at  2023-05-28 00:00:00
-
 [山路骑行](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/mountain-biking/)  by  夜行人  at  2023-05-28 00:00:00
 
 
@@ -1788,10 +1678,6 @@
 [纪念左耳朵耗子](https://blog.kevinzhow.com/posts/in-memory-of-haoel/zh)  by  Kevin Blog  at  2023-05-15 21:00:01
 
 
-### 2023-05-14
-[我看了一下 2 万人和我的克隆人都聊了些啥，结果不是很乐观](https://greatdk.com/1921.html)  by  王登科-DK博客  at  2023-05-14 12:01:20
-
-
 ### 2023-05-13
 [股票技术指标 - 移动平均线（MA）指标](https://blog.forecho.com/stock-indicators-ma.html)  by  forecho's Blog  at  2023-05-13 10:49:00
 
@@ -1830,8 +1716,6 @@
 [关于「晚晴幽草轩」博客缓更说明](https://www.jeffjade.com/2023/05/01/251-blog-slow-update-instructions/)  by  晚晴幽草轩轩主  at  2023-05-01 12:20:00
 
 [新加坡生小孩的医院和流程费用介绍](https://wsgzao.github.io/post/singapore-pregnancy/)  by  wsgzao  at  2023-05-01 02:59:49
-
-[使用 MicroBlocks 制作物联网设备(兼容 Home Assistant)](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-home-assistant-device/)  by  夜行人  at  2023-05-01 00:00:00
 
 [使用 MicroBlocks 制作物联网设备(兼容 Home Assistant)](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-home-assistant-device/)  by  夜行人  at  2023-05-01 00:00:00
 
@@ -1907,8 +1791,6 @@
 
 
 ### 2023-04-07
-[我用我的微信聊天记录和 280 篇博客文章，做了我自己的数字克隆AI](https://greatdk.com/1908.html)  by  王登科-DK博客  at  2023-04-07 05:09:05
-
 [Ex Machina(机械姬)：有意识的 AI 会是怎样的](https://limboy.me/posts/ex-machina/)  by  Limboy  at  2023-04-07 00:00:00
 
 
@@ -1939,6 +1821,8 @@
 
 [熟练使用 Google 或 Facebook 内部工具毫无用处？](tag:blogger.com,1999:blog-7005036.post-7523246938370074820)  by  Cat Chen  at  2023-03-30 12:49:00
 
+[熟练使用 Google 或 Facebook 内部工具毫无用处？](tag:blogger.com,1999:blog-7005036.post-7523246938370074820)  by  Cat Chen  at  2023-03-30 12:49:00
+
 
 ### 2023-03-27
 [使用ezSpec落實行為驅動開發與實例化需求（10）：撰寫自訂報表](tag:blogger.com,1999:blog-1298974142445162186.post-6908803669118646923)  by  Teddy Chen  at  2023-03-27 00:00:00
@@ -1946,6 +1830,8 @@
 
 ### 2023-03-26
 [铃芽之旅](https://ssshooter.com/suzume/)  by  Usubeni Fantasy  at  2023-03-26 21:43:42
+
+[从人工编辑到算法排序](tag:blogger.com,1999:blog-7005036.post-6745148839640871851)  by  Cat Chen  at  2023-03-26 20:01:00
 
 [从人工编辑到算法排序](tag:blogger.com,1999:blog-7005036.post-6745148839640871851)  by  Cat Chen  at  2023-03-26 20:01:00
 
@@ -1997,6 +1883,8 @@
 ### 2023-03-19
 [在 React Native WebView 中使用自定义字体](tag:blogger.com,1999:blog-7005036.post-6390291971255547968)  by  Cat Chen  at  2023-03-19 23:13:00
 
+[在 React Native WebView 中使用自定义字体](tag:blogger.com,1999:blog-7005036.post-6390291971255547968)  by  Cat Chen  at  2023-03-19 23:13:00
+
 [市场净流量：金融交易中的关键工具与策略](https://blog.forecho.com/market-net-flow.html)  by  forecho's Blog  at  2023-03-19 10:06:00
 
 [在 Windows 下利用 WSL2 和 Ubuntu 配置 GPU 机器学习环境 (GPU Machine Leanring Environment Configuration under Windows with WSL2 and Ubuntu)](https://leovan.me/cn/2023/03/gpu-machine-learning-environment-configuration-under-windows-with-wsl2-and-ubuntu/)  by  中文博客 on 范叶亮 | Leo Van  at  2023-03-19 00:00:00
@@ -2006,10 +1894,6 @@
 [决定录点视频](https://www.zddhub.com/2023/03/18/w11-try-to-record-videos.html)  by  ZDDHUB  at  2023-03-18 00:00:00
 
 [What's Our Problem](https://limboy.me/books/whats-our-problem/)  by  Limboy  at  2023-03-18 00:00:00
-
-
-### 2023-03-17
-[这个世界变得更精彩，但好像也更无聊了](https://greatdk.com/1901.html)  by  王登科-DK博客  at  2023-03-17 08:54:05
 
 
 ### 2023-03-16
@@ -2041,16 +1925,12 @@
 
 [文学编程和可重复性研究 (Literate Programming and Reproducible Research)](https://leovan.me/cn/2023/03/literate-programming-and-reproducible-research/)  by  中文博客 on 范叶亮 | Leo Van  at  2023-03-11 00:00:00
 
-[寻隐猫不遇](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/looking-for-a-cat/)  by  夜行人  at  2023-03-11 00:00:00
-
 
 ### 2023-03-10
 [新加坡幼儿园和托儿所的报名准备经验分享](https://wsgzao.github.io/post/singapore-preschool/)  by  wsgzao  at  2023-03-10 02:59:49
 
 
 ### 2023-03-09
-[图形化编程中的 AI 助手](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-ai-assistant/)  by  夜行人  at  2023-03-09 00:00:00
-
 [图形化编程中的 AI 助手](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-ai-assistant/)  by  夜行人  at  2023-03-09 00:00:00
 
 
@@ -2065,6 +1945,8 @@
 
 
 ### 2023-03-06
+[工程师成长到最后最重要的是什么？](tag:blogger.com,1999:blog-7005036.post-866350324864576044)  by  Cat Chen  at  2023-03-06 16:22:00
+
 [工程师成长到最后最重要的是什么？](tag:blogger.com,1999:blog-7005036.post-866350324864576044)  by  Cat Chen  at  2023-03-06 16:22:00
 
 [速通 npm、yarn、pnpm](https://ssshooter.com/2023-03-03-npm-yarn-pnpm/)  by  Usubeni Fantasy  at  2023-03-06 16:00:40
@@ -2105,16 +1987,8 @@
 
 [Snap! 使用笔记: 将 Snap! 用作个人计算环境](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-personal-computing/)  by  夜行人  at  2023-03-01 00:00:00
 
-[Snap! 使用笔记: Python function(CodeLab Adapter版)](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-python-function/)  by  夜行人  at  2023-03-01 00:00:00
-
-[Snap! 使用笔记: 从 Scratch 进入 Snap! 的时机](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/from-scratch-to-snap/)  by  夜行人  at  2023-03-01 00:00:00
-
-[Snap! 使用笔记: 将 Snap! 用作个人计算环境](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-personal-computing/)  by  夜行人  at  2023-03-01 00:00:00
-
 
 ### 2023-02-28
-[Snap! 使用笔记: JavaScript function](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-javascript-function/)  by  夜行人  at  2023-02-28 00:00:00
-
 [Snap! 使用笔记: JavaScript function](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-javascript-function/)  by  夜行人  at  2023-02-28 00:00:00
 
 
@@ -2131,12 +2005,6 @@
 
 
 ### 2023-02-22
-[Snap! 使用笔记: MicroBlocks 插件](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-microblocks/)  by  夜行人  at  2023-02-22 00:00:00
-
-[Snap! 使用笔记: MQTT 插件](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mqtt/)  by  夜行人  at  2023-02-22 00:00:00
-
-[Snap! 使用笔记: 探索数据](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-explore-data/)  by  夜行人  at  2023-02-22 00:00:00
-
 [Snap! 使用笔记: MicroBlocks 插件](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-microblocks/)  by  夜行人  at  2023-02-22 00:00:00
 
 [Snap! 使用笔记: MQTT 插件](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-mqtt/)  by  夜行人  at  2023-02-22 00:00:00
@@ -2225,8 +2093,6 @@
 ### 2023-02-04
 [将诗句想象为图像](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/stable-diffusion-my-verse/)  by  夜行人  at  2023-02-04 00:00:00
 
-[将诗句想象为图像](http://wwj718.github.io/post/%E8%AF%97%E8%AF%8D/stable-diffusion-my-verse/)  by  夜行人  at  2023-02-04 00:00:00
-
 
 ### 2023-02-03
 [Reflect and Proxy in JavaScript](https://ssshooter.com/en/2023-01-30-javascript-reflect/)  by  Usubeni Fantasy  at  2023-02-03 21:35:25
@@ -2261,13 +2127,9 @@
 
 [认识商业](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/understanding-business/)  by  夜行人  at  2023-01-27 00:00:00
 
-[认识商业](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/understanding-business/)  by  夜行人  at  2023-01-27 00:00:00
-
 
 ### 2023-01-26
 [世界末，从异度之刃 3 到流浪地球 2](https://ssshooter.com/2023-01-25-world-end/)  by  Usubeni Fantasy  at  2023-01-26 16:34:37
-
-[[译] Morphic 的过去与未来](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/the-future-of-morphic/)  by  夜行人  at  2023-01-26 00:00:00
 
 [[译] Morphic 的过去与未来](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/the-future-of-morphic/)  by  夜行人  at  2023-01-26 00:00:00
 
@@ -2283,10 +2145,6 @@
 
 [在 OpenWrt 中安装 Jellyfin 搭建家庭影音中心](https://leovan.me/cn/2023/01/build-home-media-center-with-jellyfin-on-openwrt/)  by  中文博客 on 范叶亮 | Leo Van  at  2023-01-24 00:00:00
 
-[共同的底线](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/gong-tong-de-di-xian/)  by  夜行人  at  2023-01-24 00:00:00
-
-[走出帝制](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/zou-chu-di-zhi/)  by  夜行人  at  2023-01-24 00:00:00
-
 
 ### 2023-01-23
 [当我们不再理解世界](https://limboy.me/books/when-we-cease-to-understand-the-world/)  by  Limboy  at  2023-01-23 00:00:00
@@ -2298,8 +2156,6 @@
 
 ### 2023-01-20
 [《风暴英雄》对我的意义](https://reorx.com/essays/2023/01/what-hots-means-to-me/)  by  Reorx’s Forge  at  2023-01-20 21:52:37
-
-[在AI替代画师或者写手之前，可能会先干掉做AI的工程师自己](https://greatdk.com/1884.html)  by  王登科-DK博客  at  2023-01-20 03:09:36
 
 [农历年](https://www.zddhub.com/2023/01/20/w03-lunar-new-year.html)  by  ZDDHUB  at  2023-01-20 00:00:00
 
@@ -2469,8 +2325,6 @@
 
 [将新设备引入 MicroBlocks](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/new-device-microblocks-library/)  by  夜行人  at  2022-12-02 00:00:00
 
-[将新设备引入 MicroBlocks](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/new-device-microblocks-library/)  by  夜行人  at  2022-12-02 00:00:00
-
 
 ### 2022-12-01
 [《山 · 其二》](https://amonxu.com/2022/12/02/zh-CN/2022-12-02-Mountain/)  by  Amon Xu  at  2022-12-01 17:01:01
@@ -2485,8 +2339,6 @@
 
 
 ### 2022-11-27
-[记一次解封](https://greatdk.com/1865.html)  by  王登科-DK博客  at  2022-11-27 14:29:08
-
 [写于11月27日](https://amonxu.com/2022/11/27/zh-CN/2022-11-27-Date/)  by  Amon Xu  at  2022-11-27 14:18:01
 
 [中国驾照转新加坡驾照流程和BTT考试经验分享](https://wsgzao.github.io/post/singapore-driving/)  by  wsgzao  at  2022-11-27 02:59:49
@@ -2525,10 +2377,6 @@
 
 [从 MicroBlocks 开始你的硬件编程之旅](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-chinese-community/)  by  夜行人  at  2022-11-22 00:00:00
 
-[MicroBlocks 与其他编程语言的互操作](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-interoperability/)  by  夜行人  at  2022-11-22 00:00:00
-
-[从 MicroBlocks 开始你的硬件编程之旅](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/microblocks-chinese-community/)  by  夜行人  at  2022-11-22 00:00:00
-
 
 ### 2022-11-20
 [搭建旁路由](https://jiajunhuang.com/articles/2022_11_20-router.md.html)  by  Jiajun的技术笔记  at  2022-11-20 00:00:00
@@ -2539,12 +2387,8 @@
 
 [哥德尔、艾舍尔、巴赫](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/geb/)  by  夜行人  at  2022-11-19 00:00:00
 
-[哥德尔、艾舍尔、巴赫](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/geb/)  by  夜行人  at  2022-11-19 00:00:00
-
 
 ### 2022-11-17
-[[译]个人编程和对象计算机](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/personal-programming-and-the-object-computer/)  by  夜行人  at  2022-11-17 00:00:00
-
 [[译]个人编程和对象计算机](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/personal-programming-and-the-object-computer/)  by  夜行人  at  2022-11-17 00:00:00
 
 
@@ -2571,15 +2415,11 @@
 
 [数字游民 -- 三亚笔记](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/digital-nomads-sanya/)  by  夜行人  at  2022-11-13 00:00:00
 
-[数字游民 -- 三亚笔记](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/digital-nomads-sanya/)  by  夜行人  at  2022-11-13 00:00:00
-
 
 ### 2022-11-11
 [托福口语抱佛脚](https://ssshooter.com/2022-11-11-toefl-speaking/)  by  Usubeni Fantasy  at  2022-11-11 16:10:20
 
 [新双十一](https://www.zddhub.com/2022/11/11/w45-double-eleven.html)  by  ZDDHUB  at  2022-11-11 00:00:00
-
-[夕阳](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/sunset/)  by  夜行人  at  2022-11-11 00:00:00
 
 [夕阳](http://wwj718.github.io/post/%E9%9A%8F%E7%AC%94/sunset/)  by  夜行人  at  2022-11-11 00:00:00
 
@@ -2656,4 +2496,216 @@
 [Defeat VSCode Tab Bar](https://reorx.com/essays/2022/10/defeat-vscode-tab-bar/)  by  Reorx’s Forge  at  2022-10-18 21:39:21
 
 [webgl 学习指引](https://ssshooter.com/2022-10-18-webgl-intro/)  by  Usubeni Fantasy  at  2022-10-18 11:31:28
+
+[Linux性能测试和优化实践笔记](https://wsgzao.github.io/post/linux-performance/)  by  wsgzao  at  2022-10-18 07:40:47
+
+
+### 2022-10-17
+[VIA 在线网站](https://ii74.com/post/6436.html)  by  朝舞网  at  2022-10-17 13:41:52
+
+
+### 2022-10-15
+[托福写作抱佛脚](https://ssshooter.com/2022-10-15-toefl-writing/)  by  Usubeni Fantasy  at  2022-10-15 12:47:21
+
+[奇怪的梦](https://www.zddhub.com/2022/10/15/w41-fake-dream.html)  by  ZDDHUB  at  2022-10-15 00:00:00
+
+
+### 2022-10-14
+[回炉重铸， 91 天见证不一样的自己（第九期）](https://lucifer.ren/blog/2022/10/15/91algo-9/)  by  lucifer  at  2022-10-14 16:00:00
+
+[我在 Obsidian 上的 ZettelKasten 实践](https://limboy.me/posts/obsidian-zettelkasten/)  by  Limboy  at  2022-10-14 00:00:00
+
+
+### 2022-10-12
+[从优雅地查看K8s应用日志聊到日志管理](https://amonxu.com/2022/10/12/zh-CN/2022-10-12-K8S-Logs/)  by  Amon Xu  at  2022-10-12 13:00:01
+
+[对 fragment shader 的一点点见解](https://ssshooter.com/2022-10-12-fragment-shader/)  by  Usubeni Fantasy  at  2022-10-12 10:44:01
+
+[OAuth 2 详解（六）：Authorization Code Flow with PKCE](https://jiajunhuang.com/articles/2022_10_12-oauth2_explained_authorization_code_pkce.md.html)  by  Jiajun的技术笔记  at  2022-10-12 00:00:00
+
+
+### 2022-10-11
+[OAuth 2 详解（五）：Device Authorization Flow](https://jiajunhuang.com/articles/2022_10_11-oauth2_explained_device_code.md.html)  by  Jiajun的技术笔记  at  2022-10-11 00:00:00
+
+
+### 2022-10-10
+[真正的好作品只能靠自己去发现](https://reorx.com/essays/2022/10/how-novels-become-boring/)  by  Reorx’s Forge  at  2022-10-10 23:06:15
+
+[Routine](https://limboy.me/posts/routine/)  by  Limboy  at  2022-10-10 00:00:00
+
+[OAuth 2 详解（三）：Resource Owner Password Credentials Grant](https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_password.md.html)  by  Jiajun的技术笔记  at  2022-10-10 00:00:00
+
+[OAuth 2 详解（四）：Client Credentials Flow](https://jiajunhuang.com/articles/2022_10_10-oauth2_explained_client_credentials.md.html)  by  Jiajun的技术笔记  at  2022-10-10 00:00:00
+
+
+### 2022-10-09
+[OAuth 2 详解（二）：Implict Grant Flow](https://jiajunhuang.com/articles/2022_10_09-oauth2_explained_implict_grant.md.html)  by  Jiajun的技术笔记  at  2022-10-09 00:00:00
+
+
+### 2022-10-08
+[OAuth 2 详解（一）：简介及 Authorization Code 模式](https://jiajunhuang.com/articles/2022_10_08-oauth2_explained.md.html)  by  Jiajun的技术笔记  at  2022-10-08 00:00:00
+
+
+### 2022-10-07
+[我用过的位置追踪应用](https://reorx.com/essays/2022/10/location-tracking-apps/)  by  Reorx’s Forge  at  2022-10-07 01:18:09
+
+[国庆果然是休息的节日](https://www.zddhub.com/2022/10/07/w40-notional-holiday.html)  by  ZDDHUB  at  2022-10-07 00:00:00
+
+
+### 2022-10-06
+[ElasticSearch 学习笔记](https://jiajunhuang.com/articles/2022_10_06-elasticsearch.md.html)  by  Jiajun的技术笔记  at  2022-10-06 00:00:00
+
+
+### 2022-10-05
+[球状闪电](https://limboy.me/books/ball-lightning/)  by  Limboy  at  2022-10-05 00:00:00
+
+
+### 2022-10-03
+[React Router 6 是如何工作的](https://limboy.me/posts/react-router-6/)  by  Limboy  at  2022-10-03 00:00:00
+
+
+### 2022-10-02
+[观测者：数据爬虫与处理，历史数据可视化视频与用户排名](https://blog.fsky7.com/technology/37)  by  FlyingSky's Blog  at  2022-10-02 04:00:00
+
+
+### 2022-09-30
+[Kong Gateway 3.0 正式发布🦍](https://102no.com/2022/10/01/kong-3.0/)  by  Qianyugang  at  2022-09-30 16:00:00
+
+[心怡的国家](https://www.zddhub.com/2022/09/30/w39-rank-of-countries.html)  by  ZDDHUB  at  2022-09-30 00:00:00
+
+[[译]Squeak 奇境中的爱丽丝](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/alice-in-a-squeak-wonderland/)  by  夜行人  at  2022-09-30 00:00:00
+
+
+### 2022-09-29
+[浅谈 Chrome Manifest V3 的优缺点](https://reorx.com/blog/understanding-chrome-manifest-v3/)  by  Reorx’s Forge  at  2022-09-29 23:39:26
+
+[为什么人们在黄图群喜欢聊哲学](https://reorx.com/essays/2022/09/what-people-like-to-discuss-in-erotic-group-chat/)  by  Reorx’s Forge  at  2022-09-29 01:12:29
+
+
+### 2022-09-28
+[LDAP 集成之 OpenVPN 篇](https://lisz.me/tech/webmaster/ldap-openvpn)  by  zhonger  at  2022-09-28 15:04:00
+
+[LDAP 集成之 Squid 篇](https://lisz.me/tech/webmaster/ldap-squid)  by  zhonger  at  2022-09-28 15:00:00
+
+
+### 2022-09-27
+[并不乐观的全球化](https://reorx.com/essays/2022/09/globalization-is-not-optimistic/)  by  Reorx’s Forge  at  2022-09-27 13:44:25
+
+
+### 2022-09-26
+[童年的 Disco](https://reorx.com/essays/2022/09/disco-music-in-memories/)  by  Reorx’s Forge  at  2022-09-26 15:40:59
+
+[Kevin Kelly 对创作者的指导](https://reorx.com/essays/2022/09/kevin-kelly-the-mentor-of-creators/)  by  Reorx’s Forge  at  2022-09-26 12:59:01
+
+
+### 2022-09-25
+[帮助别人的正确姿势](tag:blogger.com,1999:blog-7005036.post-2687121162162200681)  by  Cat Chen  at  2022-09-25 15:01:00
+
+[帮助别人的正确姿势](tag:blogger.com,1999:blog-7005036.post-2687121162162200681)  by  Cat Chen  at  2022-09-25 15:01:00
+
+
+### 2022-09-24
+[不换房了，继续向前](https://reorx.com/essays/2022/09/keep-the-apartment-and-carry-on/)  by  Reorx’s Forge  at  2022-09-24 01:03:40
+
+
+### 2022-09-23
+[访问大疆](https://www.zddhub.com/2022/09/23/w38-visit-dji.html)  by  ZDDHUB  at  2022-09-23 00:00:00
+
+
+### 2022-09-22
+[Properties of Cyclotomic Polynomials](https://desvl.xyz/2022/09/22/cyclotomic-polynomial-elementary/)  by  Desvl  at  2022-09-22 14:21:25
+
+
+### 2022-09-21
+[夜晚的潜水艇](https://limboy.me/books/submarine-at-night/)  by  Limboy  at  2022-09-21 00:00:00
+
+
+### 2022-09-20
+[做了 6 年程序员，我学到的 10 条经验](https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer/)  by  Randy's Blog  at  2022-09-20 00:00:00
+
+
+### 2022-09-19
+[每个人都能用点正则表达式](https://lutaonan.com/blog/everyone-can-use-regexp/)  by  Randy's Blog  at  2022-09-19 00:00:00
+
+
+### 2022-09-17
+[State of Play September 2022](https://reorx.com/essays/2022/09/state-of-play-2022/)  by  Reorx’s Forge  at  2022-09-17 15:08:13
+
+[如何寻找一个理想的租房](https://reorx.com/essays/2022/09/how-to-find-a-good-apartment/)  by  Reorx’s Forge  at  2022-09-17 01:06:35
+
+[报应不爽](https://www.zddhub.com/2022/09/17/w37-session-callback.html)  by  ZDDHUB  at  2022-09-17 00:00:00
+
+
+### 2022-09-16
+[停不下来的创业者——得知 Figma 被 Adobe 收购有感](https://reorx.com/essays/2022/09/startup-founders-never-stop/)  by  Reorx’s Forge  at  2022-09-16 00:33:21
+
+[大公司为何不愿意做好用的产品？](https://reorx.com/essays/2022/09/big-companys-bad-product/)  by  Reorx’s Forge  at  2022-09-16 00:07:22
+
+
+### 2022-09-14
+[我的 10 月新番表](https://reorx.com/essays/2022/09/2022-10-new-animes/)  by  Reorx’s Forge  at  2022-09-14 22:00:00
+
+[使用 Railway 和 Supabase 零成本搭建 n8n 自动化平台](https://reorx.com/blog/0-cost-self-hosted-n8n-with-railway-and-supabase/)  by  Reorx’s Forge  at  2022-09-14 00:00:00
+
+[比较图形化硬件编程平台](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/compare-hardware-blocks-platforms/)  by  夜行人  at  2022-09-14 00:00:00
+
+
+### 2022-09-13
+[分体式键盘](https://reorx.com/blog/split-keyboards/)  by  Reorx’s Forge  at  2022-09-13 00:00:00
+
+
+### 2022-09-12
+[关于 Essays 的说明](https://reorx.com/essays/2022/09/about-essays/)  by  Reorx’s Forge  at  2022-09-12 00:00:00
+
+[要不要回互联网公司上班？](https://reorx.com/essays/2022/09/how-i-think-about-internet-companies/)  by  Reorx’s Forge  at  2022-09-12 00:00:00
+
+
+### 2022-09-11
+[自私和贪婪 (Selfish and Greedy)](https://leovan.me/cn/2022/09/selfish-and-greedy/)  by  中文博客 on 范叶亮 | Leo Van  at  2022-09-11 00:00:00
+
+
+### 2022-09-10
+[讲座的思维启示](https://www.zddhub.com/2022/09/10/w36-session-thinking.html)  by  ZDDHUB  at  2022-09-10 00:00:00
+
+[[译]web浏览器是否应该坚持成为文档查看器？](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/should-web-browsers-have-stuck-to-being-document-viewers/)  by  夜行人  at  2022-09-10 00:00:00
+
+
+### 2022-09-09
+[k8s job 为何迟迟不能结束？](https://lailin.xyz/post/kubernetes-job-running-not-end.html)  by  Mohuishou  at  2022-09-09 16:00:00
+
+[2022 年 9 月苹果发布会观后感](https://reorx.com/blog/2022-09-apple-event/)  by  Reorx’s Forge  at  2022-09-09 00:00:00
+
+[迷人的材料](https://limboy.me/books/stuff-matters/)  by  Limboy  at  2022-09-09 00:00:00
+
+
+### 2022-09-08
+[SandstoneDb: Squeak 中的简易持久化存储](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/sandstonedb-squeak/)  by  夜行人  at  2022-09-08 00:00:00
+
+
+### 2022-09-07
+[让离线软件真正离线](https://blog.lilydjwg.me/posts/216461.html)  by  依云's Blog  at  2022-09-07 15:12:11
+
+
+### 2022-09-06
+[费曼讲物理](https://limboy.me/books/six-easy-pieces/)  by  Limboy  at  2022-09-06 00:00:00
+
+[十分钟冥想](https://limboy.me/books/ten-minutes-meditation/)  by  Limboy  at  2022-09-06 00:00:00
+
+
+### 2022-09-05
+[没错，TheRouter 是我写的](https://www.kymjs.com/code/2022/09/05/01)  by  开源实验室  at  2022-09-05 00:00:00
+
+[岛上书店](https://limboy.me/books/storied-life/)  by  Limboy  at  2022-09-05 00:00:00
+
+[Squeak 与 MicroBlocks 互操作](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeak-microblocks-interoperability/)  by  夜行人  at  2022-09-05 00:00:00
+
+
+### 2022-09-04
+[Calculus on Fields - Heights of Polynomials, Mahler's Measure and Northcott's Theorem](https://desvl.xyz/2022/09/04/height-polynomial/)  by  Desvl  at  2022-09-04 14:39:20
+
+[货拉拉 Android 模块化路由框架：TheRouter](https://www.kymjs.com/code/2022/09/04/01)  by  开源实验室  at  2022-09-04 00:00:00
+
+[[译]"好奇心和信心的结合": 与John Maloney的对话](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/a-combination-of-curiosity-and-confidence-a-conversation-with-john-maloney/)  by  夜行人  at  2022-09-04 00:00:00
+
+[[译]Squeak News 采访 John Maloney](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeak-news-interview-with-john-maloney/)  by  夜行人  at  2022-09-04 00:00:00
 
