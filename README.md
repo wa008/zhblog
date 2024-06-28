@@ -657,6 +657,8 @@
 
 [1123](https://ramble.imzh.me/1123/)  by  jz's rambling on jz's rambles  on  2024-06-15 16:43:18
 
+[为什么我说千织的角色设计很伟大](https://www.velasx.com/am/6201)  by  Zeee  on  2024-06-15 16:09:46
+
 [Memo_CoD Determinants of Lifespan Inequality](https://blog.yanyuteng.cn/2024/06/16/6a255d2/)  by  Yuteng Yan  on  2024-06-15 16:00:00
 
 [Clean Code, Refactoring and Test-Driven Development](https://lifeodyssey.github.io/posts/5ffd7c75.html)  by  周大侠  on  2024-06-15 14:34:45
@@ -906,10 +908,6 @@
 [模板博文](https://lihan3238.github.io/p/0_template_post/)  by  李寒的小窝  on  2024-06-09 00:00:00
 
 [视野修炼第87期 | 端午安康](https://sugarat.top/weekly/2024-06-09.html)  by  粥里有勺糖  on  2024-06-09 00:00:00
-
-[How to convert the pdf to images using python](https://youerning.top/post/pdf/convertt-pdf-to-images-english/)  by  又耳笔记  on  2024-06-08 18:30:08
-
-[用Python将PDF文件转换成图片](https://youerning.top/post/pdf/convertt-pdf-to-images/)  by  又耳笔记  on  2024-06-08 18:30:08
 
 [TeleMediaSpider - Telegram 频道资源爬虫](https://www.liesauer.net/blog/post/telemediaspider.html)  by  LiesAuer's Blog  on  2024-06-08 16:36:00
 
@@ -1266,6 +1264,8 @@
 [近期追番报告](https://www.himiku.com/archives/recent-bangumi-report.html)  by  初之音  on  2024-05-28 20:41:00
 
 [新昌倒脱靴、桐洲岛和获蒲村](https://www.skyue.com/24052820.html)  by  拾月  on  2024-05-28 20:27:00
+
+[Velas Weekly Issue 10](https://www.velasx.com/am/6192)  by  Zeee  on  2024-05-28 17:32:35
 
 [瓶颈与迷茫](https://innei.in/notes/172)  by  静かな森  on  2024-05-28 12:35:32
 
