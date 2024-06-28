@@ -183,7 +183,7 @@ if __name__ == "__main__":
         limit = 5
         output = './test'
     else:
-        limit = 100000
+        limit = 2000
         output = "./../index.md"
     rss_urls = get_urls_from_independent_blogs()
     invite_urls = get_urls_from_valid_blog()
