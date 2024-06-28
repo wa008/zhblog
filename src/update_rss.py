@@ -81,7 +81,7 @@ def get_urls_from_valid_blog():
                 # print ('link_page', link_page)
                 res = requests.get(link_page, timeout = 1)
                 link_list = re.findall(r"(?<=href=\").+?(?=\")|(?<=href=\').+?(?=\')", res.text)
-                link_list = [x for x in link_list if main_page not in x]
+                link_list = [x for x in link_list if main_page not in x and if re.match('(.*)\w/\w(.*)', x) is None]
                 # print ('link_list', link_list)
                 output_urls += link_list
             except:
