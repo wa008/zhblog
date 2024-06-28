@@ -114,7 +114,7 @@ def get_blogs_from_rss(rss_urls, limit = 2):
             print ("except")
         print ("skip rate: {:} / {:} = {:2f}%".format(skip_cnt, all_cnt, skip_cnt * 100.0 / all_cnt))
         print ("process: {:} / {:} = {:2f}%".format(all_cnt, len(rss_urls), all_cnt / len(rss_urls)))
-        if all_cnt >= 2:
+        if all_cnt >= limit:
             break
     print ('3. get_blogs_from_rss done, output_len = {:}'.format(len(contents)))
     print ('-' * 50 + '\n\n')
