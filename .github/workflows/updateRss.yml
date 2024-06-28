@@ -41,6 +41,6 @@ jobs:
           git checkout -b main
           git branch
           git add ./index.md
-          git commit -m "update rss commit"
+          git commit -m "github workflows auto update rss"
           git push origin main
 
