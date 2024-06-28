@@ -101,5 +101,5 @@ for content in contents:
         if today != last_day:
             output.write("\n### {}\n".format(today))
             last_day = today
-        output.write("[{title}]({link})  by  {auther}  on  {day}\n\n".format(title \
+        output.write("[{title}]({link})  by  {auther}  at  {day}\n\n".format(title \
             = title, day = day, link = link, auther = auther))
