@@ -23,7 +23,6 @@ def if_contain_symbol(keyword):
 def rss_get_content_from_url(rss_url):
     response = requests.get(rss_url, timeout = 1)
     rss = RSSParser.parse(response.text)
-    open('valid_rss.txt', "a").write(rss_url + "\n")
     auther = rss.channel.title.content
     result = []
     index = 0
@@ -31,9 +30,13 @@ def rss_get_content_from_url(rss_url):
         title = item.title.content
         link = item.link.content
         day = parser.parse(item.pub_date.content).strftime("%Y-%m-%d %H:%M:%S")
-        result.append([day, title, link, auther])
-        index += 1
+        now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http'):
+            result.append([day, title, link, auther])
+            index += 1
         if index >= 100: break
+    if index > 0:
+        open('valid_rss.txt', "a").write(rss_url + "\n")
     return result
 
 def atom_get_content_from_url(rss_url):
@@ -47,9 +50,13 @@ def atom_get_content_from_url(rss_url):
         title = item.title.value
         link = item.id_
         day = item.published.strftime("%Y-%m-%d %H:%M:%S")
-        result.append([day, title, link, auther])
-        index += 1
+        now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http'):
+            result.append([day, title, link, auther])
+            index += 1
         if index >= 100: break
+    if index > 0:
+        open('valid_rss.txt', "a").write(rss_url + "\n")
     return result
 
 def get_urls_from_independent_blogs():
@@ -169,14 +176,12 @@ def write_output(contents, output_file):
     output = open(output_file, "a")
     for content in contents:
         day, title, link, auther = content
-        now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http'):
-            today = day.split(" ")[0]
-            if today != last_day:
-                output.write("\n### {}\n".format(today))
-                last_day = today
-            output.write("[{title}]({link})  by  {auther}  at  {day}\n\n".format(title \
-                = title, day = day, link = link, auther = auther))
+        today = day.split(" ")[0]
+        if today != last_day:
+            output.write("\n### {}\n".format(today))
+            last_day = today
+        output.write("[{title}]({link})  by  {auther}  at  {day}\n\n".format(title \
+            = title, day = day, link = link, auther = auther))
     print ('5. write_output done')
     print ('-' * 50 + '\n\n')
 
