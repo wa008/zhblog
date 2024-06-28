@@ -178,7 +178,7 @@ def write_output(contents, output_file):
     print ('-' * 50 + '\n\n')
 
 if __name__ == "__main__":
-    is_test = 1
+    is_test = 0
     if is_test == 1:
         limit = 5
         output = './test'
