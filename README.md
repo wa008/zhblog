@@ -17,3 +17,5 @@
 # 致谢
 + 中文独立博客：https://github.com/timqian/chinese-independent-blogs
 + 中文博客列表导航项目：https://zhblogs.ohyee.cc
++ BlogFinder: https://bf.zzxworld.com
++ 积薪：https://firewood.news
