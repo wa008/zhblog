@@ -31,7 +31,8 @@ def rss_get_content_from_url(rss_url):
         link = item.link.content
         day = parser.parse(item.pub_date.content).strftime("%Y-%m-%d %H:%M:%S")
         now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http'):
+        en_rate = len(re.findall(r"[A-Za-z0-9 ]", title)) * 1.0 / len(title)
+        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http') and en_rate < 0.5:
             result.append([day, title, link, auther])
             index += 1
         if index >= 100: break
@@ -51,7 +52,8 @@ def atom_get_content_from_url(rss_url):
         link = item.id_
         day = item.published.strftime("%Y-%m-%d %H:%M:%S")
         now_ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http'):
+        en_rate = len(re.findall(r"[A-Za-z0-9 ]", title)) * 1.0 / len(title)
+        if len(title) > 0 and len(link) > 3 and "<![" not in title and if_contain_symbol(title) == False and day < now_ts and link.startswith('http') and en_rate < 0.5:
             result.append([day, title, link, auther])
             index += 1
         if index >= 100: break
