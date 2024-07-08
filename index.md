@@ -1,37 +1,15 @@
 # 中文独立博客
 
 ### 2024-07-08
-[Grand καλοκαιρινό opening στον Οινοφόρο με την μοναδική ΙΟΥΛΙΑ ΚΑΡΑΠΑΤΑΚΗ την Δευτέρα 15 Ιουλίου στις 10:30 το βράδυ!!!](https://www.lesvosnews.net/articles/news-categories/politismos/grand-kalokairino-opening-ston-oinoforo-me-tin-monadiki-ioylia)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-08 10:59:55
+[高效利用 GitHub 搜索，精准快速获取所需](https://talen.top/posts/b9a0156a/)  by  M.Talen  at  2024-07-08 10:27:34
 
-[Λέσβος – 2ο ΕΤΕΘ, Σχηματισμοί Μάχης με Ταχύπλοα Σκάφη (βίντεο)](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/lesbos-2o-eteth-shimatismoi-mahis-me-tahyploa-skafi)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-08 10:55:25
+[售价13513人民币的卡牌？七夕秋叶原游记](https://www.wikimoe.com/post/p06pp64x)  by  维基萌  at  2024-07-08 10:22:05
 
-[Λειτουργία Κέντρου Ενημέρωσης Επισκεπτών  από τον Φορέα Τουρισμού Μολύβου](https://www.lesvosnews.net/articles/news-categories/toyrismos/leitoyrgia-kentroy-enimerosis-episkepton-apo-ton-forea-0)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-08 10:04:20
+[Как покрасить лен и хлопок в домашних условиях](https://home-sweet.ru/archives/32254)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-07-08 08:19:39
 
-[Ξεκίνησαν σήμερα οι θερινές εκπτώσεις](https://www.lesvosnews.net/articles/news-categories/oikonomia/xekinisan-simera-oi-therines-ekptoseis)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-08 09:18:58
+[Шаблоны витражей — как расписать стекло](https://home-sweet.ru/archives/15537)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-07-08 08:10:07
 
-[استطلاع جديد: ترامب سيهزم هاريس بسهولة](https://www.aljazeera.net/news/2024/7/8/%d8%a7%d8%b3%d8%aa%d8%b7%d9%84%d8%a7%d8%b9-%d8%ac%d8%af%d9%8a%d8%af-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%b3%d9%8a%d9%87%d8%b2%d9%85-%d9%87%d8%a7%d8%b1%d9%8a%d8%b3-%d8%a8%d8%b3%d9%87%d9%88%d9%84%d8%a9?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 07:35:22
-
-[غارات إسرائيلية على موقع لحزب الله وبلدات جنوبي لبنان](https://www.aljazeera.net/news/2024/7/8/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d9%8a%d9%82%d8%b5%d9%81-%d9%85%d9%88%d9%82%d8%b9%d8%a7-%d9%84%d8%ad%d8%b2%d8%a8-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%a8%d9%84%d8%af%d8%a7%d8%aa?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 07:34:49
-
-[روسيا تحبط محاولة أوكرانية لخطف قاذفة قنابل إستراتيجية](https://www.aljazeera.net/news/2024/7/8/%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%aa%d8%ad%d8%a8%d8%b7-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a9-%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d9%84%d8%ae%d8%b7%d9%81-%d9%82%d8%a7%d8%b0%d9%81%d8%a9?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 07:33:19
-
-[Aνατροπή στη Γαλλία: Νίκη απέναντι στην ακροδεξιά](https://www.lesvosnews.net/articles/news-categories/kosmos/anatropi-sti-gallia-niki-apenanti-stin-akrodexia)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-08 07:25:46
-
-[تحقيق جديد يؤكد فشل الجيش الإسرائيلي في هجوم 7 أكتوبر](https://www.aljazeera.net/news/2024/7/8/%d8%aa%d8%ad%d9%82%d9%8a%d9%82-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%a4%d9%83%d8%af-%d8%a7%d9%84%d9%81%d8%b4%d9%84-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 07:02:56
-
-[الاقتصاد البريطاني يعاني.. هل يصلح العمال ما أفسده المحافظون؟](https://www.aljazeera.net/ebusiness/2024/7/8/%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a-%d9%8a%d8%b9%d8%a7%d9%86%d9%8a-%d9%87%d9%84-%d9%8a%d8%b5%d9%84%d8%ad?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 07:00:30
-
-[كونفدرالية دول الساحل بأفريقيا.. تحديات العزلة وآمال الاستقطاب](https://www.aljazeera.net/politics/2024/7/8/%d9%83%d9%88%d9%86%d9%81%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84-%d8%a8%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 06:58:26
-
-[اشتباكات بنابلس واقتحامات جديدة لقوات الاحتلال في الضفة](https://www.aljazeera.net/news/2024/7/8/%d8%a7%d9%82%d8%aa%d8%ad%d8%a7%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b6%d9%81%d8%a9-3?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 05:59:43
-
-[الانتخابات الفرنسية.. ماذا يحدث عندما لا يفوز أي حزب بالأغلبية؟](https://www.aljazeera.net/news/2024/7/8/%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%ad%d8%af%d8%ab-%d8%b9%d9%86%d8%af%d9%85%d8%a7-%d9%84%d8%a7-%d9%8a%d9%81%d9%88%d8%b2-%d8%a3%d9%8a-%d8%ad%d8%b2%d8%a8-%d9%81%d9%8a?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 05:59:25
-
-[مبادرات تفعيل منظمة التحرير الفلسطينية وتحريك المياه الراكدة](https://www.aljazeera.net/politics/2024/7/8/%d9%85%d8%a8%d8%a7%d8%af%d8%b1%d8%a7%d8%aa-%d8%aa%d9%81%d8%b9%d9%8a%d9%84-%d9%85%d9%86%d8%b8%d9%85%d8%a9-%d8%a7%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 05:47:54
-
-[قوات الاحتلال تتوغل جنوب غزة وتهجر آلاف السكان](https://www.aljazeera.net/news/2024/7/8/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%aa%d8%aa%d9%88%d8%ba%d9%84-%d8%ac%d9%86%d9%88%d8%a8-%d8%ba%d8%b2%d8%a9-%d9%88%d8%aa%d9%87%d8%ac%d8%b1?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 05:29:12
-
-[لماذا يصرّ النظام السوري على عقد الانتخابات التشريعية؟](https://www.aljazeera.net/politics/2024/7/8/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b5%d8%b1-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d8%b9%d9%84%d9%89-%d8%b9%d9%82%d8%af?traffic_source=rss)  by  الجزيرة نت  at  2024-07-08 04:45:53
+[两轮承载灵魂](https://blog.verynb.me/posts/10286.html)  by  晴雀  at  2024-07-08 02:12:21
 
 [见自己，见诗意](https://hin.cool/posts/jianshiyi.html)  by  W4J1e  at  2024-07-08 01:00:00
 
@@ -39,57 +17,7 @@
 
 
 ### 2024-07-07
-[طيران الاحتلال يشن غارات مكثفة على وسط وشمال غزة](https://www.aljazeera.net/news/2024/7/8/%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d9%8a%d8%b4%d9%86-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%83%d8%ab%d9%81%d8%a9-%d8%b9%d9%84%d9%89-%d9%88%d8%b3%d8%b7?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 23:30:37
-
-[Παρίσι ερχόμαστε! H Ελλάδα στους Ολυμπιακούς Αγώνες για πρώτη φορά μετά από 16 χρόνια.](https://www.lesvosnews.net/articles/news-categories/ellada/parisi-erhomaste-h-ellada-stoys-olympiakoys-agones-gia-proti-fora)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 22:45:01
-
-[Τραυματίστηκαν δύο γυναίκες 26 και 19 χρονών σε τροχαίο στο Πέραμα Γέρας](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/traymatistikan-dyo-gynaikes-26-kai-19-hronon-se)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 22:35:35
-
-[Ρουσφέτια στο Νοσοκομείο Μυτιλήνης - Τι αναφέρει το Νέο Όραμα Υγειονομικών](https://www.lesvosnews.net/articles/news-categories/ygeia/roysfetia-sto-nosokomeio-mytilinis-ti-anaferei-neo-orama)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 22:28:20
-
-[بينهم أطفال.. 10 شهداء ومفقودون بقصف إسرائيلي في جباليا النزلة](https://www.aljazeera.net/videos/2024/7/8/%d8%a8%d9%8a%d9%86%d9%87%d9%85-%d8%a3%d8%b7%d9%81%d8%a7%d9%84-10-%d8%b4%d9%87%d8%af%d8%a7%d8%a1-%d9%88%d9%85%d9%81%d9%82%d9%88%d8%af%d9%88%d9%86-%d8%a8%d9%82%d8%b5%d9%81?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 22:21:57
-
-[مئات المتظاهرين يحاولون الوصول إلى مقر نتنياهو بالقدس](https://www.aljazeera.net/news/2024/7/8/%d9%85%d8%a6%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%b8%d8%a7%d9%87%d8%b1%d9%8a%d9%86-%d9%8a%d8%ad%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d8%a5%d9%84%d9%89?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 22:16:54
-
-["Χάσματα Γενεών και Ανθρώπων" στη Βρίσα - Κυριακή 7 Ιουλίου](https://www.lesvosnews.net/articles/news-categories/politismos/hasmata-geneon-kai-anthropon-sti-brisa-kyriaki-7-ioylioy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 20:45:00
-
-[في أسبوع واحد.. فرنسا تنتقل من اليمين إلى اليسار](https://www.aljazeera.net/news/2024/7/7/%d9%81%d9%8a-%d8%a3%d8%b3%d8%a8%d9%88%d8%b9-%d9%88%d8%a7%d8%ad%d8%af-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d9%86%d8%aa%d9%82%d9%84-%d9%85%d9%86-%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 20:42:15
-
-[بايدن يتشبث بحملته الانتخابية في وجه الضغوط](https://www.aljazeera.net/news/2024/7/7/%d8%a8%d8%a7%d9%8a%d8%af%d9%86-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%a7%d8%b1-%d8%ad%d9%85%d9%84%d8%aa%d9%87-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d8%a9?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 20:35:30
-
-["الحقيبة".. رواية تفاعلية مغربية على تطبيق "تيك توك"](https://www.aljazeera.net/culture/2024/7/7/%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d8%a8%d8%a9-%d8%a3%d9%88%d9%84-%d8%b1%d9%88%d8%a7%d9%8a%d8%a9-%d8%aa%d9%81%d8%a7%d8%b9%d9%84%d9%8a%d8%a9-%d9%85%d8%ba%d8%b1%d8%a8%d9%8a%d8%a9-%d8%b9%d9%84%d9%89?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 20:10:09
-
-[موعد مباراة الأرجنتين ضد كندا في نصف نهائي كوبا أميركا 2024 والقنوات الناقلة](https://www.aljazeera.net/sport/2024/7/7/argentina-vs-canada-messi?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 20:09:13
-
-[أقصى اليمين حل ثالثا.. تعرف على النتائج الأولية لانتخابات فرنسا التشريعية](https://www.aljazeera.net/videos/2024/7/7/%d8%a3%d9%82%d8%b5%d9%89-%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86-%d8%ad%d9%84-%d8%ab%d8%a7%d9%84%d8%ab%d8%a7-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86%d8%aa%d8%a7%d8%a6%d8%ac?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 20:07:23
-
-[إصلاحي وسط محيط محافظ.. كيف يتعامل الرئيس الإيراني مع البرلمان؟](https://www.aljazeera.net/politics/2024/7/7/%d8%a5%d8%b5%d9%84%d8%a7%d8%ad%d9%8a-%d9%88%d8%b3%d8%b7-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d8%ad%d8%a7%d9%81%d8%b8-%d9%83%d9%8a%d9%81-%d9%8a%d8%aa%d8%b9%d8%a7%d9%85%d9%84?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 20:06:42
-
-[صحيفة روسية: هذا ما ينتظر أميركا وأوكرانيا بعهدة ترامب المحتملة](https://www.aljazeera.net/politics/2024/7/7/%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%b1%d8%a6%d8%a7%d8%b3%d8%a9-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%85%d9%84%d8%a9?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 19:52:11
-
-[هل تكذب إسرائيل في حجم خسائرها؟](https://www.aljazeera.net/news/2024/7/7/%d9%87%d9%84-%d8%aa%d9%83%d8%b0%d8%a8-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%a8%d8%ad%d8%ac%d9%85-%d8%ae%d8%b3%d8%a7%d8%b1%d9%87%d8%a7?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 19:43:21
-
-[Εορτάζει ο Άγιος Προκόπιος - Εορτάζει το Ίππειος](https://www.lesvosnews.net/articles/news-categories/koinonia/eortazei-o-agios-prokopios-eortazei-ippeios)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 19:30:00
-
-[محللون: كلمة أبو عبيدة رد على ألاعيب نتنياهو وهذه أبرز دلالاتها](https://www.aljazeera.net/politics/2024/7/7/%d9%85%d8%ad%d9%84%d9%84%d9%88%d9%86-%d9%83%d9%84%d9%85%d8%a9-%d8%a3%d8%a8%d9%88-%d8%b9%d8%a8%d9%8a%d8%af%d8%a9-%d8%b1%d8%af-%d8%b9%d9%84%d9%89-%d8%a3%d9%84%d8%a7%d8%b9%d9%8a%d8%a8?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 19:19:04
-
-[موعد مباراة فرنسا ضد إسبانيا في نصف نهائي يورو 2024 والقنوات الناقلة](https://www.aljazeera.net/sport/2024/7/7/france-vs-spain?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 19:12:56
-
-[الاحتجاجات الإسرائيلية تتأجج بدعوات الإضراب الشامل والعصيان المدني](https://www.aljazeera.net/politics/2024/7/7/%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%8a%d8%a9-%d8%aa%d8%aa%d8%a3%d8%ac%d8%ac-%d8%a8%d8%af%d8%b9%d9%88%d8%a7%d8%aa?traffic_source=rss)  by  الجزيرة نت  at  2024-07-07 19:12:42
-
-[Όλα ήταν Αγιάσος το Σάββατο στο Βιβλιοθήκη του Μολύβου](https://www.lesvosnews.net/articles/news-categories/biblio/ola-itan-agiasos-sabbato-sto-bibliothiki-toy-molyboy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 17:13:57
-
-[Η πλατεία Μυτιλήνης -  ミティリニ広場  - γιορτάζει!](https://www.lesvosnews.net/articles/news-categories/politismos/i-plateia-mytilinis-miteiriniguangchang-giortazei)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 16:49:00
-
-[Ολοκληρώνεται η εμβληματική δίκη για την ρατσιστική επίθεση στην πλατεία Σαπφούς  πριν από 6 χρόνια](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/oloklironetai-i-emblimatiki-diki-gia-tin-ratsistiki)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 16:35:50
-
-[Ταξίδι Πειραιάς - Χίο - Μυτιλήνη, βαθιά το χέρι στην τσέπη!](https://www.lesvosnews.net/articles/news-categories/naytiliaka-metafores/taxidi-peiraias-hio-mytilini-bathia-heri-stin-tsepi)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 16:19:46
-
-[Νεκρό 2,5 ετών κοριτσάκι από παρβοϊό](https://www.lesvosnews.net/articles/news-categories/ellada/nekro-25-eton-koritsaki-apo-parboio)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 15:02:06
-
-[Σημείο αναφοράς η "υποβάθμιση του κοινωνικού κράτους" στη συνάντηση Ανδρουλάκη - Χριστόφα](https://www.lesvosnews.net/articles/news-categories/politiki/simeio-anaforas-i-ypobathmisi-toy-koinonikoy-kratoys-sti)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 14:46:42
-
-[Φωτιά μεταξύ Πέτρας - Μολύβου. Φωτιά και στον Όλυμπο. Καθοριστικός ο ρόλος του πυροφυλακίου Αγιάσου](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/fotia-metaxy-petras-molyboy-fotia-kai-ston-olympo)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 14:11:35
+[软云跑路](https://dusays.com/725/)  by  Teacher Du  at  2024-07-07 16:00:00
 
 [入门三脚架推荐｜云腾VCT-668配合索尼A7C2+FE 35mm F1.8 第一次夜景出片](https://hellodk.cn/post/1178)  by  Allen Hua 的网络博客  at  2024-07-07 13:59:00
 
@@ -101,15 +29,7 @@
 
 [视野修炼 - 技术周刊](https://sugarat.top/weekly/)  by  粥里有勺糖  at  2024-07-07 11:22:05
 
-[Πέντε -συν μια- συμβουλές για τη συμπλήρωση του Μηχανογραφικού Δελτίου](https://www.lesvosnews.net/articles/news-categories/ekpaideysi/pente-syn-mia-symboyles-gia-ti-symplirosi-toy-mihanografikoy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 08:46:04
-
-[Εθελοντική Αιμοδοσία στη Μόρια - Κυριακή 7 Ιουλίου](https://www.lesvosnews.net/articles/news-categories/koinonia/ethelontiki-aimodosia-sti-moria-kyriaki-7-ioylioy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 08:30:00
-
-[Νέα πνοή στην Ίμβρο δίνει η επαναλειτουργία των σχολείων - Νέα ζευγάρια αποφασίζουν να επιστρέψουν στο νησί](https://www.lesvosnews.net/articles/news-categories/koinonia/nea-pnoi-stin-imbro-dinei-i-epanaleitoyrgia-ton-sholeion-nea)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 08:23:38
-
-[Ξεκινάει την Πέμπτη το SUPER RUNNER jet2  στη γραμμή Θεσσαλονίκη-Λήμνο - Μυτιλήνη](https://www.lesvosnews.net/articles/news-categories/naytiliaka-metafores/xekinaei-tin-pempti-super-runner-jet2-sti-grammi)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 08:14:36
-
-[Ταβέρνα της Ραχήλ για θερινή ραστώνη κοντά στον Μόλυβο της Λέσβου](https://www.lesvosnews.net/articles/news-categories/geyseis/taberna-tis-rahil-gia-therini-rastoni-konta-ston-molybo-tis-lesboy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-07 07:39:23
+[程序员做饭](https://blog.jishuqin.cn/posts/41888/)  by  顾梦  at  2024-07-07 09:44:15
 
 [久违的女仆咖啡，好像现在在和一款手游联动。](https://www.wikimoe.com/post/bk1iq94c)  by  维基萌  at  2024-07-07 07:24:55
 
@@ -119,47 +39,15 @@
 
 
 ### 2024-07-06
-[To Grup Yorum από την Τουρκία στο Πάρκο Αγίας Ειρήνης στη Μυτιλήνη - Συναυλία με δυνατό μήνυμα](https://www.lesvosnews.net/articles/news-categories/politismos/grup-yorum-apo-tin-toyrkia-sto-parko-agias-eirinis-sti-mytilini)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 21:00:00
-
-[Συνελήφθη ο υπεύθυνος για την μεγάλη φωτιά σε Κάπη - Μανταμάδο](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/synelifthi-o-ypeythynos-gia-tin-megali-fotia-se-kapi)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 20:57:17
-
-[Πως σώθηκε η Λέσβος από μια επικίνδυνη φωτιά - Το καθοριστικό τηλεφώνημα του Ταξιάρχη Βέρρου](https://www.lesvosnews.net/articles/news-categories/politiki/pos-sothike-i-lesbos-apo-mia-epikindyni-fotia-kathoristiko)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 19:24:46
-
-[6ημερη εργασία στην Ελλάδα - Τελικά τι ισχύει; - 10 ερωτήσεις και απαντήσεις](https://www.lesvosnews.net/articles/news-categories/ergasia/6imeri-ergasia-stin-ellada-telika-ti-ishyei-10-erotiseis-kai)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 17:23:02
-
-[Τα εναέρια μέσα μας έσωσαν...](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/ta-enaeria-mesa-mas-esosan)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 16:01:21
-
-[软云跑路](https://dusays.com/725/)  by  Teacher Du  at  2024-07-06 16:00:00
-
 [比之前更进一步的终极看番工具栈](https://controlnet.space/2024/07/06/note/media-server/)  by  ControlNet  at  2024-07-06 15:09:18
-
-[Επείγουσα έκκληση για την φωτιά σε Κάπη - Μανταμάδο](https://www.lesvosnews.net/articles/news-categories/anakoinoseis-foreon/epeigoysa-ekklisi-gia-tin-fotia-se-kapi-mantamado)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 14:56:47
 
 [沈语熙夜游江边长视频流出](https://nicrosoft.net/blog/2194/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-07-06 14:00:28
 
 [0706 - 操作越少越好、越简单越好](https://atjason.com/daily/2024-07-06.html)  by  Jason  at  2024-07-06 14:00:00
 
-[Θρήνος στην Καλλονή - Έφυγε από τη ζωή η Χαρίκλεια Ζαργκλή.](https://www.lesvosnews.net/articles/news-categories/koinonia/thrinos-stin-kalloni-efyge-apo-ti-zoi-i-harikleia-zargkli)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 13:33:45
-
-[Συναγερμός σε Κάπη και Μανταμάδο για φωτιά](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/synagermos-se-kapi-kai-mantamado-gia-fotia)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 12:57:05
-
-[Η αριστούχος των πανελλαδικών εξετάσεων που ονειρεύεται να ασχοληθεί επαγγελματικά με το χορό](https://www.lesvosnews.net/articles/news-categories/ellada/i-aristoyhos-ton-panelladikon-exetaseon-poy-oneireyetai-na)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 12:27:26
-
-[Είπε "ευχαριστώ" στο Νοσοκομείο στέλνοντας 25 πιτόγυρα!](https://www.lesvosnews.net/articles/news-categories/limnos/eipe-eyharisto-sto-nosokomeio-stelnontas-25-pitogyra)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 12:11:38
-
-[Ο Νίκος Ανδρουλάκης στη Λέσβο - Αναλυτικά το πρόγραμμα της επίσκεψης](https://www.lesvosnews.net/articles/news-categories/politiki/o-nikos-androylakis-sti-lesbo-analytika-programma-tis-episkepsis)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 11:31:07
-
 [计算汉明重量的两个技巧性算法](https://uuanqin.top/p/77c7bcae/)  by  wuanqin  at  2024-07-06 10:53:09
 
-[Με ένα κλικ μέσω του gov.gr και με τις …ευλογίες της Εκκλησίας η έκδοση άδειας γάμου, βάπτισης και λύσης διαζυγίου](https://www.lesvosnews.net/articles/news-categories/koinonia/me-ena-klik-meso-toy-govgr-kai-me-tis-eylogies-tis-ekklisias-i)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 10:33:38
-
-[Μετακόμισαν στη Μυτιλήνη το 2022 και δημιούργησαν το Μεζεδοπωλείο 28 με ντόπια υλικά και... αγάπη](https://www.lesvosnews.net/articles/news-categories/geyseis/metakomisan-sti-mytilini-2022-kai-dimioyrgisan-mezedopoleio-28-me)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 09:39:30
-
 [还原剧中场景的蛋包饭？ 《摇曳露营△ SEASON 3》联动咖啡](https://www.wikimoe.com/post/3nnbvhf0)  by  维基萌  at  2024-07-06 08:14:55
-
-[Φρίκη στην Πέτρα Λέσβου - 2 κατσίκες στοιβαγμένες σε ξύλινη κατασκευή](https://www.lesvosnews.net/articles/news-categories/koinonia/friki-stin-petra-lesboy-2-katsikes-stoibagmenes-se-xylini)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 07:41:21
-
-[Ένα βήμα μπροστά ο Δήμος Δυτικής Λέσβου : Η πρώτη Κινητή Μονάδα Κέντρου Κοινότητας στο Β. Αιγαίο](https://www.lesvosnews.net/articles/news-categories/politiki/ena-bima-mprosta-o-dimos-dytikis-lesboy-i-proti-kiniti-monada)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-06 07:27:52
 
 [走过路过发现了一家高木同学的POP UP SHOP。](https://www.wikimoe.com/post/lpqmej63)  by  维基萌  at  2024-07-06 06:23:55
 
@@ -175,39 +63,11 @@
 
 [每日原创壁纸：黑色质感抽象壁纸 2024.07.05](https://suiyan.cc/2024/20240705233336.html)  by  SuiYan 碎言  at  2024-07-05 21:03:36
 
-[Δύο εμβληματικές γυναικείες μορφές Ερωφίλη και Τρισεύγενη  στο Ιερό του Μέσσου](https://www.lesvosnews.net/articles/news-categories/politismos/dyo-emblimatikes-gynaikeies-morfes-erofili-kai-triseygeni-sto)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 20:00:00
-
-[Π. Κουφέλος: καλωσορίζουμε τον νέο Πρόεδρο  Παναγιούδας Βαγγέλη Βιόλατζη.](https://www.lesvosnews.net/articles/news-categories/politiki/p-koyfelos-kalosorizoyme-ton-neo-proedro-panagioydas-baggeli)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 18:06:20
-
-[Το Απολιθωμένο Δάσος Λέσβου αφορμή έμπνευσης για νέους καλλιτέχνες](https://www.lesvosnews.net/articles/news-categories/moyseio-sigri-geoparko/apolithomeno-dasos-lesboy-aformi-empneysis-gia)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 17:13:23
-
-[Το Survivor στην Ερεσό! Για δεύτερη χρονιά δράση και survivor games](https://www.lesvosnews.net/articles/news-categories/athlitika/survivor-stin-ereso-gia-deyteri-hronia-drasi-kai-survivor-games)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 17:07:18
-
 [服务器上的一揽子服务](https://yuanj.top/posts/k7c6z3g0/)  by  yuanj's blog  at  2024-07-05 17:01:32
-
-[Πεζή καταδίωξη 38χρονου στο λιμάνι της Μυτιλήνης - Κουβαλούσε ηρωίνη και μεθαδόνη](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/pezi-katadioxi-38hronoy-sto-limani-tis-mytilinis)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 15:51:20
-
-[Ξεκίνησαν οι εργασίες οδοστρωσίας του δρόμου Πάμφιλα - Παναγιούδα](https://www.lesvosnews.net/articles/news-categories/politiki/xekinisan-oi-ergasies-odostrosias-toy-dromoy-pamfila-panagioyda)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 15:38:21
-
-[Διπλό θερμό επεισόδιο στο πλοίο της γραμμής Μυτιλήνη - Χίος - Πειραιάς](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/diplo-thermo-epeisodio-sto-ploio-tis-grammis-mytilini)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 15:25:48
 
 [《鸣潮》散记：有趣的搅局者](https://www.velasx.com/am/6210)  by  Zeee  at  2024-07-05 15:24:51
 
-[Από μηχανικός AI σε ψηφιακό σύμβουλο: μελλοντικές επαγγελματικές τάσεις στην Ελλάδα](https://www.lesvosnews.net/articles/news-categories/ergasia/apo-mihanikos-ai-se-psifiako-symboylo-mellontikes-epaggelmatikes)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 14:49:40
-
-[Πυροβολισμοί σε περιστατικό εισόδου μεταναστών](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/pyrobolismoi-se-peristatiko-eisodoy-metanaston)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 14:09:44
-
 [0705 - 交易的「严松严」](https://atjason.com/daily/2024-07-05.html)  by  Jason  at  2024-07-05 14:00:00
-
-[Δωρεά απορριμματοφόρου στο Δήμο Δυτικής Λέσβου από το Δήμο Παλαιού Φαλήρου](https://www.lesvosnews.net/articles/news-categories/politiki/dorea-aporrimmatoforoy-sto-dimo-dytikis-lesboy-apo-dimo-palaioy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 13:53:42
-
-[Εκπαιδευτικό επίδομα 2.250 € για 300 ανέργους στη Λέσβο](https://www.lesvosnews.net/articles/news-categories/ergasia/ekpaideytiko-epidoma-2250-eu-gia-300-anergoys-sti-lesbo)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 11:09:16
-
-[Έκτακτα μέτρα στην προκυμαία Μυτιλήνης για την λιτάνευση των Ιερών Λειψάνων και των Εικόνων των Αγίων της Λέσβου](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/ektakta-metra-stin-prokymaia-mytilinis-gia-tin)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 09:48:55
-
-[Δευτέρα 15 Ιουλίου η 2η γενική διαβροχή για την καταπολέμηση του δάκου στη Λέσβο](https://www.lesvosnews.net/articles/news-categories/agrotika-alieia/deytera-15-ioylioy-i-2i-geniki-diabrohi-gia-tin)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 09:16:59
-
-[Ζητούν ελεύθερη πρόσβαση στην πλαζ Τσαμάκια](https://www.lesvosnews.net/articles/news-categories/koinonia/zitoyn-eleytheri-prosbasi-stin-plaz-tsamakia)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-05 08:36:11
 
 [为什么我花了一千买微软单词邮箱](https://happyxiao.com/livecn/)  by  happy xiao  at  2024-07-05 04:53:03
 
@@ -215,71 +75,23 @@
 
 
 ### 2024-07-04
-[Δεσμεύτηκε η κινητή και ακίνητη περιουσία του Αντώνη Ρέμου μέχρι το ποσό του 1,5 εκατ. ευρώ - Κατηγορείται για φοροδιαφυγή](https://www.lesvosnews.net/articles/news-categories/ellada/desmeytike-i-kiniti-kai-akiniti-perioysia-toy-antoni-remoy-mehri)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 20:23:00
-
-[Ο Δήμος Μυτιλήνης για την προώθηση του μητρικού θηλασμού](https://www.lesvosnews.net/articles/news-categories/politiki/o-dimos-mytilinis-gia-tin-proothisi-toy-mitrikoy-thilasmoy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 20:13:20
-
-[Επεσε κανείς από τα σύννεφα για τον κύριο Αυγενάκη;  - Δύο παραδείγματα που η βία έφερνε ψήφους σε αυτόν και στη ΝΔ](https://www.lesvosnews.net/articles/news-categories/ellada/epese-kaneis-apo-ta-synnefa-gia-ton-kyrio-aygenaki-dyo-paradeigmata)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 20:11:08
-
-[Στου Νότου εκείνου τ’ αποκούμπι](https://fdathanasiou.wordpress.com/2024/07/04/%cf%83%cf%84%ce%bf%cf%85-%ce%bd%cf%8c%cf%84%ce%bf%cf%85-%ce%b5%ce%ba%ce%b5%ce%af%ce%bd%ce%bf%cf%85-%cf%84-%ce%b1%cf%80%ce%bf%ce%ba%ce%bf%cf%8d%ce%bc%cf%80%ce%b9/)  by  ΘΗΣΑΥΡΟΣ ΓΝΩΣΕΩΝ ΚΑΙ ΕΥΣΕΒΕΙΑΣ-ΠΝΕΥΜΑΤΙΚΑ ΘΗΣΑΥΡΙΣΜΑΤΑ  at  2024-07-04 18:33:44
-
-[Το νερό τρέχει από την Κυριακή και... ακόμη περιμένουν την ΔΕΥΑΛ! Απόγνωση από την Σκάλα Πολιχνίτου](https://www.lesvosnews.net/articles/news-categories/koinonia/nero-trehei-apo-tin-kyriaki-kai-akomi-perimenoyn-tin-deyal)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 18:21:03
-
-[Φωτιά σε δασική έκταση στην Αγιάσο (φωτο)](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/fotia-se-dasiki-ektasi-stin-agiaso-foto)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 18:05:06
-
-[Λέσβος:    Άρση των μέτρων για την ευλογιά προβάτων και αιγών](https://www.lesvosnews.net/articles/news-categories/agrotika-alieia/lesbos-arsi-ton-metron-gia-tin-eylogia-probaton-kai-aigon)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 17:58:27
-
-[Τι πλήρωσε ο ΟΠΕΚΕΠΕ χθες και σήμερα](https://www.lesvosnews.net/articles/news-categories/agrotika-alieia/ti-plirose-o-opekepe-hthes-kai-simera)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 17:07:01
-
-[Συναγερμός στη Λέσβο - Κεραυνοί, 5 φωτιές και καταιγίδες](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/synagermos-sti-lesbo-keraynoi-5-foties-kai-kataigides)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 16:07:01
-
 [Tianji 访问统计运行监控服务器状态工具简单评测](https://dusays.com/724/)  by  Teacher Du  at  2024-07-04 16:00:00
-
-[73χρονος βασάνιζε κατσίκα στην Καλλονή Λέσβου](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/73hronos-basanize-katsika-stin-kalloni-lesboy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 15:18:09
 
 [今日不宜冒险岛，然后我打开冒险岛显卡就出问题了…](https://www.wikimoe.com/post/ja71zwsp)  by  维基萌  at  2024-07-04 13:55:28
 
-[Συμμετοχή της Λέσβου στην Παγκόσμια Έκθεση παρατήρησης πουλιών Global Birdfair 2024](https://www.lesvosnews.net/articles/news-categories/moyseio-sigri-geoparko/symmetohi-tis-lesboy-stin-pagkosmia-ekthesi-0)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 13:43:32
-
-[Το Μουσικό σχολείο Δυτικής Λέσβου πάει και Λύκειο!](https://www.lesvosnews.net/articles/news-categories/ekpaideysi/moysiko-sholeio-dytikis-lesboy-paei-kai-lykeio)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 13:36:37
-
-[Φωτιά από κεραυνό στα Κεραμειά Λέσβου](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/fotia-apo-kerayno-sta-kerameia-lesboy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 12:44:37
-
-[Tα οφέλη της γεωθερμικής ενέργειας στη Λέσβο - Σημαντική ημερίδα από την Περιφέρεια](https://www.lesvosnews.net/articles/news-categories/politiki/ta-ofeli-tis-geothermikis-energeias-sti-lesbo-simantiki-imerida)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 12:26:34
-
-[Παρασκευή 5 Ιουλίου διακοπή ρεύματος - Δείτε τις περιοχές](https://www.lesvosnews.net/articles/news-categories/anakoinoseis-foreon/paraskeyi-5-ioylioy-diakopi-reymatos-deite-tis)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 11:35:17
-
-[Καταδίωξη σκάφους με 30χρονο διακινητή στη Λέσβο - Εντοπίστηκαν 19 μετανάστες](https://www.lesvosnews.net/articles/news-categories/astynomiko-reportaz/katadioxi-skafoys-me-30hrono-diakiniti-sti-lesbo)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 10:53:00
-
-[Euro 2004: 20 χρόνια από το έπος της Πορτογαλίας](https://www.lesvosnews.net/articles/news-categories/ellada/euro-2004-20-hronia-apo-epos-tis-portogalias)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 10:30:49
-
 [刷到了《团子大家族》的坐垫广告。非常可爱！只不过价格...L尺寸12000日元（约541人民币），L...](https://www.wikimoe.com/post/kuw6tr0c)  by  维基萌  at  2024-07-04 10:26:06
 
-[Η Λέσβος τουριστικός προορισμός και για την Ρουμανία](https://www.lesvosnews.net/articles/news-categories/toyrismos/i-lesbos-toyristikos-proorismos-kai-gia-tin-roymania)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 10:23:13
-
 [六月的流水帐](https://moonlt.site/posts/2024/07/jun2024_rambling/)  by  Posts on 月夜Moonlight  at  2024-07-04 10:14:39
-
-[Ο Χ. Αθανασίου  στην τελετή υποδοχής του Προέδρου   της Δημοκρατίας της Λετονίας](https://www.lesvosnews.net/articles/news-categories/politiki/o-h-athanasioy-stin-teleti-ypodohis-toy-proedroy-tis-dimokratias)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 09:07:21
-
-[Έκτακτο δελτίο για ισχυρές καταιγίδες το μεσημέρι](https://www.lesvosnews.net/articles/news-categories/periballon/ektakto-deltio-gia-ishyres-kataigides-mesimeri)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 08:57:17
-
-[Με αφετηρία το Πλωμάρι ιστιοπλοϊκός αγώνας Aegean Trophy - Αποτελέσματα](https://www.lesvosnews.net/articles/news-categories/athlitika/me-afetiria-plomari-istioploikos-agonas-aegean-trophy)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-04 08:33:41
 
 [电子PDF如何加盖骑缝章？电子骑缝章生成器](https://blog.zhheo.com/p/81ac681.html)  by  张洪Heo  at  2024-07-04 02:13:32
 
 [奇趣周刊 - 第 57 期](https://zishu.me/blog/weekly-57.html/)  by  子舒的博客  at  2024-07-04 00:00:00
 
+[奇趣周刊 - 第 57 期](https://zishu.me/blog/weekly-57.html/)  by  子舒的博客  at  2024-07-04 00:00:00
+
 
 ### 2024-07-03
-[Νέο φιάσκο ( ; ) πληρωμών από τον ΟΠΕΚΕΠΕ σήμερα Τετάρτη...](https://www.lesvosnews.net/articles/news-categories/agrotika-alieia/neo-fiasko-pliromon-apo-ton-opekepe-simera-tetarti)  by  Lesvosnews.net - Ειδήσεις και νέα της Μυτιλήνης - Λέσβου  at  2024-07-03 21:07:55
-
 [每日一思](http://brightliao.com/2024/07/03/daily-thoughts/)  by  Bright LGM  at  2024-07-03 20:00:00
-
-[每日一思](http://brightliao.com/2024/07/03/daily-thoughts/)  by  Bright LGM  at  2024-07-03 20:00:00
-
-[Στον απόηχο της Πατριαρχικής Επίσκεψης στην Άρτα 29 Ιουνίου 2024](https://fdathanasiou.wordpress.com/2024/07/03/%cf%83%cf%84%ce%bf%ce%bd-%ce%b1%cf%80%cf%8c%ce%b7%cf%87%ce%bf-%cf%84%ce%b7%cf%82-%cf%80%ce%b1%cf%84%cf%81%ce%b9%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae%cf%82-%ce%b5%cf%80%ce%af%cf%83%ce%ba%ce%b5%cf%88-2/)  by  ΘΗΣΑΥΡΟΣ ΓΝΩΣΕΩΝ ΚΑΙ ΕΥΣΕΒΕΙΑΣ-ΠΝΕΥΜΑΤΙΚΑ ΘΗΣΑΥΡΙΣΜΑΤΑ  at  2024-07-03 19:57:06
-
-[Στον απόηχο της Πατριαρχικής Επίσκεψης στην Άρτα 29 Ιουνίου 2024  (Ψηφίδες μνήμης στη θάλασσα της λήθης)](https://fdathanasiou.wordpress.com/2024/07/03/%cf%83%cf%84%ce%bf%ce%bd-%ce%b1%cf%80%cf%8c%ce%b7%cf%87%ce%bf-%cf%84%ce%b7%cf%82-%cf%80%ce%b1%cf%84%cf%81%ce%b9%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%ae%cf%82-%ce%b5%cf%80%ce%af%cf%83%ce%ba%ce%b5%cf%88/)  by  ΘΗΣΑΥΡΟΣ ΓΝΩΣΕΩΝ ΚΑΙ ΕΥΣΕΒΕΙΑΣ-ΠΝΕΥΜΑΤΙΚΑ ΘΗΣΑΥΡΙΣΜΑΤΑ  at  2024-07-03 17:47:04
 
 [0703 - 幼儿园变养老院](https://atjason.com/daily/2024-07-03.html)  by  Jason  at  2024-07-03 14:00:00
 
@@ -295,9 +107,9 @@
 
 [《永恒的舞动》第九十七章](https://nicrosoft.net/blog/2193/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-07-02 18:37:34
 
-[Ήταν ο άγιος Ιωάννης της Σαγκάης (Μαξιμόβιτς) σχισματικός; (Αφορά στην εκφώνηση του Μητροπολίτη Γαλλίας Εμμανουήλ)](https://fdathanasiou.wordpress.com/2024/07/02/%ce%ae%cf%84%ce%b1%ce%bd-%ce%bf-%ce%ac%ce%b3%ce%b9%ce%bf%cf%82-%ce%b9%cf%89%ce%ac%ce%bd%ce%bd%ce%b7%cf%82-%cf%84%ce%b7%cf%82-%cf%83%ce%b1%ce%b3%ce%ba%ce%ac%ce%b7%cf%82-%ce%bc%ce%b1%ce%be%ce%b9%ce%bc/)  by  ΘΗΣΑΥΡΟΣ ΓΝΩΣΕΩΝ ΚΑΙ ΕΥΣΕΒΕΙΑΣ-ΠΝΕΥΜΑΤΙΚΑ ΘΗΣΑΥΡΙΣΜΑΤΑ  at  2024-07-02 16:29:10
-
 [生活中的小问题——公交计费问题](https://lisz.me/tech/algorithm/bus-ticket)  by  zhonger  at  2024-07-02 15:15:00
+
+[我的第一台 NAS 都有些什么](https://blog.fkynjyq.com/what-are-on-my-first-nas)  by  FKYnJYQ  at  2024-07-02 15:12:01
 
 [0702 - 运动员只做五件事](https://atjason.com/daily/2024-07-02.html)  by  Jason  at  2024-07-02 14:00:00
 
@@ -308,8 +120,6 @@
 [如何选择职业？平均斯坦与极端斯坦](https://happyxiao.com/mediocristan/)  by  happy xiao  at  2024-07-02 05:57:02
 
 [独立创作是一种生活方式](https://limboy.me/posts/independent-creation-is-a-lifestyle/)  by  Limboy  at  2024-07-02 00:00:00
-
-[24年7月海外券商/银行开户活动精选](https://innomad.io/24-07-promo)  by  Innomad 一挪迈  at  2024-07-02 00:00:00
 
 [24年7月海外券商/银行开户活动精选](https://innomad.io/24-07-promo)  by  Innomad 一挪迈  at  2024-07-02 00:00:00
 
@@ -343,21 +153,19 @@
 
 [盈透证券 IB 值得订阅的市场数据](https://innomad.io/ibkr-market-data)  by  Innomad 一挪迈  at  2024-07-01 00:00:00
 
-[盈透证券 IB 值得订阅的市场数据](https://innomad.io/ibkr-market-data)  by  Innomad 一挪迈  at  2024-07-01 00:00:00
-
 
 ### 2024-06-30
 [2024夏：不畏浮云遮望眼，乱云飞渡仍从容](https://macin.org/2024/06/30/202404/)  by  Macin CHEN  at  2024-06-30 20:28:45
 
 [内网渗透信息搜集骚姿势](https://blog.zgsec.cn/archives/608.html)  by  AabyssZG's Blog  at  2024-06-30 19:08:00
 
+[IDM：广受欢迎的高速下载管理器](https://talen.top/posts/b832248a/)  by  M.Talen  at  2024-06-30 16:20:06
+
 [《系统设计面试》读书笔记(连载中)](https://lmmsoft.github.io//system_design_interview)  by  lmm333  at  2024-06-30 16:00:00
 
 [猴头能被金箍控制吗？](https://blog.si-on.top/2024/Shell-and-the-art-of-chaos-conctrl-I/)  by  秉  at  2024-06-30 15:54:37
 
 [“优雅”的定妆视频](https://nicrosoft.net/blog/2188/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-06-30 14:40:43
-
-[综合大佬报告的一些问题，得出了苹果safari默认的视频进度条UI的一些特性（BUG？）。1.在拖动...](https://www.wikimoe.com/post/hb2emj43)  by  维基萌  at  2024-06-30 14:06:39
 
 [如何评价斯内普教授？](https://lenciel.com/2024/06/what-do-you-think-about-professor-severus-snape)  by  Lenciel  at  2024-06-30 13:25:53
 
@@ -397,15 +205,27 @@
 
 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)  by  阮一峰的网络日志  at  2024-06-28 08:15:46
 
+[K8S1.27.0集群部署要点](https://blog.horonlee.com/posts/K8S1.27.0-deploy)  by  皓然  at  2024-06-28 07:44:14
+
+[Linux在线扩容磁盘](https://blog.horonlee.com/posts/Linux-volume)  by  皓然  at  2024-06-28 07:44:14
+
+[LVM添加硬盘并扩容至已有分区](https://blog.horonlee.com/posts/Online-Expansion-Ubuntu-LVM)  by  皓然  at  2024-06-28 07:44:14
+
+[通过SRS实现在线直播](https://blog.horonlee.com/posts/SRS-liveStream)  by  皓然  at  2024-06-28 07:44:14
+
+[家庭宽带桥接并为路由器配置DDNS](https://blog.horonlee.com/posts/bridge-router-ddns)  by  皓然  at  2024-06-28 07:44:14
+
+[脚本练习1](https://blog.horonlee.com/posts/shell-practice)  by  皓然  at  2024-06-28 07:44:14
+
+[Docker镜像的封装和制作](https://blog.horonlee.com/posts/Docker-images)  by  皓然  at  2024-06-28 07:44:14
+
+[为Systemd服务设置自动重启](https://blog.horonlee.com/posts/Frpc-systemd-restart)  by  皓然  at  2024-06-28 07:44:14
+
 [2024 年美国总统竞选第一轮辩论](https://leimao.github.io/essay/2024%E5%B9%B4%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%AB%9E%E9%80%89%E7%AC%AC%E4%B8%80%E8%BD%AE%E8%BE%A9%E8%AE%BA/)  by  Lei Mao  at  2024-06-28 07:00:00
 
 [林浩的工作间](https://nicrosoft.net/blog/2183/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-06-28 06:34:26
 
 [李笑来又出书了！这次只花了18美金和一天时间！深度拆解他是如何用GPT-4o快速写书的](https://lmmsoft.github.io//how_did_xiaolai_write_book_with_gpt4o)  by  lmm333  at  2024-06-28 04:00:00
-
-[15 分钟香港丝滑开户流程](https://leonfong.me/posts/how-to-open-a-bank-account-in-HK)  by  Leon Fong  at  2024-06-28 00:00:00
-
-[嘉信理财账户购买美债图文教程](https://innomad.io/how-to-buy-bonds-with-schwab)  by  Innomad 一挪迈  at  2024-06-28 00:00:00
 
 [15 分钟香港丝滑开户流程](https://leonfong.me/posts/how-to-open-a-bank-account-in-HK)  by  Leon Fong  at  2024-06-28 00:00:00
 
@@ -421,6 +241,8 @@
 
 [一种在 Electron 和 Web 环境下显示原生及自定义菜单的通用方法](https://innei.in/posts/tech/a-universal-method-about-show-electron-native-and-web-custom-menus)  by  静かな森  at  2024-06-27 07:00:43
 
+[一种在 Electron 和 Web 环境下显示原生及自定义菜单的通用方法](https://innei.in/posts/tech/a-universal-method-about-show-electron-native-and-web-custom-menus)  by  静かな森  at  2024-06-27 07:00:43
+
 [2024 年湾区有意思的节庆](https://leimao.github.io/essay/2024%E5%B9%B4%E6%B9%BE%E5%8C%BA%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%8A%82%E5%BA%86/)  by  Lei Mao  at  2024-06-27 07:00:00
 
 [观点：肝癌双免疫治疗（O+Y 或 STRIDE 方案）该如何用？](http://whyes.org/2024/viewpoint-pd-1-ctla-4-hcc)  by  whyes 的博客  at  2024-06-27 03:48:30
@@ -430,6 +252,8 @@
 [文献阅读（十七）](http://www.seis-jun.xyz/paper-reading-17)  by  Jun Xie  at  2024-06-27 00:57:24
 
 [文献阅读（十六）](http://www.seis-jun.xyz/paper-reading-16)  by  Jun Xie  at  2024-06-27 00:47:07
+
+[奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/)  by  子舒的博客  at  2024-06-27 00:00:00
 
 [奇趣周刊 - 第 56 期](https://zishu.me/blog/weekly-56.html/)  by  子舒的博客  at  2024-06-27 00:00:00
 
@@ -475,8 +299,6 @@
 
 [我的盈透 IB 账户里到底有多少钱？](https://innomad.io/ib-balances)  by  Innomad 一挪迈  at  2024-06-24 00:00:00
 
-[我的盈透 IB 账户里到底有多少钱？](https://innomad.io/ib-balances)  by  Innomad 一挪迈  at  2024-06-24 00:00:00
-
 
 ### 2024-06-23
 [乐山游记](https://sund.site/posts/2024/leshan/)  by  The Context Works  at  2024-06-23 18:50:51
@@ -501,15 +323,17 @@
 
 [使用 PipeWire 实现自动应用均衡器](https://blog.lilydjwg.me/posts/216847.html)  by  依云's Blog  at  2024-06-22 15:51:18
 
-[山西中考现状](https://blog.mocn.top/posts/17255/)  by  『Momo5418』  at  2024-06-22 10:16:58
-
 [蒙古烤肉](https://leimao.github.io/essay/%E8%92%99%E5%8F%A4%E7%83%A4%E8%82%89-Mongolian-Grill/)  by  Lei Mao  at  2024-06-22 07:00:00
+
+[被裁员后的恐惧](https://innei.in/notes/174)  by  静かな森  at  2024-06-22 04:37:18
 
 [被裁员后的恐惧](https://innei.in/notes/174)  by  静かな森  at  2024-06-22 04:37:18
 
 [文献阅读（十四）](http://www.seis-jun.xyz/paper-reading-14)  by  Jun Xie  at  2024-06-22 02:41:33
 
 [京喜小店不要碰](https://www.zddhub.com/2024/06/22/w25-jing-xi-xiao-dian.html)  by  ZDDHUB  at  2024-06-22 00:00:00
+
+[如何从 YouTube 搬运视频？如何做一个合格的 YouTube 搬运工？我搬运视频的方法与原则](https://imayx.top/howtorepostyoutubevideos/)  by  Ayx 博客  at  2024-06-22 00:00:00
 
 [如何从 YouTube 搬运视频？如何做一个合格的 YouTube 搬运工？我搬运视频的方法与原则](https://imayx.top/howtorepostyoutubevideos/)  by  Ayx 博客  at  2024-06-22 00:00:00
 
@@ -747,6 +571,8 @@
 
 [解决iOS邮箱使用QQ邮箱账户无法发送邮件，连接发信服务器失败问题](https://blog.zhheo.com/p/cb3f5ed0.html)  by  张洪Heo  at  2024-06-20 01:53:27
 
+[让Google屏蔽某些搜索结果](https://www.cayzlh.com/post/2024062001/)  by  Ant丶  at  2024-06-20 01:33:22
+
 [文献阅读（十二）](http://www.seis-jun.xyz/paper-reading-12)  by  Jun Xie  at  2024-06-20 00:09:35
 
 [奇趣周刊 - 第 55 期](https://zishu.me/blog/weekly-55.html/)  by  子舒的博客  at  2024-06-20 00:00:00
@@ -757,7 +583,7 @@
 
 [盈立新加坡出金OCBC实测](https://innomad.io/usmart-sg-ocbc)  by  Innomad 一挪迈  at  2024-06-20 00:00:00
 
-[盈立新加坡出金OCBC实测](https://innomad.io/usmart-sg-ocbc)  by  Innomad 一挪迈  at  2024-06-20 00:00:00
+[奇趣周刊 - 第 55 期](https://zishu.me/blog/weekly-55.html/)  by  子舒的博客  at  2024-06-20 00:00:00
 
 
 ### 2024-06-19
@@ -811,6 +637,8 @@
 
 [旧文钞-明斯克卷](https://blog.verynb.me/posts/4186.html)  by  晴雀  at  2024-06-17 11:51:45
 
+[旧文钞-明斯克卷](https://blog.verynb.me/posts/4186.html)  by  晴雀  at  2024-06-17 11:51:45
+
 [アニメ「風が強く吹いている」名言のまとめ](https://jasonkayzk.github.io/2024/06/17/%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E9%A2%A8%E3%81%8C%E5%BC%B7%E3%81%8F%E5%90%B9%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8D%E5%90%8D%E8%A8%80%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81/)  by  Jasonkay  at  2024-06-17 08:34:24
 
 [文献阅读（七）](http://www.seis-jun.xyz/paper-reading-7)  by  Jun Xie  at  2024-06-17 08:24:45
@@ -841,7 +669,15 @@
 
 [消费降级博客迁移](https://www.skyue.com/24061612.html)  by  拾月  at  2024-06-16 12:35:00
 
+[Мотивы крючком — безотрывное вязание — схемы](https://home-sweet.ru/archives/12229)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-06-16 08:30:25
+
+[Кружева иглой — техника плетения и примеры](https://home-sweet.ru/archives/17059)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-06-16 08:24:51
+
+[Классический ажурный жакет крючком](https://home-sweet.ru/archives/30310)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-06-16 08:19:05
+
 [她是沈语熙](https://nicrosoft.net/blog/2171/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-06-16 08:18:41
+
+[Как сшить чехол на сиденье автомобиля](https://home-sweet.ru/archives/28399)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-06-16 08:14:55
 
 [文件树目录](https://coffeelize.top/posts/Creating-a-file-tree-directory.html)  by  coffeelize  at  2024-06-16 06:20:44
 
@@ -869,6 +705,8 @@
 
 [湾区汽车轮胎频繁被钉子扎](https://leimao.github.io/essay/%E6%B9%BE%E5%8C%BA%E6%B1%BD%E8%BD%A6%E8%BD%AE%E8%83%8E%E9%A2%91%E7%B9%81%E8%A2%AB%E9%92%89%E5%AD%90%E6%89%8E/)  by  Lei Mao  at  2024-06-15 07:00:00
 
+[typora自动上传图片配置](https://www.cayzlh.com/post/2024061501/)  by  Ant丶  at  2024-06-15 03:43:03
+
 
 ### 2024-06-14
 [Prose_统计暨编程问题日志](https://blog.yanyuteng.cn/2024/06/15/a6894eaa/)  by  Yuteng Yan  at  2024-06-14 16:00:00
@@ -888,6 +726,8 @@
 [用 C 语言实现协程](https://luyuhuang.tech/2024/06/14/c-coroutine.html)  by  Luyu Huang  at  2024-06-13 16:00:00
 
 [去不图床五周年蹭风 618 活动](https://dusays.com/717/)  by  Teacher Du  at  2024-06-13 16:00:00
+
+[零基础Docker入门指南](https://talen.top/posts/869715fc/)  by  M.Talen  at  2024-06-13 14:54:22
 
 [时间同步概述](https://imcbc.cn/202406/time-sync-summary/)  by  Bing's Blog  at  2024-06-13 07:23:34
 
@@ -957,6 +797,8 @@
 
 [不敢改变是我在焦虑什么](https://innei.in/notes/173)  by  静かな森  at  2024-06-09 05:15:17
 
+[不敢改变是我在焦虑什么](https://innei.in/notes/173)  by  静かな森  at  2024-06-09 05:15:17
+
 [模板博文](https://lihan3238.github.io/p/0_template_post/)  by  李寒的小窝  at  2024-06-09 00:00:00
 
 [视野修炼第87期 | 端午安康](https://sugarat.top/weekly/2024-06-09.html)  by  粥里有勺糖  at  2024-06-09 00:00:00
@@ -971,6 +813,8 @@
 
 [随手拍无题](https://zishu.me/blog/229.html/)  by  子舒的博客  at  2024-06-08 00:00:00
 
+[随手拍无题](https://zishu.me/blog/229.html/)  by  子舒的博客  at  2024-06-08 00:00:00
+
 
 ### 2024-06-07
 [手游与媒介](https://blog.amamiyayuuko.com/p/social-game-and-media/)  by  Yuko's Blog  at  2024-06-07 22:22:00
@@ -978,6 +822,8 @@
 [理想国](https://luyuhuang.tech/2024/06/08/republic.html)  by  Luyu Huang  at  2024-06-07 16:00:00
 
 [太原和高平之行](https://www.skyue.com/24060713.html)  by  拾月  at  2024-06-07 13:42:00
+
+[基于gpt4o的免费桌宠解决方案](https://blog.verynb.me/posts/30407.html)  by  晴雀  at  2024-06-07 13:32:25
 
 [基于gpt4o的免费桌宠解决方案](https://blog.verynb.me/posts/30407.html)  by  晴雀  at  2024-06-07 13:32:25
 
@@ -999,13 +845,13 @@
 
 [Prose_大陆佛寺巡礼](https://blog.yanyuteng.cn/2024/06/07/dc4d8d50/)  by  Yuteng Yan  at  2024-06-06 16:00:00
 
-[一键部署本地AI大模型 - 小kBlog](https://www.cnblogs.com/xkboi/p/18236353)  by  小kBlog  at  2024-06-06 16:00:00
-
 [挑简历看麻了，就业市场太卷了](https://blog.est.im/2024/stderr-10)  by  est の 输入输出  at  2024-06-06 14:35:00
 
 [一文弄懂字符编码，面对乱码不再抓瞎](https://blog.jasonleehere.com/posts/141cabf4.html)  by  Jason  at  2024-06-06 14:14:10
 
 [mac 终端命令大全](https://bubuzou.com/2024/06/06/mac-terminal-command/)  by  typeR  at  2024-06-06 09:37:58
+
+[用九个月的时间入行 OLAP 数据库开发——研二的学生时光总结](https://blog.fkynjyq.com/the-start-of-my-olap-journey)  by  FKYnJYQ  at  2024-06-06 08:34:07
 
 [对pjsk国服下版号的说](https://blog.yuxiangwang0525.com/archives/124/)  by  YuxiangWang_0525的博客  at  2024-06-06 08:01:49
 
@@ -1013,9 +859,13 @@
 
 [奇趣周刊 - 第 54 期](https://zishu.me/blog/weekly-54.html/)  by  子舒的博客  at  2024-06-06 00:00:00
 
+[奇趣周刊 - 第 54 期](https://zishu.me/blog/weekly-54.html/)  by  子舒的博客  at  2024-06-06 00:00:00
+
 
 ### 2024-06-05
 [开源｜维易CMDB详解之模型基础配置](https://blog.ops-coffee.cn/veops/oneops-cmdb-ci-types-configure-base)  by  运维咖啡吧  at  2024-06-05 17:40:01
+
+[服务器最佳搭档，宝塔和1Panel的部署与选择](https://talen.top/posts/6c819fda/)  by  M.Talen  at  2024-06-05 17:07:19
 
 [关我辟事 Vol.18：新大陆](https://blog.douchi.space/spark-joy-digest-2024-5b/)  by  椒盐豆豉  at  2024-06-05 08:13:00
 
@@ -1047,8 +897,6 @@
 
 [区块链中的 PBFT 不需要第二次投票](https://smallyu.net/2024/06/03/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%AD%E7%9A%84PBFT%E4%B8%8D%E9%9C%80%E8%A6%81%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%8A%95%E7%A5%A8/)  by  smallyu  at  2024-06-03 11:09:21
 
-[皇马是冠军！](https://www.rz.sb/archives/293/)  by  若志 • 随笔  at  2024-06-03 08:00:00
-
 [PIS 开启抖音直播](https://leimao.github.io/essay/PIS%E5%BC%80%E5%90%AF%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD/)  by  Lei Mao  at  2024-06-03 07:00:00
 
 [2024 年，我为什么开始为搜索付费](https://1byte.io/articles/paying-for-search/)  by  0x01 byte  at  2024-06-03 00:00:00
@@ -1061,13 +909,15 @@
 
 [一日一技：如何找到Github用户的邮箱？](https://www.kingname.info/2024/06/02/find-email-of-github/)  by  青南  at  2024-06-02 21:25:56
 
+[FinalShell：功能强大的服务器管理和远程连接工具](https://talen.top/posts/161ab782/)  by  M.Talen  at  2024-06-02 16:30:00
+
 [给局域网中的Ubuntu固定下ip](https://nicksxs.me/2024/06/02/%E7%BB%99%E5%B1%80%E5%9F%9F%E7%BD%91%E4%B8%AD%E7%9A%84Ubuntu%E5%9B%BA%E5%AE%9A%E4%B8%8Bip/)  by  Nicksxs  at  2024-06-02 15:32:18
 
 [如何在lunar端中安装模组](https://blog.verynb.me/posts/18818.html)  by  晴雀  at  2024-06-02 08:19:09
 
 [如何在lunar端中安装模组](https://blog.verynb.me/posts/18818.html)  by  晴雀  at  2024-06-02 08:19:09
 
-[2024年云服务器部署迁移流程](https://blog.nineya.com/archives/161.html)  by  玖涯博客  at  2024-06-02 01:11:26
+[如何在lunar端中安装模组](https://blog.verynb.me/posts/18818.html)  by  晴雀  at  2024-06-02 08:19:09
 
 [Weekly Issue-告诉别人你可能过得不好，是善良吗](https://zdyxry.github.io/2024/06/02/Weekly-Issue-%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%96%84%E8%89%AF%E5%90%97/)  by  Yiran's Blog  at  2024-06-02 00:00:00
 
@@ -1113,6 +963,8 @@
 
 [奇趣周刊 - 第 53 期](https://zishu.me/blog/weekly-53.html/)  by  子舒的博客  at  2024-05-30 00:00:00
 
+[奇趣周刊 - 第 53 期](https://zishu.me/blog/weekly-53.html/)  by  子舒的博客  at  2024-05-30 00:00:00
+
 
 ### 2024-05-29
 [GPG添加新的用户信息](https://blog.krysztal.dev/2024/05/29/GPG%E6%B7%BB%E5%8A%A0%E6%96%B0%E7%9A%84%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF/)  by  Krysztal  at  2024-05-29 19:03:50
@@ -1154,6 +1006,8 @@
 [近期追番报告](https://www.himiku.com/archives/recent-bangumi-report.html)  by  初之音  at  2024-05-28 20:41:00
 
 [新昌倒脱靴、桐洲岛和获蒲村](https://www.skyue.com/24052820.html)  by  拾月  at  2024-05-28 20:27:00
+
+[瓶颈与迷茫](https://innei.in/notes/172)  by  静かな森  at  2024-05-28 12:35:32
 
 [瓶颈与迷茫](https://innei.in/notes/172)  by  静かな森  at  2024-05-28 12:35:32
 
@@ -1215,6 +1069,8 @@
 
 [视野修炼第85期 | 图小小](https://sugarat.top/weekly/2024-05-26.html)  by  粥里有勺糖  at  2024-05-26 00:00:00
 
+[无人机航拍青山湖](https://zishu.me/blog/228.html/)  by  子舒的博客  at  2024-05-26 00:00:00
+
 
 ### 2024-05-25
 [血色象牙塔——读齐邦媛《巨流河》之一](https://moonlt.site/posts/2024/05/juliu_river/)  by  Posts on 月夜Moonlight  at  2024-05-25 14:52:52
@@ -1265,13 +1121,13 @@
 
 [在Linux上面安裝glances並設定為系統服務](https://xnum.github.io/2024/05/install-glances)  by  Jia Jun Yeh  at  2024-05-23 00:00:00
 
+[奇趣周刊 - 第 52 期](https://zishu.me/blog/weekly-52.html/)  by  子舒的博客  at  2024-05-23 00:00:00
+
 
 ### 2024-05-22
 [使用 Windows 虚拟机运行虚拟专用网客户端为 Linux 提供内网环境](https://zhul.in/2024/05/23/setup-network-environment-for-non-linux-vpn-client-with-virtual-machine/)  by  竹林里有冰  at  2024-05-22 17:07:44
 
 [使用Rust捕获和解析网络包](https://colobu.com/2024/05/22/parse-tcp-timestamp-in-Rust/)  by  smallnest  at  2024-05-22 14:14:30
-
-[使用Chrome 开发者工具提取对应的字符串 - 小kBlog](https://www.cnblogs.com/xkboi/p/18205594)  by  小kBlog  at  2024-05-22 02:04:00
 
 [关于胖猫事件的一些个人看法](https://paugram.com/essay/about-history-of-pangmao.html)  by  保罗的小宇宙  at  2024-05-22 00:54:00
 
@@ -1283,13 +1139,13 @@
 
 [K山游记](https://blog.si-on.top/2024/Travel_of_the_K/)  by  秉  at  2024-05-21 13:17:22
 
+[掌握Markdown技巧，轻松应对写作需求](https://talen.top/posts/dcb9dac1/)  by  M.Talen  at  2024-05-21 10:07:41
+
 
 ### 2024-05-20
 [0520 - 交易就是：该干啥干啥](https://atjason.com/daily/2024-05-20.html)  by  Jason  at  2024-05-20 14:00:00
 
 [历史原来很精彩](https://yuanj.top/posts/h0f1m7k5/)  by  yuanj's blog  at  2024-05-20 12:19:13
-
-[为深入数字生活做准备](https://ourai.ws/posts/prepare-for-a-deeper-digital-life)  by  欧雷  at  2024-05-20 12:01:03
 
 [为深入数字生活做准备](https://ourai.ws/posts/prepare-for-a-deeper-digital-life)  by  欧雷  at  2024-05-20 12:01:03
 
@@ -1321,6 +1177,8 @@
 
 [自渡](https://innei.in/notes/171)  by  静かな森  at  2024-05-19 04:40:47
 
+[自渡](https://innei.in/notes/171)  by  静かな森  at  2024-05-19 04:40:47
+
 [从宝塔面板中学习运维知识](https://mabbs.github.io/2024/05/19/bt-ops)  by  mayx  at  2024-05-19 00:00:00
 
 [Labwc更换定制皮肤](https://mephisto.cc/tech/labwc-theme/)  by  mephisto.cc  at  2024-05-19 00:00:00
@@ -1332,6 +1190,8 @@
 [妙用大模型案例分享](https://lmmsoft.github.io//how_to_use_ChatGPT)  by  lmm333  at  2024-05-18 16:00:00
 
 [老一辈游戏玩家真有意思](https://ssshooter.com/old-gamer/)  by  Usubeni Fantasy  at  2024-05-18 14:00:16
+
+[无视免费帐户限制！白嫖各家显卡爽玩SD webui](https://blog.verynb.me/posts/63905.html)  by  晴雀  at  2024-05-18 12:57:41
 
 [无视免费帐户限制！白嫖各家显卡爽玩SD webui](https://blog.verynb.me/posts/63905.html)  by  晴雀  at  2024-05-18 12:57:41
 
@@ -1411,6 +1271,8 @@
 ### 2024-05-13
 [在业务中使用 Kafka 到底能不能保证消息的有序性](https://blog.zhangyingwei.com/posts/2024m5d13h17m11s53/)  by  胡说  at  2024-05-13 17:11:53
 
+[正则表达式的基本介绍与正则大全](https://talen.top/posts/c3dc4fa3/)  by  M.Talen  at  2024-05-13 16:27:53
+
 [爱西雅图的地方](https://blog.douchi.space/about-seattle/)  by  椒盐豆豉  at  2024-05-13 13:12:00
 
 [重生之小明在 Linux 当少爷](https://yuanj.top/posts/n8t2z0w4/)  by  yuanj's blog  at  2024-05-13 12:36:10
@@ -1447,6 +1309,8 @@
 
 [终于有独立域名啦](https://blog.verynb.me/posts/59380.html)  by  晴雀  at  2024-05-12 07:40:14
 
+[终于有独立域名啦](https://blog.verynb.me/posts/59380.html)  by  晴雀  at  2024-05-12 07:40:14
+
 [跨越时代的情感连接——记蔡琴上海演唱会(附歌单)](https://lmmsoft.github.io//Tsai_Chin_concert)  by  lmm333  at  2024-05-12 04:00:00
 
 [Weekly Issue-真的需要复杂的解决方案么？](https://zdyxry.github.io/2024/05/12/Weekly-Issue-%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E5%A4%8D%E6%9D%82%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%B9%88/)  by  Yiran's Blog  at  2024-05-12 00:00:00
@@ -1475,12 +1339,6 @@
 ### 2024-05-10
 [房车用了两年多，这个油耗我是没有想到的](https://blog.ops-coffee.cn/r/maxus-V80-RV-unexpected-fuel-efficiency)  by  运维咖啡吧  at  2024-05-10 15:34:48
 
-[VM安装ENSP教程（附赠完整的VM虚拟机文件）](http://blog.yxyang.top/posts/23473.html)  by  阳小楊  at  2024-05-10 07:20:02
-
-[VM如何导入别人的虚机](http://blog.yxyang.top/posts/28213.html)  by  阳小楊  at  2024-05-10 07:15:59
-
-[win10系统如何关闭防火墙](http://blog.yxyang.top/posts/32258.html)  by  阳小楊  at  2024-05-10 06:23:20
-
 [AI搜索与大模型应用的一些思考](https://finisky.github.io/thoughts-on-ai-search-and-llm-applications/)  by  finisky  at  2024-05-10 01:28:36
 
 [碾压与抗拒](https://ioerr.github.io/posts/nianya-yu-kangju/)  by  读写错误  at  2024-05-10 00:00:00
@@ -1493,9 +1351,15 @@
 ### 2024-05-09
 [该往前了](https://innei.in/notes/170)  by  静かな森  at  2024-05-09 14:50:19
 
+[该往前了](https://innei.in/notes/170)  by  静かな森  at  2024-05-09 14:50:19
+
+[2023 年终总结 | 要让生活「自洽」](https://muyun.work/2023-summary.html)  by  Muyun99 的杂谈  at  2024-05-09 11:08:00
+
 [2023 年终总结 | 要让生活「自洽」](https://muyun.work/2023-summary.html)  by  Muyun99 的杂谈  at  2024-05-09 11:08:00
 
 [Android｜修复阿里云播放器下载不回调的问题](https://mazhuang.org/2024/05/09/fix-aliyun-player-downloader-callback)  by  Zhuang Ma  at  2024-05-09 00:00:00
+
+[奇趣周刊 - 第 51 期](https://zishu.me/blog/weekly-51.html/)  by  子舒的博客  at  2024-05-09 00:00:00
 
 [奇趣周刊 - 第 51 期](https://zishu.me/blog/weekly-51.html/)  by  子舒的博客  at  2024-05-09 00:00:00
 
@@ -1511,7 +1375,11 @@
 
 [哪吒面板default主题小鸡底部增加购买同款按钮](https://www.bmqy.net/2664.html)  by  北门清燕  at  2024-05-08 10:29:00
 
+[树状数组](http://blog.wsq127.top/posts/59a0de58/)  by  wsq127  at  2024-05-08 08:40:57
+
 [这届百度公关 专业丢分了](http://weiwuhui.com/10675.html)  by  扯氮集  at  2024-05-08 06:28:11
+
+[玩转npm：从基础到实践的全面指南](https://talen.top/posts/617ba29c/)  by  M.Talen  at  2024-05-08 04:38:33
 
 [我居然用回有线耳机了](https://tw93.fun/2024-05-08/sony.html)  by  Tw93 Blog  at  2024-05-08 00:00:00
 
@@ -1545,6 +1413,8 @@
 
 [简评《饿殍：明末千里行》](https://blog.verynb.me/posts/52223.html)  by  晴雀  at  2024-05-06 12:55:24
 
+[简评《饿殍：明末千里行》](https://blog.verynb.me/posts/52223.html)  by  晴雀  at  2024-05-06 12:55:24
+
 [小Lee下厨记](https://blog.jasonleehere.com/posts/103ae959.html)  by  Jason  at  2024-05-06 12:27:50
 
 [韩信的悲剧 其实是被时代抛弃了](http://weiwuhui.com/10680.html)  by  扯氮集  at  2024-05-06 06:35:50
@@ -1569,8 +1439,6 @@
 
 [MBTI与荣格认知模型的排列组合](https://moonlt.site/posts/2024/05/carl-jung-personality-test/)  by  Posts on 月夜Moonlight  at  2024-05-05 10:56:34
 
-[新车到了](https://www.rz.sb/archives/290/)  by  若志 • 随笔  at  2024-05-05 10:34:00
-
 [26岁生日这天](https://blog.jasonleehere.com/posts/73b8a43b.html)  by  Jason  at  2024-05-05 05:20:53
 
 [Infra 面试之数据结构五：顺序组装](https://www.qtmuniao.com/2024/05/05/infra-interview-tcp/)  by  木鸟杂记  at  2024-05-05 02:49:31
@@ -1581,6 +1449,8 @@
 
 
 ### 2024-05-04
+[IDEA通用激活码，有效期一年](https://lx95.top/archives/72)  by  芈亓的Blog  at  2024-05-04 23:34:30
+
 [炒币投资的小 tips](https://smallyu.net/2024/05/04/%E7%82%92%E5%B8%81%E6%8A%95%E8%B5%84%E7%9A%84%E5%B0%8F-tips/)  by  smallyu  at  2024-05-04 20:44:13
 
 [Diary_扬州暨连云港游记](https://blog.yanyuteng.cn/2024/05/05/c5c3f9a0/)  by  Yuteng Yan  at  2024-05-04 16:00:00
@@ -1600,6 +1470,8 @@
 [原来 k3s 的证书默认一年就会过期](https://mok.moe/p/3c20)  by  Mokeyjay's Blog - 超能小紫  at  2024-05-03 19:24:53
 
 [博客性能优化笔记 | 99分](https://sugarat.top/essay/dev/2024-blog-perf.html)  by  粥里有勺糖  at  2024-05-03 13:27:55
+
+[网络与自我之间的对话](https://innei.in/notes/169)  by  静かな森  at  2024-05-03 07:07:57
 
 [网络与自我之间的对话](https://innei.in/notes/169)  by  静かな森  at  2024-05-03 07:07:57
 
@@ -1635,8 +1507,12 @@
 
 [衣服的洗涤保养说明](https://gorpeln.top/article/17146497169)  by  gorpeln的个人博客 - gorpeln  at  2024-05-02 00:00:00
 
+[奇趣周刊 - 第 50 期](https://zishu.me/blog/weekly-50.html/)  by  子舒的博客  at  2024-05-02 00:00:00
+
 
 ### 2024-05-01
+[跨仓库全自动构建项目并部署到服务器](https://innei.in/posts/tech/automatically-build-projects-across-repositories-and-deploy-to-servers)  by  静かな森  at  2024-05-01 11:42:44
+
 [跨仓库全自动构建项目并部署到服务器](https://innei.in/posts/tech/automatically-build-projects-across-repositories-and-deploy-to-servers)  by  静かな森  at  2024-05-01 11:42:44
 
 [做了一个奇怪的梦](https://www.iccat.cn/2024/05/01/meng.html)  by  屹铭说 - LEO屹铭 - 朕弟先生的笔记  at  2024-05-01 08:52:24
@@ -1648,6 +1524,8 @@
 [黄公望隐居地](https://zishu.me/blog/227.html/)  by  子舒的博客  at  2024-05-01 00:00:00
 
 [史网｜24 权力论](https://kqh.me/net/24/)  by  赫赫文王  at  2024-05-01 00:00:00
+
+[黄公望隐居地](https://zishu.me/blog/227.html/)  by  子舒的博客  at  2024-05-01 00:00:00
 
 
 ### 2024-04-30
@@ -1672,8 +1550,6 @@
 [来聊聊必学的sql知识](https://blackholemax.github.io/2024/04/29/tech/SQL%E5%BF%85%E5%AD%A6/)  by  BlackHoleMax  at  2024-04-29 10:10:08
 
 [VSCode远程连接服务器开发](https://www.qborfy.com/today_2024/20240429.html)  by  Qborfy  at  2024-04-29 10:00:01
-
-[我的图床方案-兰空图床(Lskypro)-Web图床方案](http://blog.yxyang.top/posts/2192.html)  by  阳小楊  at  2024-04-29 06:52:52
 
 [幕府将军：原来竟是一部文艺片](http://weiwuhui.com/10682.html)  by  扯氮集  at  2024-04-29 06:38:12
 
@@ -1713,6 +1589,8 @@
 ### 2024-04-27
 [这么深入浅出的免疫学为什么不在课本里——读《Immune》](https://blog.douchi.space/book-immune/)  by  椒盐豆豉  at  2024-04-27 23:12:00
 
+[马里奥制造1打百人团教程](https://blog.sinzmise.top/posts/10996/)  by  王九弦SZ·Ninty  at  2024-04-27 19:43:40
+
 [当 Windows 键盘语言有三种或以上时，使用快捷键在其中两种语言输入法间切换](https://blog.skyju.cc/post/custom-windows-input-language-switch-shortcut/)  by  Terrarum::异世界丨居正博客  at  2024-04-27 16:02:10
 
 [一半是海水一半是火焰，上海德比，最幸福的是球迷](https://lmmsoft.github.io//shanghai_derby)  by  lmm333  at  2024-04-27 16:00:00
@@ -1732,8 +1610,6 @@
 [受灾小记](https://www.eallion.com/disaster-of-house/)  by  大大的小蜗牛  at  2024-04-26 21:13:45
 
 [赶在五一之前给乌龟做个自动喂食器](https://mianao.info/577fd5be/)  by  Harry  at  2024-04-26 16:00:00
-
-[win如何使用OpenSSL生成自签名证书](http://blog.yxyang.top/posts/10836.html)  by  阳小楊  at  2024-04-26 15:37:55
 
 [看呐 车展上的那对红男绿男](http://weiwuhui.com/10684.html)  by  扯氮集  at  2024-04-26 06:41:37
 
@@ -1787,6 +1663,8 @@
 
 [放弃阿里云盘](https://hin.cool/posts/alipanbye.html)  by  W4J1e  at  2024-04-24 19:50:00
 
+[🌈5分钟搭建一个随机图片API](https://www.anwei.wang/archives/11)  by  DUSHE博客 - 有幸相见，不负遇见  at  2024-04-24 14:37:33
+
 [图集示例](https://mazhuang.org/2024/04/24/gallery-demo)  by  Zhuang Ma  at  2024-04-24 00:00:00
 
 [开始休假](http://informal.top/blog/2024/04/24/%E5%BC%80%E5%A7%8B%E4%BC%91%E5%81%87.html)  by  Informal  at  2024-04-24 00:00:00
@@ -1821,11 +1699,21 @@
 
 [向着开放与智能的生活](https://ourai.ws/posts/toward-open-and-intelligent-life)  by  欧雷  at  2024-04-21 16:58:16
 
-[向着开放与智能的生活](https://ourai.ws/posts/toward-open-and-intelligent-life)  by  欧雷  at  2024-04-21 16:58:16
-
 [Go语言编程技巧和参与开源项目](https://colobu.com/2024/04/21/gotips-and-open-source/)  by  smallnest  at  2024-04-21 14:51:11
 
+[软件推荐合集：让好软伴随人生](https://talen.top/posts/c0d0bb74/)  by  M.Talen  at  2024-04-21 10:23:31
+
 [开源服务指南博客文章自动生成](https://blog.diqigan.cn/posts/independent-develop/auto-grenrate-post-for-osguider-blog.md.html)  by  Seven  at  2024-04-21 10:09:55
+
+[Девушка на гитаре красиво спела](https://home-sweet.ru/archives/32786)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-04-21 08:36:42
+
+[Чехлы на Диван Своими Руками — 8 лучших Мастер Классов](https://home-sweet.ru/archives/28011)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-04-21 07:21:15
+
+[30 выкроек милых зайчиков и кроликов](https://home-sweet.ru/archives/32268)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-04-21 07:16:22
+
+[53 простые и красивые Салфетки Крючком со Схемами Вязания](https://home-sweet.ru/archives/6689)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-04-21 07:15:34
+
+[100 рисунков для резьбы по дереву — эскизы от мастеров](https://home-sweet.ru/archives/31357)  by  Мой Милый Дом - хенд мейд идеи рукоделия и дизайна  at  2024-04-21 07:12:47
 
 [高速公路编号背后的数学密码](https://www.longluo.me/blog/2024/04/21/decode-the-highway-system-numbers/)  by  Long Luo  at  2024-04-21 00:08:32
 
@@ -1853,7 +1741,11 @@
 ### 2024-04-18
 [源码分析：GORM是如何生成sql的](https://liudon.com/posts/how-gorm-generates-sql/)  by  流动  at  2024-04-18 21:14:24
 
+[517编程普及组数学之筛法](http://blog.wsq127.top/posts/a996222c/)  by  wsq127  at  2024-04-18 16:01:28
+
 [AppImage: 一次打包，到处运行](https://luyuhuang.tech/2024/04/19/appimage.html)  by  Luyu Huang  at  2024-04-18 16:00:00
+
+[值得推荐的7个vue3 UI组件库](https://talen.top/posts/85af4b3/)  by  M.Talen  at  2024-04-18 15:21:01
 
 [我最爱的几件旅行装备](https://blog.douchi.space/travel-gears/)  by  椒盐豆豉  at  2024-04-18 15:10:00
 
@@ -1865,6 +1757,8 @@
 
 [关于恋爱和生活的一点感悟](https://cirry.cn/blog/life/essay/love-and-life/)  by  Cirry's Blog  at  2024-04-18 00:00:00
 
+[奇趣周刊 - 第 49 期](https://zishu.me/blog/weekly-49.html/)  by  子舒的博客  at  2024-04-18 00:00:00
+
 
 ### 2024-04-17
 [一日一技：2秒抓取网页并转换为markdown](https://www.kingname.info/2024/04/17/reader/)  by  青南  at  2024-04-17 23:41:01
@@ -1872,6 +1766,8 @@
 [基础的排序与搜索算法](https://www.cubik65536.top/java-ds-oop/basic-sorting-and-searching/)  by  Cubik65536  at  2024-04-17 19:06:43
 
 [语言是思想的边界](https://kinnoukabokudo.com/3832/)  by  木土金王可  at  2024-04-17 17:00:00
+
+[517编程普及组数学之图论基础](http://blog.wsq127.top/posts/362ffdf7/)  by  wsq127  at  2024-04-17 16:10:06
 
 [对电脑端微信小程序抓包](https://uuanqin.top/p/5744d011/)  by  wuanqin  at  2024-04-17 14:54:39
 
@@ -1890,6 +1786,10 @@
 [暴风雨夜的思考](https://yuanj.top/posts/d4d6w7y5/)  by  yuanj's blog  at  2024-04-16 12:58:59
 
 [AI副业赚钱免费资源大汇总](https://www.linglan01.cn/post/73)  by  程序员凌览  at  2024-04-16 12:09:11
+
+[517编程普及组数学之二进制](http://blog.wsq127.top/posts/a8eee40e/)  by  wsq127  at  2024-04-16 09:53:08
+
+[517编程普及组数学之排列组合](http://blog.wsq127.top/posts/b0170d0e/)  by  wsq127  at  2024-04-16 09:50:33
 
 [2024 阿里巴巴全球数学竞赛预选赛 试题解答](https://www.longluo.me/blog/2024/04/16/2024-alibaba-global-mathematics-competition-qualifying-round/)  by  Long Luo  at  2024-04-16 03:13:48
 
@@ -1943,6 +1843,8 @@
 
 [埃隆·马斯克传 - 读书笔记](https://tw93.fun/2024-04-14/musk.html)  by  Tw93 Blog  at  2024-04-14 00:00:00
 
+[青龙湾游湖](https://zishu.me/blog/225.html/)  by  子舒的博客  at  2024-04-14 00:00:00
+
 
 ### 2024-04-13
 [维生素每日摄入量](https://glooow1024.github.io/2024/04/13/vitamin/)  by  Glooow  at  2024-04-13 15:38:39
@@ -1950,8 +1852,6 @@
 [Mac 搭建本地 K8S 开发环境方案选型](https://www.xlabs.club/blog/easiest-k8s-on-macos/)  by  卫星实验室 on XLabs  at  2024-04-13 15:20:43
 
 [使用又拍云极速搭建图床](https://sugarat.top/technology/learn/upyun.html)  by  粥里有勺糖  at  2024-04-13 13:49:22
-
-[画廊](https://g-haoyu.top/2024/04/13/%E7%94%BB%E5%BB%8A/)  by  Haoyu  at  2024-04-13 08:13:44
 
 [「蕴含」与「等价」自然语言表达的理解](https://uuanqin.top/p/cd939534/)  by  wuanqin  at  2024-04-13 07:26:24
 
@@ -1981,23 +1881,19 @@
 
 [为什么个体域变化引入特性谓词时，不同量词的命题变化不一样？](https://uuanqin.top/p/83ffd5d1/)  by  wuanqin  at  2024-04-11 16:09:10
 
-[GO 的 Web 开发系列（八）—— Gin 自定义 Html 渲染实现多租户的模板设计](https://blog.nineya.com/archives/153.html)  by  玖涯博客  at  2024-04-11 11:15:15
-
 [写博客的意义](https://jw1.dev/2024/04/11/meaning-of-blog.html)  by  Jacky Wong  at  2024-04-11 00:00:00
+
+[奇趣周刊 - 第 48 期](https://zishu.me/blog/weekly-48.html/)  by  子舒的博客  at  2024-04-11 00:00:00
 
 [奇趣周刊 - 第 48 期](https://zishu.me/blog/weekly-48.html/)  by  子舒的博客  at  2024-04-11 00:00:00
 
 
 ### 2024-04-10
-[无需服务器，无限空间，完全免费的图床搭建（图文教程）](http://blog.yxyang.top/posts/7451.html)  by  阳小楊  at  2024-04-10 16:47:25
-
 [Hi-C—前沿技术带你走进 DNA 的三维空间](https://yuanj.top/posts/z4y2f0y5/)  by  yuanj's blog  at  2024-04-10 15:18:12
 
 [文献分享|编码和非编码调控之间的相互作用驱动拟南芥种子到幼苗的转变](https://yuanj.top/posts/o0j1j8n0/)  by  yuanj's blog  at  2024-04-10 14:41:35
 
 [回忆杀——初中的随笔](https://www.zhuangqingyuan.site/2024/04/10/%E5%9B%9E%E5%BF%86%E6%9D%80%E2%80%94%E2%80%94%E5%88%9D%E4%B8%AD%E7%9A%84%E9%9A%8F%E7%AC%94/)  by  Qingyuan Zhuang' Blog  at  2024-04-10 13:59:00
-
-[对前端同行的最后一次劝诫](https://ourai.ws/posts/the-last-advice-to-frontend-engineers)  by  欧雷  at  2024-04-10 13:00:52
 
 [对前端同行的最后一次劝诫](https://ourai.ws/posts/the-last-advice-to-frontend-engineers)  by  欧雷  at  2024-04-10 13:00:52
 
@@ -2027,6 +1923,8 @@
 
 
 ### 2024-04-08
+[推荐10个有趣的摸鱼网站，让快乐简单起来](https://talen.top/posts/a02ad61b/)  by  M.Talen  at  2024-04-08 14:53:14
+
 [朴素贝叶斯法](https://www.zhuangqingyuan.site/2024/04/08/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%B3%95/)  by  Qingyuan Zhuang' Blog  at  2024-04-08 13:33:23
 
 [关于如何在晴天卖出 250 把雨伞这件事](https://www.qtmuniao.com/2024/04/08/paywall-one-year/)  by  木鸟杂记  at  2024-04-08 13:08:58
@@ -2045,16 +1943,14 @@
 
 [让 AI 给自己打工，很爽！](https://ourai.ws/posts/first-experience-of-letting-ai-work-for-me)  by  欧雷  at  2024-04-07 18:10:50
 
-[让 AI 给自己打工，很爽！](https://ourai.ws/posts/first-experience-of-letting-ai-work-for-me)  by  欧雷  at  2024-04-07 18:10:50
-
-[清明踏青](https://www.rz.sb/archives/282/)  by  若志 • 随笔  at  2024-04-07 09:42:00
-
 [长安公园植物园碎片兼求助](https://dongjunke.cn/posts/2024/04/07/27334.html)  by  小饿  at  2024-04-07 08:42:30
 
 [✨ 二十一岁，繁花盛开。](https://skywt.cn/blog/twenty-one-years-old/)  by  SkyWT  at  2024-04-07 07:17:00
 
 
 ### 2024-04-06
+[博客装修+3月小记](https://blog.sinzmise.top/posts/27762/)  by  王九弦SZ·Ninty  at  2024-04-06 19:40:44
+
 [基于 Apple M 芯片搭建异构测试环境](https://www.edony.ink/create-x86-testing-env-in-apple-m-chip/)  by  Shadow Walker 松烟阁  at  2024-04-06 19:00:03
 
 [人间求生指南之职场玄学篇](https://dongjunke.cn/posts/2024/04/06/52154.html)  by  小饿  at  2024-04-06 07:19:18
@@ -2089,6 +1985,8 @@
 
 [博客成立两年啦](https://blog.verynb.me/posts/3178.html)  by  晴雀  at  2024-04-05 08:08:57
 
+[博客成立两年啦](https://blog.verynb.me/posts/3178.html)  by  晴雀  at  2024-04-05 08:08:57
+
 [Web 前端开发演变时间线](https://ssshooter.com/front-end-history/)  by  Usubeni Fantasy  at  2024-04-05 05:18:13
 
 [杂书笔记XII](http://sht2019.cn/2024/04/05/409.za-shu-bi-ji-xii/)  by  Degelol  at  2024-04-05 02:08:43
@@ -2101,6 +1999,8 @@
 
 [严州古城](https://zishu.me/blog/224.html/)  by  子舒的博客  at  2024-04-05 00:00:00
 
+[严州古城](https://zishu.me/blog/224.html/)  by  子舒的博客  at  2024-04-05 00:00:00
+
 
 ### 2024-04-04
 [深度学习笔记（八）：块和层](https://www.zhuangqingyuan.site/2024/04/05/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%EF%BC%9A%E5%9D%97%E5%92%8C%E5%B1%82/)  by  Qingyuan Zhuang' Blog  at  2024-04-04 16:11:27
@@ -2110,6 +2010,8 @@
 [列举几个免费域名和权威dns服务器](https://xingpingcn.top/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D%E5%92%8C%E6%9D%83%E5%A8%81dns%E6%9C%8D%E5%8A%A1%E5%99%A8.html)  by  邢平cn  at  2024-04-04 14:31:45
 
 [在 Flyway 迁移类中实现依赖注入](https://lawrenceli.me/blog/flyway)  by  Lawrence  at  2024-04-04 00:00:00
+
+[奇趣周刊 - 第 47 期](https://zishu.me/blog/weekly-47.html/)  by  子舒的博客  at  2024-04-04 00:00:00
 
 [奇趣周刊 - 第 47 期](https://zishu.me/blog/weekly-47.html/)  by  子舒的博客  at  2024-04-04 00:00:00
 
@@ -2179,7 +2081,11 @@
 
 
 ### 2024-04-01
+[🌀halo 彩色表情大全](https://www.anwei.wang/archives/10)  by  DUSHE博客 - 有幸相见，不负遇见  at  2024-04-01 23:42:05
+
 [深度学习笔记（二）：PyTorch实现线性回归](https://www.zhuangqingyuan.site/2024/04/01/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9APyTorch%E5%AE%9E%E7%8E%B0%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/)  by  Qingyuan Zhuang' Blog  at  2024-04-01 15:27:01
+
+[定时自动备份云服务器数据库文件](https://www.anwei.wang/archives/9)  by  DUSHE博客 - 有幸相见，不负遇见  at  2024-04-01 11:02:41
 
 [坚持日更一个月，不同自媒体平台数据表现如何](https://www.ikxin.com/archives/768.html)  by  一纸忘忧  at  2024-04-01 10:38:53
 
@@ -2198,4 +2104,110 @@
 [视野修炼第79期 | 人很重要，软件只是乐趣](https://sugarat.top/weekly/2024-03-31.html)  by  粥里有勺糖  at  2024-03-31 21:18:43
 
 [关我辟事 Vol.14：春游](https://blog.douchi.space/spark-joy-digest-vol-13-2024-3b/)  by  椒盐豆豉  at  2024-03-31 19:23:00
+
+[用 Rust 开发前端基建工具](https://lucifer.ren/blog/2024/04/01/rust-node-binding/)  by  lucifer  at  2024-03-31 16:00:00
+
+[SpringBoot中使用自定义注解和拦截器实现简单的权限控制](https://zzrl.cc/posts/f512793/)  by  云景  at  2024-03-31 15:23:25
+
+[代码断舍离](https://ssshooter.com/delete-your-unused-code/)  by  Usubeni Fantasy  at  2024-03-31 13:50:01
+
+[折腾记-给玩客云刷上Armbian](https://nicksxs.me/2024/03/31/%E6%8A%98%E8%85%BE%E8%AE%B0-%E7%BB%99%E7%8E%A9%E5%AE%A2%E4%BA%91%E5%88%B7%E4%B8%8AArmbian/)  by  Nicksxs  at  2024-03-31 11:41:50
+
+[Pydroid3 7.2中文整合版 (汉化+内置所有依赖)安装教程](https://blog.qaiu.top/archives/pydroid3v72)  by  千百度  at  2024-03-31 03:44:42
+
+[雷军 小米汽车 发布会的后劲真大啊](https://blog.est.im/2024/stderr-06)  by  est の 输入输出  at  2024-03-31 01:14:44
+
+[差异与歧视](https://ioerr.github.io/posts/chayi-yu-qishi/)  by  读写错误  at  2024-03-31 00:00:00
+
+
+### 2024-03-30
+[安卓内核时间使用的是UTC时间](https://studyinglover.com/2024/03/30/%E5%AE%89%E5%8D%93%E5%86%85%E6%A0%B8%E6%97%B6%E9%97%B4%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AFUTC%E6%97%B6%E9%97%B4/)  by  StudyingLover  at  2024-03-30 20:12:00
+
+[我们救下了一千万张画作](https://blog.save-web.org/blog/2024/03/31/we-saved-10-million-huabar-paintings/)  by  Save The Web Project  at  2024-03-30 19:37:50
+
+[入手一台天钡R1](https://hin.cool/posts/tianbei.html)  by  W4J1e  at  2024-03-30 18:00:00
+
+[深度学习笔记（一）：线性回归](https://www.zhuangqingyuan.site/2024/03/30/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/)  by  Qingyuan Zhuang' Blog  at  2024-03-30 00:37:06
+
+
+### 2024-03-29
+[开发日志：对Markdown的代码块新增引用来源支持](https://zodream.cn/blog/id/256.html)  by  zodream梦想开源/个人编程日记  at  2024-03-29 21:36:27
+
+[自动化部署李寒的主页](https://lihan3238.github.io/p/lihan_auto/)  by  李寒的小窝  at  2024-03-29 19:00:19
+
+[周报：怎么写技术类的教程文章](https://zodream.cn/blog/id/255.html)  by  zodream梦想开源/个人编程日记  at  2024-03-29 15:39:35
+
+[个人工具箱与好物分享](https://blog.ursb.me/posts/tools/)  by  Airing 的博客  at  2024-03-29 11:00:47
+
+[一则关于游戏行业的小消息](http://weiwuhui.com/10693.html)  by  扯氮集  at  2024-03-29 06:52:44
+
+[忘记了一个重要的日子](https://www.zddhub.com/2024/03/29/w13-forget-important-day.html)  by  ZDDHUB  at  2024-03-29 00:00:00
+
+
+### 2024-03-28
+[大家吃什么呢 随机选择小程序下载](https://www.cyrilstudio.top/archives/99/)  by  Scyril  at  2024-03-28 20:16:00
+
+[老天爷存在问题的一个特解](https://blog.si-on.top/2024/A-special-Proof-of-the-Existence-of-God-withe-Chinese-Characteristics/)  by  秉  at  2024-03-28 12:08:09
+
+[scp等传输文件后权限问题](https://lihan3238.github.io/p/point_9/)  by  李寒的小窝  at  2024-03-28 11:38:00
+
+[やまに（yamani）旅館](https://blog.othree.net/log/2024/03/28/yamani/)  by  O3noBLOG  at  2024-03-28 10:01:14
+
+[Spck Editor：代码随时续写，感受移动编程新潮流](https://talen.top/posts/f34ad695/)  by  M.Talen  at  2024-03-28 06:19:40
+
+[【期🐴】注册了一个爱发电账号❤️⚡](https://sugarat.top/essay/dev/afdian.html)  by  粥里有勺糖  at  2024-03-28 05:29:00
+
+[开发日记 | 不定时更新](https://sugarat.top/essay/dev/changelog-2024.html)  by  粥里有勺糖  at  2024-03-28 05:29:00
+
+[你的常用域名被其他vercel账号使用的解决方法](https://xingpingcn.top/domain-have-been-used-by-other-vercel-account.html)  by  邢平cn  at  2024-03-28 02:27:26
+
+[海葬](https://www.guhub.cn/blog/deep-six)  by  Eltrac's  at  2024-03-28 00:00:00
+
+[奇趣周刊 - 第 46 期](https://zishu.me/blog/weekly-46.html/)  by  子舒的博客  at  2024-03-28 00:00:00
+
+[奇趣周刊 - 第 46 期](https://zishu.me/blog/weekly-46.html/)  by  子舒的博客  at  2024-03-28 00:00:00
+
+
+### 2024-03-27
+[数据结构：栈与队列](https://www.cubik65536.top/java-ds-oop/stack-and-queue/)  by  Cubik65536  at  2024-03-27 23:04:52
+
+[关于字符编码的一些坑](https://f2h2h1.github.io/article/关于字符编码的一些坑.html)  by  f2h2h1's blog  at  2024-03-27 19:15:44
+
+[使用 Linux 三年以来的感受](https://yuanj.top/posts/m3d4t6a5/)  by  yuanj's blog  at  2024-03-27 18:32:44
+
+[专题：RNA-Seq 上游分析学习](https://yuanj.top/posts/z6q5z7s5/)  by  yuanj's blog  at  2024-03-27 17:16:07
+
+[回炉重铸， 91 天见证不一样的自己（第 13 期）](https://lucifer.ren/blog/2024/03/28/91algo-13/)  by  lucifer  at  2024-03-27 16:00:00
+
+[【杂项】搜集各种好用的库(不定时更新)](https://rehtt.com/index.php/archives/262/)  by  Rehtt's Blog - 个人学习分享  at  2024-03-27 09:08:00
+
+[京东云轻量云主机避雷](https://www.imaegoo.com/2024/jdcloud-bench/)  by  iMaeGoo  at  2024-03-27 08:00:00
+
+[给博客添加steam统计](https://cirry.cn/blog/astro/astro-add-steam/)  by  Cirry's Blog  at  2024-03-27 00:00:00
+
+[小娃娃三岁啦](https://cirry.cn/blog/life/children/three-years-old/)  by  Cirry's Blog  at  2024-03-27 00:00:00
+
+
+### 2024-03-26
+[ServerBox：一站式服务器管理工具，提升运维效率](https://talen.top/posts/e2f1455b/)  by  M.Talen  at  2024-03-26 17:06:32
+
+[HEXO博客的轮播栏](https://www.zhuangqingyuan.site/2024/03/26/HEXO%E5%8D%9A%E5%AE%A2%E7%9A%84%E8%BD%AE%E6%92%AD%E6%A0%8F/)  by  Qingyuan Zhuang' Blog  at  2024-03-26 11:18:57
+
+[为什么语言模型的本质是压缩器？](https://finisky.github.io/language-modeling-is-compression-summary/)  by  finisky  at  2024-03-26 11:05:56
+
+[梦见未来人类](https://blog.est.im/2024/stderr-05)  by  est の 输入输出  at  2024-03-26 08:49:00
+
+[那，他吃什么？！](https://www.eallion.com/what-does-he-eat/)  by  大大的小蜗牛  at  2024-03-26 04:57:27
+
+[如何卖货 - 读《营销管理》](https://blog.devtang.com/2024/03/26/marketing-management-book-summary/)  by  唐巧  at  2024-03-26 02:35:19
+
+[樱花飞舞的初春](https://zishu.me/blog/222.html/)  by  子舒的博客  at  2024-03-26 00:00:00
+
+[樱花飞舞的初春](https://zishu.me/blog/222.html/)  by  子舒的博客  at  2024-03-26 00:00:00
+
+
+### 2024-03-25
+[被春天放逐的游子](https://macin.org/2024/03/25/bei-chun-tian-fang-zhu/)  by  Macin CHEN  at  2024-03-25 19:16:53
+
+[App更新总提醒缺少出口合规证明](https://gorpeln.top/article/17113627324)  by  gorpeln的个人博客 - gorpeln  at  2024-03-25 00:00:00
 
