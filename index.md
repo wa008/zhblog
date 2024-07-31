@@ -1,21 +1,7 @@
 # 中文独立博客
 
 ### 2024-07-31
-[Ποιους διόρισε ο Δένδιας στο ΔΣ ΝΙΜΤΣ – Θα είναι το τελευταίο;](https://greekalert.com/poious-diorise-dendias-sto-nimts-tha-einai-teleftaio/)  by  greekalert  at  2024-07-31 07:02:02
-
-[Γιορτή σήμερα 31 Ιουλίου 2024 – Εορτολόγιο Ποιος γιορτάζει](https://greekalert.com/giorti-simera-31-iouliou-2024-eortologio-poios-giortazei/)  by  greekalert  at  2024-07-31 07:02:02
-
-[Τζόκερ 30/07 2024: Τυχεροί αριθμοί αποτελέσματα ΟΠΑΠ LIVE](https://greekalert.com/tzoker-30-07-2024-tycheroi-arithmoi-apotelesmata-opap-live/)  by  greekalert  at  2024-07-31 07:02:02
-
-[ΤΖΟΚΕΡ Κλήρωση σήμερα Τρίτη 30/07 για €2.000.000](https://greekalert.com/tzoker-klirosi-simera-triti-30-07-gia-e2-000-000/)  by  greekalert  at  2024-07-31 07:02:01
-
-[Μηχανήματα του στρατού σε αντιπυρικές ζώνες της Αχαΐας](https://greekalert.com/blog-post_30-html-36/)  by  greekalert  at  2024-07-31 07:01:58
-
-[Παντελής Σαββίδης στις Ανιχνεύσεις: Μήπως έχουμε παραδοθεί και, απλώς, δεν μας το ανακοίνωσαν ακόμη;](https://greekalert.com/pantelis-savvidis-stis-anichnefseis-mipos-echoume-paradothei-kai-aplos-den-mas-to-anakoinosan-akomi/)  by  greekalert  at  2024-07-31 06:02:08
-
-[Οι έφεδροι ασκήθηκαν σε τακτικές μάχης Αερομεταφερόμενου Λόχου](https://greekalert.com/oi-efedroi-askithikan-se-taktikes-machis-aerometaferomenou-lochou/)  by  greekalert  at  2024-07-31 06:02:08
-
-[Συνεχίζονται τα “κονταροχτυπήματα” μεταξύ ΑΚΡ-CHP στην Τουρκία για την “Γαλάζια Πατρίδα”](https://greekalert.com/synechizontai-ta-kontarochtypimata-metaxy-akr-chp-stin-tourkia-gia-tin-galazia-patrida/)  by  greekalert  at  2024-07-31 06:02:08
+["一次临时的萱草（忘忧草）采摘"叶开新动态](https://qq.md/post/753)  by  叶开  at  2024-07-31 10:01:21
 
 [优雅的“梦境”具象视频](https://nicrosoft.net/blog/2198/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-07-31 03:11:37
 
@@ -27,11 +13,13 @@
 
 [计算机路径分隔符之辩-斜杆和反斜杠](https://blog.jasonleehere.com/posts/996fe55d.html)  by  Jason  at  2024-07-30 14:46:56
 
+[恢复Windows此电脑的「库文件夹」](https://blog.moeworld.tech/2024/07/30/%e6%81%a2%e5%a4%8dwindows%e6%ad%a4%e7%94%b5%e8%84%91%e7%9a%84%e3%80%8c%e5%ba%93%e6%96%87%e4%bb%b6%e5%a4%b9%e3%80%8d/)  by  晓空blog  at  2024-07-30 12:01:02
+
+[哇！这款伊蕾娜～休息ver.～的手办好魅！](https://www.wikimoe.com/post/b2oypwfi)  by  维基萌  at  2024-07-30 11:21:33
+
 [哇！这款伊蕾娜～休息ver.～的手办好魅！](https://www.wikimoe.com/post/b2oypwfi)  by  维基萌  at  2024-07-30 11:21:33
 
 ["砻谷与生活琐事的一天"叶开新动态](https://qq.md/post/752)  by  叶开  at  2024-07-30 10:43:48
-
-[è¯é](https://www.xycs1.cn/archives/1722325543540)  by  å°æ¨å­¦JAVA  at  2024-07-30 07:46:00
 
 
 ### 2024-07-29
@@ -40,6 +28,8 @@
 [一日一技：如何正确保护Python代码](https://www.kingname.info/2024/07/29/pyarmor/)  by  青南  at  2024-07-29 21:41:38
 
 [踩坑记录 | Windows 删除文件/文件夹提示“找不到该项目”](https://blog.reincarnatey.net/2024/0729-del-stubborn-files/)  by  失迹の博客  at  2024-07-29 18:17:59
+
+[《不时用俄语小声说真心话的邻桌艾莉同学》第四集的ED一下子把我惊艳到了，什么文艺复兴！https:/...](https://www.wikimoe.com/post/zswxje2x)  by  维基萌  at  2024-07-29 12:23:43
 
 [《不时用俄语小声说真心话的邻桌艾莉同学》第四集的ED一下子把我惊艳到了，什么文艺复兴！https:/...](https://www.wikimoe.com/post/zswxje2x)  by  维基萌  at  2024-07-29 12:23:43
 
@@ -65,9 +55,7 @@
 
 ["新博客,无数次折腾仍未成功"叶开新动态](https://qq.md/post/750)  by  叶开  at  2024-07-28 13:35:10
 
-[视野修炼第94期 | 2024 开发者调查报告](https://sugarat.top/weekly/2024-07-28.html)  by  粥里有勺糖  at  2024-07-28 12:31:16
-
-[视野修炼 - 技术周刊](https://sugarat.top/weekly/)  by  粥里有勺糖  at  2024-07-28 12:31:16
+[传说中的红龙肉是什么味道？品尝《迷宫饭》联动咖啡](https://www.wikimoe.com/post/qvw20o82)  by  维基萌  at  2024-07-28 12:19:35
 
 [传说中的红龙肉是什么味道？品尝《迷宫饭》联动咖啡](https://www.wikimoe.com/post/qvw20o82)  by  维基萌  at  2024-07-28 12:19:35
 
@@ -93,25 +81,17 @@
 
 [入手a7c2第一个变焦镜头腾龙28-200体验分享](https://hellodk.cn/post/1182)  by  Allen Hua 的网络博客  at  2024-07-27 11:38:00
 
-[人生は一度きり。だから楽しむべきよ](https://jasonkayzk.github.io/2024/07/27/%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%82%E3%81%A0%E3%81%8B%E3%82%89%E6%A5%BD%E3%81%97%E3%82%80%E3%81%B9%E3%81%8D%E3%82%88/)  by  Jasonkay  at  2024-07-27 09:46:54
+[[SLA警告]服务器刚刚经历了一次环境重装](https://blog.moeworld.tech/2024/07/27/sla%e8%ad%a6%e5%91%8a%e6%9c%8d%e5%8a%a1%e5%99%a8%e5%88%9a%e5%88%9a%e7%bb%8f%e5%8e%86%e4%ba%86%e4%b8%80%e6%ac%a1%e7%8e%af%e5%a2%83%e9%87%8d%e8%a3%85/)  by  晓空blog  at  2024-07-27 09:57:05
 
-[开发日记 | 不定时更新](https://sugarat.top/essay/dev/changelog-2024.html)  by  粥里有勺糖  at  2024-07-27 09:36:11
+[人生は一度きり。だから楽しむべきよ](https://jasonkayzk.github.io/2024/07/27/%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%80%E5%BA%A6%E3%81%8D%E3%82%8A%E3%80%82%E3%81%A0%E3%81%8B%E3%82%89%E6%A5%BD%E3%81%97%E3%82%80%E3%81%B9%E3%81%8D%E3%82%88/)  by  Jasonkay  at  2024-07-27 09:46:54
 
 [解决VMWare桥接模式下无法自动获取IP的问题](https://jasonkayzk.github.io/2024/07/27/%E8%A7%A3%E5%86%B3VMWare%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F%E4%B8%8B%E6%97%A0%E6%B3%95%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96IP%E7%9A%84%E9%97%AE%E9%A2%98/)  by  Jasonkay  at  2024-07-27 08:17:11
 
 [想着给博客增加一个页面跳转时的过渡动画，结果加上后发现页面时不时会报错。于是经历了一番调查之后发现在...](https://www.wikimoe.com/post/bvvqzc7a)  by  维基萌  at  2024-07-27 06:17:12
 
+[想着给博客增加一个页面跳转时的过渡动画，结果加上后发现页面时不时会报错。于是经历了一番调查之后发现在...](https://www.wikimoe.com/post/bvvqzc7a)  by  维基萌  at  2024-07-27 06:17:12
+
 [Go+HTMX: web开发降低心智负担的一种选择?](https://www.sekyoro.top/2024/07/27/go-htmx-web%E5%BC%80%E5%8F%91%E9%99%8D%E4%BD%8E%E5%BF%83%E6%99%BA%E8%B4%9F%E6%8B%85%E7%9A%84%E4%B8%80%E7%A7%8D%E9%80%89%E6%8B%A9/)  by  Sekyoro  at  2024-07-27 02:35:43
-
-[ray-mmd渲染基本流程](https://krau.top/posts/mmdray-basic-rendering)  by  柯罗krau的博客 | krau's blog  at  2024-07-27 00:44:05
-
-[ray-mmd制作法线贴图](https://krau.top/posts/mmdray-normal-map)  by  柯罗krau的博客 | krau's blog  at  2024-07-27 00:44:05
-
-[MMD中导出带alpha通道视频的方法](https://krau.top/posts/mmdray-output-videos-with-alpha)  by  柯罗krau的博客 | krau's blog  at  2024-07-27 00:44:05
-
-[ray-mmd内置天空盒调整参数简介](https://krau.top/posts/mmdray-skyboxs)  by  柯罗krau的博客 | krau's blog  at  2024-07-27 00:44:05
-
-[简单汇总下那些推过的galgame（持续更新）](https://krau.top/posts/gal-collection)  by  柯罗krau的博客 | krau's blog  at  2024-07-27 00:44:05
 
 
 ### 2024-07-26
@@ -129,11 +109,15 @@
 
 [遗赠的秘密](https://leimao.github.io/essay/%E9%81%97%E8%B5%A0%E7%9A%84%E7%A7%98%E5%AF%86-The-Bequeathed/)  by  Lei Mao  at  2024-07-26 07:00:00
 
+[验证：所幸，七牛云还是能「防护」住 XFF 的（附后续）](https://blog.hanlin.press/2024/07/Apologize-to-Qiniu/)  by  abc1763613206  at  2024-07-26 03:48:23
+
 [永远保持谦逊](https://www.zddhub.com/2024/07/26/w30-stay-humble.html)  by  ZDDHUB  at  2024-07-26 00:00:00
 
 [国家网络身份认证公共服务管理办法](https://taoshu.in/rfc-common-netid.html)  by  涛叔  at  2024-07-26 00:00:00
 
 [常见的随机变量分布](https://www.zhuangqingyuan.site/2024/07/26/%E5%B8%B8%E8%A7%81%E7%9A%84%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F%E5%88%86%E5%B8%83/)  by  Qingyuan Zhuang' Blog  at  2024-07-26 00:00:00
+
+[国家网络身份认证公共服务管理办法](https://taoshu.in/rfc-common-netid.html)  by  涛叔  at  2024-07-26 00:00:00
 
 
 ### 2024-07-25
@@ -142,6 +126,10 @@
 [不做假设，判断是当下的。](https://zhurongshuo.com/posts/2024/07/2502/)  by  祝融说。  at  2024-07-25 17:45:50
 
 [先洗澡，还是先吃饭？这是一道世纪难题呀！🤔](https://www.wikimoe.com/post/gxofdxom)  by  维基萌  at  2024-07-25 13:19:25
+
+[先洗澡，还是先吃饭？这是一道世纪难题呀！🤔](https://www.wikimoe.com/post/gxofdxom)  by  维基萌  at  2024-07-25 13:19:25
+
+[从山西联通到组播IP：七牛云的奇怪视角（附分析和后日谈）](https://blog.hanlin.press/2024/07/From-Shanxi-to-Qiniu/)  by  abc1763613206  at  2024-07-25 12:44:32
 
 [【转载】登山归来的夜晚](https://www.himiku.com/archives/night.html)  by  初之音  at  2024-07-25 11:25:00
 
@@ -152,6 +140,8 @@
 [雪糕](https://www.velasx.com/am/6219)  by  Zeee  at  2024-07-25 09:35:49
 
 [用信息瓶颈来预防大模型的越狱攻击](https://www.thinking-reed.cn/post/paper/06-ai.html)  by  芦苇  at  2024-07-25 05:05:00
+
+[昨晚刷到《死神的歌谣》的内容之后就突然好想听这部作品的OP，于是就回味了一遍OP。这部作品算是我少有...](https://www.wikimoe.com/post/ewldg4io)  by  维基萌  at  2024-07-25 03:31:46
 
 [昨晚刷到《死神的歌谣》的内容之后就突然好想听这部作品的OP，于是就回味了一遍OP。这部作品算是我少有...](https://www.wikimoe.com/post/ewldg4io)  by  维基萌  at  2024-07-25 03:31:46
 
@@ -171,7 +161,7 @@
 
 [0724 - 交易并不是线性的](https://atjason.com/daily/2024-07-24.html)  by  Jason  at  2024-07-24 14:00:00
 
-[记一次B站进度条无法拖动进度条](http://exef-star.github.io/2024/07/24/%E8%AE%B0%E4%B8%80%E6%AC%A1B%E7%AB%99%E8%BF%9B%E5%BA%A6%E6%9D%A1%E6%97%A0%E6%B3%95%E6%8B%96%E5%8A%A8%E8%BF%9B%E5%BA%A6%E6%9D%A1/)  by  可执行程序  at  2024-07-24 12:44:23
+[《圣兽之王》的联动咖啡！？主菜部分的菜单看上去就非常诱人！是游戏内的同名美食加强版的样子。这就不得不...](https://www.wikimoe.com/post/1mrfpjf3)  by  维基萌  at  2024-07-24 10:53:43
 
 [《圣兽之王》的联动咖啡！？主菜部分的菜单看上去就非常诱人！是游戏内的同名美食加强版的样子。这就不得不...](https://www.wikimoe.com/post/1mrfpjf3)  by  维基萌  at  2024-07-24 10:53:43
 
@@ -191,9 +181,13 @@
 
 [最近连着追完了2023年的日剧《LAST MAN-全盲搜查官-》。福山雅治主演加推理悬疑，一下子让我...](https://www.wikimoe.com/post/0oth7vxy)  by  维基萌  at  2024-07-23 12:46:02
 
+[最近连着追完了2023年的日剧《LAST MAN-全盲搜查官-》。福山雅治主演加推理悬疑，一下子让我...](https://www.wikimoe.com/post/0oth7vxy)  by  维基萌  at  2024-07-23 12:46:02
+
 [一些tg使用指南总结](https://jasonkayzk.github.io/2024/07/23/%E4%B8%80%E4%BA%9Btg%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%80%BB%E7%BB%93/)  by  Jasonkay  at  2024-07-23 00:21:19
 
 [DockerHub被墙之后的一些替代方案汇总](https://jasonkayzk.github.io/2024/07/23/DockerHub%E8%A2%AB%E5%A2%99%E4%B9%8B%E5%90%8E%E7%9A%84%E4%B8%80%E4%BA%9B%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88%E6%B1%87%E6%80%BB/)  by  Jasonkay  at  2024-07-23 00:06:53
+
+[学习 C 编程语言](https://tianheg.co/posts/c-programming-language/)  by  YI-DA-JIA-BEI  at  2024-07-23 00:00:00
 
 [学习 C 编程语言](https://tianheg.co/posts/c-programming-language/)  by  YI-DA-JIA-BEI  at  2024-07-23 00:00:00
 
@@ -217,7 +211,11 @@
 
 [日本亚马逊会员日打折买了台 Levoit  Core 300S 空气净化器，入手价14943日元（约...](https://www.wikimoe.com/post/6wo0l792)  by  维基萌  at  2024-07-22 14:08:34
 
+[日本亚马逊会员日打折买了台 Levoit  Core 300S 空气净化器，入手价14943日元（约...](https://www.wikimoe.com/post/6wo0l792)  by  维基萌  at  2024-07-22 14:08:34
+
 [计算kafka消费组Lag最佳实践最新版](http://blog.trumandu.top/2024/07/22/%E8%AE%A1%E7%AE%97kafka%E6%B6%88%E8%B4%B9%E7%BB%84lag%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E6%9C%80%E6%96%B0%E7%89%88/)  by  TrumanDu  at  2024-07-22 14:00:46
+
+[[紧急]上游CDN Cloudflare疑似边缘证书出现异常](https://blog.moeworld.tech/2024/07/22/%e7%b4%a7%e6%80%a5%e4%b8%8a%e6%b8%b8cdn-cloudflare%e7%96%91%e4%bc%bc%e8%be%b9%e7%bc%98%e8%af%81%e4%b9%a6%e5%87%ba%e7%8e%b0%e5%bc%82%e5%b8%b8/)  by  晓空blog  at  2024-07-22 04:11:31
 
 [使用eUICC卡片将手机变成eSIM手机](https://www.leavesongs.com/THINK/using-euicc-card-to-support-esim.html)  by  离别歌  at  2024-07-22 02:00:00
 
@@ -255,6 +253,8 @@
 ### 2024-07-20
 [每日原创壁纸:抽象创意壁纸](https://suiyan.cc/2024/20240720204656.html)  by  SuiYan 碎言  at  2024-07-20 20:46:56
 
+[你来得真早！](https://blog.hanlin.press/2024/07/Under-Construction/)  by  abc1763613206  at  2024-07-20 18:43:11
+
 [我是如何用Obsidian进行创作管理的](https://www.edony.ink/how-creating-content-with-the-help-of-obsidian/)  by  Shadow Walker 松烟阁  at  2024-07-20 17:06:51
 
 [笔记非自己写的不值得记录](https://www.skyue.com/24072016.html)  by  拾月  at  2024-07-20 16:59:00
@@ -266,8 +266,6 @@
 [善用 MVP 思维，5 天时间零成本搭建小报童排行榜](https://blog.diqigan.cn/posts/life/xiaobot-ranking-list-review.html)  by  Seven  at  2024-07-20 13:03:00
 
 [免费的SSL证书只有3个月，我果断选择了Sectigo！](https://www.lanka.cn/ssl_4715.html)  by  蓝卡  at  2024-07-20 12:36:00
-
-[[二创]在你的Butterfly上部署哔哔吧！](http://exef-star.github.io/2024/07/20/%E4%BA%8C%E5%88%9B-%E5%9C%A8%E4%BD%A0%E7%9A%84Butterfly%E4%B8%8A%E9%83%A8%E7%BD%B2%E5%93%94%E5%93%94%EF%BC%81/)  by  可执行程序  at  2024-07-20 08:47:15
 
 [如何在国内拥有一个能够接受境外短信的手机号](https://lifeodyssey.github.io/posts/49e48baa.html)  by  周大侠  at  2024-07-20 07:59:56
 
@@ -321,8 +319,6 @@
 
 [Webpack 版本升级带来的优化与变革](https://www.wekic.com/article/100073)  by  Vincent blog  at  2024-07-17 00:00:00
 
-[iPad 7 面向生产力的大学四年摸索](https://cyp0633.icu/post/ipad-7/)  by  cyp0633's Blog  at  2024-07-17 00:00:00
-
 
 ### 2024-07-16
 [关我辟事 Vol.20：跬步千里](https://blog.douchi.space/spark-joy-digest-2024-7a/)  by  椒盐豆豉  at  2024-07-16 23:42:00
@@ -349,8 +345,6 @@
 
 [杜架的记录与分享(007期)](http://blog.trumandu.top/2024/07/15/%E6%9D%9C%E6%9E%B6%E7%9A%84%E8%AE%B0%E5%BD%95%E4%B8%8E%E5%88%86%E4%BA%AB(007%E6%9C%9F)/)  by  TrumanDu  at  2024-07-15 14:50:33
 
-[视野修炼第92期 | 薅牛毛](https://sugarat.top/weekly/2024-07-14.html)  by  粥里有勺糖  at  2024-07-15 13:33:48
-
 [回家 and 兰州两日游](https://yuanj.top/posts/i2t4s6f4/)  by  yuanj's blog  at  2024-07-15 10:36:02
 
 ["这几日的烦恼与燥热"叶开新动态](https://qq.md/post/746)  by  叶开  at  2024-07-15 09:43:45
@@ -369,8 +363,6 @@
 
 
 ### 2024-07-14
-[Sayrud：因为不想重复写 CRUD，我把 18 岁那年开的坑填完了](https://github.red/hello-sayrud/)  by  Light Cube  at  2024-07-14 21:50:24
-
 [怡保：南洋山城，有毒馋人慎入](https://macin.org/2024/07/14/yi-bao/)  by  Macin CHEN  at  2024-07-14 17:11:30
 
 [觉得花钱好痛苦，自救一下](https://ssshooter.com/pain-of-paying/)  by  Usubeni Fantasy  at  2024-07-14 13:13:46
@@ -380,8 +372,6 @@
 
 ### 2024-07-13
 [美国总统特朗普枪击遇刺事件](https://leimao.github.io/essay/Trump-Gunshot-%E6%9E%AA%E5%87%BB%E9%81%87%E5%88%BA%E4%BA%8B%E4%BB%B6/)  by  Lei Mao  at  2024-07-13 07:00:00
-
-[记一次 CDN 流量被盗刷经历](https://sugarat.top/essay/dev/cdn-ds1.html)  by  粥里有勺糖  at  2024-07-13 03:30:03
 
 [入手小米智能门锁和黑客380](https://hin.cool/posts/lockandbike.html)  by  W4J1e  at  2024-07-13 00:20:00
 
@@ -401,8 +391,6 @@
 
 [当AI遇到程序员如何做加法](http://fengmengzhao.github.io/2024/07/12/when-ai-meet-coder-how-to-make-plus)  by  冯兄  at  2024-07-12 00:00:00
 
-[你好！世界！](https://www.saroprock.com/blog/2024-1-2/)  by  SaroProck ⚡  at  2024-07-12 00:00:00
-
 
 ### 2024-07-11
 [杜架的记录与分享(006期)](http://blog.trumandu.top/2024/07/11/%E6%9D%9C%E6%9E%B6%E7%9A%84%E8%AE%B0%E5%BD%95%E4%B8%8E%E5%88%86%E4%BA%AB(006%E6%9C%9F)/)  by  TrumanDu  at  2024-07-11 14:45:00
@@ -415,8 +403,6 @@
 
 
 ### 2024-07-10
-[最佳 AI 翻译工作流：全世界最信达雅的翻译](https://icloudnative.io/posts/best-ai-translation-workflow/)  by  云原生实验室  at  2024-07-10 16:06:37
-
 [自建 Docker 镜像存储库解决拉取问题](https://dusays.com/726/)  by  Teacher Du  at  2024-07-10 16:00:00
 
 [使用JavaScript抓取易车销量排行榜数据到一个页面上展示](https://hellodk.cn/post/1180)  by  Allen Hua 的网络博客  at  2024-07-10 14:00:00
@@ -425,6 +411,8 @@
 
 [腾讯云 CDN 防刷经验分享](https://www.imaegoo.com/2024/qcloud-cdn-defense/)  by  iMaeGoo  at  2024-07-10 09:00:00
 
+[通过自定义主题重写我的博客](https://www.lihaoyu.cn/posts/rewrite-my-blog)  by  晓雨杂记  at  2024-07-10 06:43:13
+
 
 ### 2024-07-09
 [使用JavaScript脚本快速获取B站观看历史记录页面的视频标题和URL](https://hellodk.cn/post/1179)  by  Allen Hua 的网络博客  at  2024-07-09 17:58:00
@@ -432,8 +420,6 @@
 [我正在使用的火狐扩展（2024年版）](https://blog.lilydjwg.me/posts/216855.html)  by  依云's Blog  at  2024-07-09 15:48:25
 
 [游记｜上海出发2小时，探寻莫干山的清凉秘境](https://blog.ops-coffee.cn/r/city-china-zhejiang-huzhou-deqing-moganshan)  by  运维咖啡吧  at  2024-07-09 13:47:25
-
-["青桔共享单车的糟心之旅"叶开新动态](https://qq.md/post/744)  by  叶开  at  2024-07-09 12:57:29
 
 [如何下载S-net数据](http://www.seis-jun.xyz/how-to-download-Snet-data)  by  Jun Xie  at  2024-07-09 07:16:25
 
@@ -451,17 +437,15 @@
 
 [《永恒的舞动》第九十八章](https://nicrosoft.net/blog/2196/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-07-08 18:39:31
 
+[线段树](http://blog.wsq127.top/posts/48555/)  by  wsq127  at  2024-07-08 14:59:55
+
 [0708 - 用加仓思维做趋势](https://atjason.com/daily/2024-07-08.html)  by  Jason  at  2024-07-08 14:00:00
 
 [CUC网络安全实践记录](https://lihan3238.github.io/p/network-security-comprehensive-practice/)  by  李寒的小窝  at  2024-07-08 13:06:00
 
 [独立博客上我不喜欢的“功能”](https://blog.douchi.space/things-i-hate-in-blogs/)  by  椒盐豆豉  at  2024-07-08 11:58:00
 
-[电影《默杀》可能是今年度影片黑马？！](https://blog.imoyan.top/posts/mosha.html)  by  懒陌颜  at  2024-07-08 04:39:12
-
 [记第一次进藏](https://blog.cuger.cn/p/6594/)  by  Dorad  at  2024-07-08 03:54:00
-
-[我不信这是真的](https://www.vian.top/662.html)  by  Vian  at  2024-07-08 02:56:00
 
 [两轮承载灵魂](https://blog.verynb.me/posts/10286.html)  by  晴雀  at  2024-07-08 02:12:21
 
@@ -483,13 +467,11 @@
 
 [使用 ray.data 进行大规模数据处理（二）：全局视角](https://www.qtmuniao.com/2024/07/07/ray-data-2/)  by  木鸟杂记  at  2024-07-07 13:03:33
 
-[视野修炼第91期 | 惊讶线条](https://sugarat.top/weekly/2024-07-07.html)  by  粥里有勺糖  at  2024-07-07 11:22:05
-
 [UPS 电源的重要性](https://leimao.github.io/essay/UPS%E7%94%B5%E6%BA%90%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7/)  by  Lei Mao  at  2024-07-07 07:00:00
 
-[IBM全栈开发【13·上】：全栈应用程序开发者毕业设计](https://cytrogen.icu/posts/41a3.html)  by  Cytrogen  at  2024-07-07 04:00:00
+[【转载】升级OpenSSH的正确姿势！！！](https://blog.moeworld.tech/2024/07/07/%e3%80%90%e8%bd%ac%e8%bd%bd%e3%80%91%e5%8d%87%e7%ba%a7openssh%e7%9a%84%e6%ad%a3%e7%a1%ae%e5%a7%bf%e5%8a%bf%ef%bc%81%ef%bc%81%ef%bc%81/)  by  晓空blog  at  2024-07-07 04:24:19
 
-[[广州印象] 夜游珠江](https://matrixcore.top/article/Night_Cruise_on_the_Pearl_River)  by  MatrixCore  at  2024-07-07 00:00:00
+[IBM全栈开发【13·上】：全栈应用程序开发者毕业设计](https://cytrogen.icu/posts/41a3.html)  by  Cytrogen  at  2024-07-07 04:00:00
 
 
 ### 2024-07-06
@@ -505,6 +487,8 @@
 
 [扩展 Linux 云主机磁盘容量](https://taoshu.in/unix/resize-oracle-ext4.html)  by  涛叔  at  2024-07-06 00:00:00
 
+[扩展 Linux 云主机磁盘容量](https://taoshu.in/unix/resize-oracle-ext4.html)  by  涛叔  at  2024-07-06 00:00:00
+
 
 ### 2024-07-05
 [Racket 入门 - 条件表达式、递归与复合数据](https://www.cubik65536.top/intro-to-racket/conditional-recursion-compound-data/)  by  Cubik65536  at  2024-07-05 22:02:35
@@ -514,6 +498,8 @@
 [《鸣潮》散记：有趣的搅局者](https://www.velasx.com/am/6210)  by  Zeee  at  2024-07-05 15:24:51
 
 [0705 - 交易的「严松严」](https://atjason.com/daily/2024-07-05.html)  by  Jason  at  2024-07-05 14:00:00
+
+[【公告】正在开始渐进式切换Gravatar头像源/Google字体源](https://blog.moeworld.tech/2024/07/05/%e3%80%90%e5%85%ac%e5%91%8a%e3%80%91%e6%ad%a3%e5%9c%a8%e5%bc%80%e5%a7%8b%e6%b8%90%e8%bf%9b%e5%bc%8f%e5%88%87%e6%8d%a2gravatar%e5%a4%b4%e5%83%8f%e6%ba%90/)  by  晓空blog  at  2024-07-05 13:33:14
 
 [使用Docker搭建Umami统计，显示近一年的pv、uv数据的API搭建](https://blog.zhheo.com/p/61e9.html)  by  张洪Heo  at  2024-07-05 02:02:59
 
@@ -539,11 +525,15 @@
 
 [Hexo 本地搜索插件教程](https://cytrogen.icu/posts/49c3.html)  by  Cytrogen  at  2024-07-03 05:00:00
 
+[我毕业了](https://fanrongbin.com/i-graduated/)  by  Rongbin's Blog  at  2024-07-03 04:42:45
+
 [React有哪些性能优化的方法](https://www.wekic.com/article/100072)  by  Vincent blog  at  2024-07-03 00:00:00
 
 
 ### 2024-07-02
 [《永恒的舞动》第九十七章](https://nicrosoft.net/blog/2193/)  by  农码生涯，无酒无花 – The coding life, no wine, no shine.  at  2024-07-02 18:37:34
+
+[记录一下自己入正的第一款GAL吧](https://blog.moeworld.tech/2024/07/02/%e8%ae%b0%e5%bd%95%e4%b8%80%e4%b8%8b%e8%87%aa%e5%b7%b1%e5%85%a5%e6%ad%a3%e7%9a%84%e7%ac%ac%e4%b8%80%e6%ac%begal%e5%90%a7/)  by  晓空blog  at  2024-07-02 15:36:55
 
 [生活中的小问题——公交计费问题](https://lisz.me/tech/algorithm/bus-ticket)  by  zhonger  at  2024-07-02 15:15:00
 
@@ -595,8 +585,6 @@
 
 [关我辟事 Vol.19：整装再出发](https://blog.douchi.space/spark-joy-digest-2024-6b/)  by  椒盐豆豉  at  2024-06-30 13:25:00
 
-[月刊（第2期）：信息就像糖，让人上瘾](https://blog.1874.cool/2024-month-02/)  by  1874's BLOG  at  2024-06-30 08:00:00
-
 [协作感知算法:三](https://www.sekyoro.top/2024/06/30/%E5%8D%8F%E4%BD%9C%E6%84%9F%E7%9F%A5%E7%AE%97%E6%B3%95-%E4%B8%89/)  by  Sekyoro  at  2024-06-30 05:46:08
 
 [Mac合盖后不休眠](https://jasonkayzk.github.io/2024/06/30/Mac%E5%90%88%E7%9B%96%E5%90%8E%E4%B8%8D%E4%BC%91%E7%9C%A0/)  by  Jasonkay  at  2024-06-30 02:01:08
@@ -604,6 +592,8 @@
 [记第一次来深圳](https://tianheg.co/posts/first-time-in-shenzhen/)  by  YI-DA-JIA-BEI  at  2024-06-30 00:00:00
 
 [置身事内 - 读书笔记](https://tw93.fun/2024-06-30/china.html)  by  Tw93 Blog  at  2024-06-30 00:00:00
+
+[记第一次来深圳](https://tianheg.co/posts/first-time-in-shenzhen/)  by  YI-DA-JIA-BEI  at  2024-06-30 00:00:00
 
 
 ### 2024-06-29
@@ -643,13 +633,11 @@
 
 
 ### 2024-06-27
-[Caddy 简单配置允许跨域的反向代理](https://paugram.com/coding/caddy-simple-proxy-with-cors.html)  by  保罗的小宇宙  at  2024-06-27 21:08:00
-
 [IBM全栈开发【11】：全栈应用程序开发项目](https://cytrogen.icu/posts/fa4d.html)  by  Cytrogen  at  2024-06-27 20:41:00
 
-[试驾奇瑞艾瑞泽8](https://www.vian.top/660.html)  by  Vian  at  2024-06-27 14:50:00
-
 [游记｜淀山湖，上海周末露营度假好去处](https://blog.ops-coffee.cn/r/city-china-shanghai-dianshanhu)  by  运维咖啡吧  at  2024-06-27 11:44:44
+
+[打包分享你的 Excel VBA 和自定义选项卡](https://fanrongbin.com/share-your-excel-vba-and-customised-tabs/)  by  Rongbin's Blog  at  2024-06-27 10:03:56
 
 [数论 学习笔记](https://blog.makerlife.top/post/number-theory/)  by  Makerlife  at  2024-06-27 09:24:14
 
@@ -709,8 +697,6 @@
 
 [我的盈透 IB 账户里到底有多少钱？](https://innomad.io/ib-balances)  by  Innomad 一挪迈  at  2024-06-24 00:00:00
 
-[[峭壁之花] 此去二十年，蹉跎尘世间](https://matrixcore.top/article/240624)  by  MatrixCore  at  2024-06-24 00:00:00
-
 
 ### 2024-06-23
 [乐山游记](https://sund.site/posts/2024/leshan/)  by  The Context Works  at  2024-06-23 18:50:51
@@ -745,12 +731,8 @@
 
 [如何从 YouTube 搬运视频？如何做一个合格的 YouTube 搬运工？我搬运视频的方法与原则](https://imayx.top/howtorepostyoutubevideos/)  by  Ayx 博客  at  2024-06-22 00:00:00
 
-[[知难守易]  生活范式的优化](https://matrixcore.top/article/240622)  by  MatrixCore  at  2024-06-22 00:00:00
-
 
 ### 2024-06-21
-[面会菜](https://www.vian.top/659.html)  by  Vian  at  2024-06-21 23:19:00
-
 [人声分离简单评测](https://blog.est.im/2024/stdout-10)  by  est の 输入输出  at  2024-06-21 22:48:00
 
 [树状数组，线段树，傻傻分不清楚？](https://lucifer.ren/blog/2024/06/22/binary-index-tree/)  by  lucifer  at  2024-06-21 16:00:00
@@ -761,10 +743,10 @@
 
 [父亲住院笔记](https://tianheg.co/posts/fathers-hospital-stay-journal/)  by  YI-DA-JIA-BEI  at  2024-06-21 00:00:00
 
+[父亲住院笔记](https://tianheg.co/posts/fathers-hospital-stay-journal/)  by  YI-DA-JIA-BEI  at  2024-06-21 00:00:00
+
 
 ### 2024-06-20
-[在家的躺平生活](https://www.vian.top/656.html)  by  Vian  at  2024-06-20 20:11:00
-
 [手动清理C盘的空间](https://hin.cool/posts/cclean.html)  by  W4J1e  at  2024-06-20 17:00:00
 
 [拆解所谓华为1T移动硬盘](https://mianao.info/huawei-1t-mobile-hard-drive-tf-card-disguise/)  by  Harry  at  2024-06-20 16:00:00
@@ -1075,10 +1057,6 @@
 
 [.tex | 还原电位和电负性](https://mountaye.github.io/blog/articles/reduction-potential-and-electronegativity)  by  MountAye  at  2024-06-16 00:00:00
 
-[视野修炼第88期 | 突出变量插件](https://sugarat.top/weekly/2024-06-16.html)  by  粥里有勺糖  at  2024-06-16 00:00:00
-
-[[年度团建] 清凉谷与黑龙潭之旅](https://matrixcore.top/article/andawell_minji_team_building)  by  MatrixCore  at  2024-06-16 00:00:00
-
 
 ### 2024-06-15
 [又是一届欧洲杯开幕，回忆20年前的2004葡萄牙欧洲杯](https://www.feidaoboke.com/post/remembering-the-UEFA-Euro-2004-in-portugal.html)  by  飞刀博客  at  2024-06-15 23:06:44
@@ -1095,10 +1073,6 @@
 
 
 ### 2024-06-14
-[炎炎夏日来杯冰啤酒吧](https://www.vian.top/654.html)  by  Vian  at  2024-06-14 18:25:00
-
-[Προκήρυξη του FINAL 4 του Ομαδικού Πρωταθλήματος <12 Κρήτης](https://essk.gr/el/prokiryxi-toy-final-4-toy-omadikoy-protathlimatos)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-06-14 16:40:00
-
 [Prose_统计暨编程问题日志](https://blog.yanyuteng.cn/2024/06/15/a6894eaa/)  by  Yuteng Yan  at  2024-06-14 16:00:00
 
 [游记｜宁海，小众宝藏城市的惊喜之旅](https://blog.ops-coffee.cn/r/city-china-zhejiang-ningbo-ninghai)  by  运维咖啡吧  at  2024-06-14 09:40:55
@@ -1108,6 +1082,8 @@
 [记一次线上 DDoS 攻击案例](https://taoshu.in/net/one-ddos-analysis.html)  by  涛叔  at  2024-06-14 00:00:00
 
 [使用DNS紀錄來自動更新IP白名單](https://xnum.github.io/2024/06/dns-record-as-ip-white-list)  by  Jia Jun Yeh  at  2024-06-14 00:00:00
+
+[记一次线上 DDoS 攻击案例](https://taoshu.in/net/one-ddos-analysis.html)  by  涛叔  at  2024-06-14 00:00:00
 
 
 ### 2024-06-13
@@ -1129,11 +1105,9 @@
 
 
 ### 2024-06-12
-[错觉就是错觉](https://www.vian.top/652.html)  by  Vian  at  2024-06-12 22:29:00
-
 [修手机记 2.0 aka 美国手机市场现状吐槽](https://blog.douchi.space/phone-repair-again/)  by  椒盐豆豉  at  2024-06-12 22:18:00
 
-[博客构建性能优化笔记 | 提速 3 倍](https://sugarat.top/essay/dev/2024-blog-build-perf.html)  by  粥里有勺糖  at  2024-06-12 14:11:22
+[高性能计算课程作业](https://blog.zerolacqua.top/posts/35a33f10.html)  by  Zerol Acqua  at  2024-06-12 14:02:41
 
 [高性能计算课程作业](https://blog.zerolacqua.top/posts/35a33f10.html)  by  Zerol Acqua  at  2024-06-12 14:02:41
 
@@ -1144,8 +1118,6 @@
 [信创银河麒麟高级服务器操作系统 V10 安装无头浏览器 Chromium](https://www.imaegoo.com/2024/kylin-chromium/)  by  iMaeGoo  at  2024-06-12 10:08:13
 
 [如何反编译微信小程序](https://bubuzou.com/2024/06/12/decompile-applet/)  by  typeR  at  2024-06-12 09:37:58
-
-[端午节大梅沙之旅](https://blog.imoyan.top/posts/2dd7.html)  by  懒陌颜  at  2024-06-12 09:16:06
 
 [是NAT3还是NAT4？使用Mac测试你的网络类型](https://blog.zhheo.com/p/76f914a8.html)  by  张洪Heo  at  2024-06-12 02:03:08
 
@@ -1179,25 +1151,21 @@
 
 [DockerUI 容器管理器的安装与使用](https://dusays.com/716/)  by  Teacher Du  at  2024-06-10 16:00:00
 
-[PCL粗略使用](http://exef-star.github.io/2024/06/10/PCL%E7%B2%97%E7%95%A5%E4%BD%BF%E7%94%A8/)  by  可执行程序  at  2024-06-10 09:08:42
-
 [ブラウザのストリーム API をマスターする](https://ssshooter.com/ja/stream-explanation/)  by  Usubeni Fantasy  at  2024-06-10 08:29:00
+
+[Go语言实现流量计费](https://taoshu.in/go/bytes-counter.html)  by  涛叔  at  2024-06-10 00:00:00
 
 [Go语言实现流量计费](https://taoshu.in/go/bytes-counter.html)  by  涛叔  at  2024-06-10 00:00:00
 
 
 ### 2024-06-09
-[泡泡玛特](https://www.vian.top/651.html)  by  Vian  at  2024-06-09 20:35:00
-
-[周总结与反思](https://www.mcaoyuan.com/archives/20240609)  by  马草原 の Blog  at  2024-06-09 19:13:02
+[Action部署在线上写文章](https://blog.c12th.cn/archives/32.html)  by  Reverse  at  2024-06-09 23:18:00
 
 [负片](https://blog.si-on.top/2024/Negative/)  by  秉  at  2024-06-09 05:36:29
 
 [不敢改变是我在焦虑什么](https://innei.in/notes/173)  by  静かな森  at  2024-06-09 05:15:17
 
 [模板博文](https://lihan3238.github.io/p/0_template_post/)  by  李寒的小窝  at  2024-06-09 00:00:00
-
-[视野修炼第87期 | 端午安康](https://sugarat.top/weekly/2024-06-09.html)  by  粥里有勺糖  at  2024-06-09 00:00:00
 
 
 ### 2024-06-08
@@ -1241,8 +1209,6 @@
 
 [如何将图片编码成base64?](https://colobu.com/2024/06/06/image-to-base64/)  by  smallnest  at  2024-06-06 15:19:17
 
-[妹妹说紫色很有韵味](https://www.vian.top/650.html)  by  Vian  at  2024-06-06 15:10:00
-
 [挑简历看麻了，就业市场太卷了](https://blog.est.im/2024/stderr-10)  by  est の 输入输出  at  2024-06-06 14:35:00
 
 [一文弄懂字符编码，面对乱码不再抓瞎](https://blog.jasonleehere.com/posts/141cabf4.html)  by  Jason  at  2024-06-06 14:14:10
@@ -1257,6 +1223,8 @@
 
 [我这地方确实看不到凌晨四点的洛杉矶](https://luffy.cc/ling-chen-si-dian)  by  蒙奇日记  at  2024-06-06 00:00:00
 
+[明天会更好 - 群星](https://tianheg.co/posts/mingtian-huigenghao-qunxing/)  by  YI-DA-JIA-BEI  at  2024-06-06 00:00:00
+
 
 ### 2024-06-05
 [开源｜维易CMDB详解之模型基础配置](https://blog.ops-coffee.cn/veops/oneops-cmdb-ci-types-configure-base)  by  运维咖啡吧  at  2024-06-05 17:40:01
@@ -1264,8 +1232,6 @@
 [关我辟事 Vol.18：新大陆](https://blog.douchi.space/spark-joy-digest-2024-5b/)  by  椒盐豆豉  at  2024-06-05 08:13:00
 
 [绿联NAS翻车始末：动机值得鼓励，但表现像个草台班子](https://blog.zhheo.com/p/86b7ebc3.html)  by  张洪Heo  at  2024-06-05 02:36:49
-
-[《飙酷车神：轰鸣盛典》：嘉年华不是一日建成的](https://cyp0633.icu/post/the-crew-motorfest/)  by  cyp0633's Blog  at  2024-06-05 00:00:00
 
 
 ### 2024-06-04
@@ -1279,11 +1245,11 @@
 
 [使用 1panel 自动申请和续签通配符证书](https://hin.cool/posts/sslfor1panel.html)  by  W4J1e  at  2024-06-04 06:00:00
 
-[从零开始制作一个Butterfly主题](https://blog.imoyan.top/posts/e86c.html)  by  懒陌颜  at  2024-06-04 04:25:17
-
 [如何高效地学习英语](https://limboy.me/posts/learn-english-effectively/)  by  Limboy  at  2024-06-04 00:00:00
 
 [.pdf | 芥川赏作品·杨逸《時が滲む朝》](https://mountaye.github.io/blog/articles/yang-yi-novel-about-tiananmen-square-protest)  by  MountAye  at  2024-06-04 00:00:00
+
+[把Hexo博客迁移到新电脑](https://blog.c12th.cn/archives/31.html)  by  Reverse  at  2024-06-04 00:00:00
 
 
 ### 2024-06-03
@@ -1292,10 +1258,6 @@
 [【1989六四事件 · 三十五周年】工人力量特辑](https://feed.laborinfocn7.com/64-35-laborpower/)  by  工劳小报｜工劳快讯  at  2024-06-03 14:57:51
 
 [RAG 技术在实际工程中的应用：OpenAI 的最佳实践分享](https://www.4async.com/2024/06/openai-survey-of-techniques-for-maximizing-llm-performance/)  by  ipfans's Blog  at  2024-06-03 11:15:00
-
-[RAG 技术在实际工程中的应用：OpenAI 的最佳实践分享](https://www.4async.com/2024/06/openai-survey-of-techniques-for-maximizing-llm-performance/)  by  ipfans's Blog  at  2024-06-03 11:15:00
-
-[试驾](https://www.vian.top/647.html)  by  Vian  at  2024-06-03 10:45:00
 
 [PIS 开启抖音直播](https://leimao.github.io/essay/PIS%E5%BC%80%E5%90%AF%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD/)  by  Lei Mao  at  2024-06-03 07:00:00
 
@@ -1321,13 +1283,9 @@
 
 [Weekly Issue-告诉别人你可能过得不好，是善良吗](https://zdyxry.github.io/2024/06/02/Weekly-Issue-%E5%91%8A%E8%AF%89%E5%88%AB%E4%BA%BA%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%BF%87%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%96%84%E8%89%AF%E5%90%97/)  by  Yiran's Blog  at  2024-06-02 00:00:00
 
-[视野修炼第86期 | CSS 马里奥](https://sugarat.top/weekly/2024-06-02.html)  by  粥里有勺糖  at  2024-06-02 00:00:00
-
 
 ### 2024-06-01
 [go 代码安全审计](https://www.edony.ink/go-source-code-audit/)  by  Shadow Walker 松烟阁  at  2024-06-01 22:05:24
-
-[周总结与反思](https://www.mcaoyuan.com/archives/20240601)  by  马草原 の Blog  at  2024-06-01 18:42:23
 
 [0601 - 几个东亚的指数期货](https://atjason.com/daily/2024-06-01.html)  by  Jason  at  2024-06-01 14:00:00
 
@@ -1356,8 +1314,6 @@
 [运气与努力](https://1byte.io/articles/luck/)  by  0x01 byte  at  2024-05-31 00:00:00
 
 [重养绿萝](https://luffy.cc/chong-yang-lv-luo)  by  蒙奇日记  at  2024-05-31 00:00:00
-
-[月刊（第1期）：刻意练习](https://blog.1874.cool/2024-month-01/)  by  1874's BLOG  at  2024-05-31 00:00:00
 
 
 ### 2024-05-30
@@ -1431,7 +1387,7 @@
 
 
 ### 2024-05-26
-[Ο.Α.Χ., Ο.Φ.Η., Σ.Α.Χ. και Ο.Α.Α.Η. στο FINAL 4 του Διασυλλογικού <12](https://essk.gr/el/oah-ofi-sah-kai-oaai-sto-final-4-toy-diasyllogikoy)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-05-26 19:51:01
+[环境监测](https://blog.c12th.cn/archives/30.html)  by  Reverse  at  2024-05-26 16:07:00
 
 [豆角蒸面🍜](https://102no.com/2024/05/27/dou-jiao-zheng-mian/)  by  Qianyugang  at  2024-05-26 16:00:00
 
@@ -1445,17 +1401,9 @@
 
 [特殊符号小记](https://lihan3238.github.io/p/special_chars/)  by  李寒的小窝  at  2024-05-26 11:30:00
 
-[周总结与反思](https://www.mcaoyuan.com/archives/20240526)  by  马草原 の Blog  at  2024-05-26 11:18:29
-
-[🧀怀旧1.12.2—我的世界1.12.2模组（附赠光影）🥙](http://exef-star.github.io/2024/05/26/%E6%80%80%E6%97%A71-12-2%E2%80%94%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C1-12%E6%A8%A1%E7%BB%84%EF%BC%88%E9%99%84%E8%B5%A0%E5%85%89%E5%BD%B1%EF%BC%89/)  by  可执行程序  at  2024-05-26 07:42:03
-
 [2024 年 5 月我的训练心得体会](https://leimao.github.io/essay/2024%E5%B9%B45%E6%9C%88%E6%88%91%E7%9A%84%E8%AE%AD%E7%BB%83%E5%BF%83%E5%BE%97%E4%BD%93%E4%BC%9A/)  by  Lei Mao  at  2024-05-26 07:00:00
 
-[如何低成本拥有境外手机号（附 5ber 专属折扣）](https://hunterx.xyz/5ber-affordable-esim.html)  by  HunterX  at  2024-05-26 06:34:17
-
 [Hexo源代码分析【1】：入口文件](https://cytrogen.icu/posts/5d57.html)  by  Cytrogen  at  2024-05-26 05:00:00
-
-[数字货币的价格算法浅析](https://hunterx.xyz/price-algorithm-of-coins.html)  by  HunterX  at  2024-05-26 03:25:42
 
 [.doc | 参加毕业典礼](https://mountaye.github.io/blog/articles/doc-graduation-ceremony)  by  MountAye  at  2024-05-26 00:00:00
 
@@ -1466,10 +1414,6 @@
 [樺皮嶺徒步](https://kqh.me/diary/huapiling/)  by  赫赫文王  at  2024-05-26 00:00:00
 
 [多媒體檔案管理和下載伺服器 - 軟體篇](https://xnum.github.io/2024/05/media-storage-server)  by  Jia Jun Yeh  at  2024-05-26 00:00:00
-
-[视野修炼第85期 | 图小小](https://sugarat.top/weekly/2024-05-26.html)  by  粥里有勺糖  at  2024-05-26 00:00:00
-
-[杠铃还是哑铃](https://www.saroprock.com/blog/weights/)  by  SaroProck ⚡  at  2024-05-26 00:00:00
 
 
 ### 2024-05-25
@@ -1484,8 +1428,6 @@
 [Hugo：给文章添加 lastmod（上次修改时间）](https://cyrusyip.org/zh-cn/post/2024/05/25/hugo-add-lastmod-to-posts/)  by  叶寻的博客  at  2024-05-25 00:00:00
 
 [窗外的雨](https://luffy.cc/chuang-wai-de-yu)  by  蒙奇日记  at  2024-05-25 00:00:00
-
-[《看门狗：军团》：老游戏，新思路](https://cyp0633.icu/post/watch-dogs-legion/)  by  cyp0633's Blog  at  2024-05-25 00:00:00
 
 
 ### 2024-05-24
@@ -1525,6 +1467,8 @@
 
 
 ### 2024-05-22
+[智慧商超-下](https://blog.c12th.cn/archives/29.html)  by  Reverse  at  2024-05-22 22:00:00
+
 [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/)  by  Posts on 熊鑫伟（cubxxw）的简体中文博客 🇨🇳  at  2024-05-22 21:37:34
 
 [AI Agent智能体四类设计模式：通用人工智能必经之路](https://www.zair.top/post/ai-agent-design-pattern/)  by  逐水寻源  at  2024-05-22 18:00:22
@@ -1532,8 +1476,6 @@
 [使用 Windows 虚拟机运行虚拟专用网客户端为 Linux 提供内网环境](https://zhul.in/2024/05/23/setup-network-environment-for-non-linux-vpn-client-with-virtual-machine/)  by  竹林里有冰  at  2024-05-22 17:07:44
 
 [使用Rust捕获和解析网络包](https://colobu.com/2024/05/22/parse-tcp-timestamp-in-Rust/)  by  smallnest  at  2024-05-22 14:14:30
-
-[关于胖猫事件的一些个人看法](https://paugram.com/essay/about-history-of-pangmao.html)  by  保罗的小宇宙  at  2024-05-22 00:54:00
 
 [迷你主机组装记](https://mephisto.cc/note/mini-pc/)  by  mephisto.cc  at  2024-05-22 00:00:00
 
@@ -1547,6 +1489,8 @@
 
 
 ### 2024-05-20
+[智慧商超-上](https://blog.c12th.cn/archives/28.html)  by  Reverse  at  2024-05-20 22:43:00
+
 [历史原来很精彩](https://yuanj.top/posts/h0f1m7k5/)  by  yuanj's blog  at  2024-05-20 12:19:13
 
 [为深入数字生活做准备](https://ourai.ws/posts/prepare-for-a-deeper-digital-life)  by  欧雷  at  2024-05-20 12:01:03
@@ -1569,13 +1513,9 @@
 ### 2024-05-19
 [IBM全栈开发【8】：用于人工智能和开发项目的Python](https://cytrogen.icu/posts/224a.html)  by  Cytrogen  at  2024-05-19 22:49:00
 
-[周总结与反思](https://www.mcaoyuan.com/archives/energy)  by  马草原 の Blog  at  2024-05-19 18:53:09
-
 [2024-05-19 记一次网站被 DDoS(CC)攻击 的过程和应对方案](https://blog.cmyr.ltd/archives/7b99b82a.html)  by  草梅友仁  at  2024-05-19 14:56:59
 
 [远程桌面工具rustdesk的私有化部署-mac锁定问题](https://nicksxs.me/2024/05/19/%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7rustdesk%E7%9A%84%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2-mac%E9%94%81%E5%AE%9A%E9%97%AE%E9%A2%98/)  by  Nicksxs  at  2024-05-19 14:34:19
-
-[Προκήρυξη του Διασυλλογικού Νεανικού Πρωταθλήματος <12 Κρήτης 2024](https://essk.gr/el/prokiryxi-toy-diasyllogikoy-neanikoy-protathlimatos)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-05-19 12:01:59
 
 [房车用电指南，两年实际房车使用的真实体验](https://blog.ops-coffee.cn/r/maxus-the-guide-to-rv-electricity-usage)  by  运维咖啡吧  at  2024-05-19 10:46:06
 
@@ -1611,8 +1551,6 @@
 
 [装修问题总结(下)](https://mianao.info/65c3cc80/)  by  Harry  at  2024-05-17 16:00:00
 
-[总结一下Hexo的小教程](http://exef-star.github.io/2024/05/17/%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8BHexo%E7%9A%84%E5%B0%8F%E6%95%99%E7%A8%8B/)  by  可执行程序  at  2024-05-17 12:18:12
-
 [过度的极限的挑衅是一种预期的暴力——那也是暴力。](https://zhurongshuo.com/posts/2024/05/1701/)  by  祝融说。  at  2024-05-17 12:14:59
 
 [读《最后的告别》](https://luffy.cc/being-mortal)  by  蒙奇日记  at  2024-05-17 00:00:00
@@ -1635,8 +1573,6 @@
 
 [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/)  by  Posts on 熊鑫伟（cubxxw）的简体中文博客 🇨🇳  at  2024-05-15 20:12:29
 
-[GPT 原理详解：大模型到底有没有智能？](https://icloudnative.io/posts/how-gpt-work-explained-without-math/)  by  云原生实验室  at  2024-05-15 17:06:37
-
 [读《额尔古纳河右岸》（附人物关系情节梗概图）](https://www.feidaoboke.com/post/read-e-er-gu-na-he-you-an.html)  by  飞刀博客  at  2024-05-15 16:18:46
 
 [近期的一些思考](https://blog.jasonleehere.com/posts/5ed25de3.html)  by  Jason  at  2024-05-15 14:02:05
@@ -1645,6 +1581,8 @@
 
 
 ### 2024-05-14
+[操作系统恢复](https://blog.c12th.cn/archives/24.html)  by  Reverse  at  2024-05-14 23:00:00
+
 [任务系统之结果传递](https://blog.ops-coffee.cn/s/devops-task-subtask-args-kwargs-jinja-template)  by  运维咖啡吧  at  2024-05-14 18:14:54
 
 [在数据采集中使用对象池的实践](https://blog.zhangyingwei.com/posts/2024m5d14h9m58s26/)  by  胡说  at  2024-05-14 09:58:26
@@ -1661,10 +1599,6 @@
 
 
 ### 2024-05-13
-[做技术人的心得](https://www.mcaoyuan.com/archives/devinsights)  by  马草原 の Blog  at  2024-05-13 21:36:17
-
-[关于技术博客](https://www.mcaoyuan.com/archives/abouttechnologyblog)  by  马草原 の Blog  at  2024-05-13 19:19:36
-
 [在业务中使用 Kafka 到底能不能保证消息的有序性](https://blog.zhangyingwei.com/posts/2024m5d13h17m11s53/)  by  胡说  at  2024-05-13 17:11:53
 
 [爱西雅图的地方](https://blog.douchi.space/about-seattle/)  by  椒盐豆豉  at  2024-05-13 13:12:00
@@ -1703,8 +1637,6 @@
 
 [跨越时代的情感连接——记蔡琴上海演唱会(附歌单)](https://lmmsoft.github.io//Tsai_Chin_concert)  by  lmm333  at  2024-05-12 04:00:00
 
-[周总结与反思](https://www.mcaoyuan.com/archives/20240512)  by  马草原 の Blog  at  2024-05-12 00:27:58
-
 [Weekly Issue-真的需要复杂的解决方案么？](https://zdyxry.github.io/2024/05/12/Weekly-Issue-%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E5%A4%8D%E6%9D%82%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%B9%88/)  by  Yiran's Blog  at  2024-05-12 00:00:00
 
 [真小人与伪君子](https://ioerr.github.io/posts/zhenxiaoren-yu-weijunzi/)  by  读写错误  at  2024-05-12 00:00:00
@@ -1724,10 +1656,6 @@
 [2024-05-11 【有剧透】崩铁2.2主线剧情感想](https://blog.cmyr.ltd/archives/86ef2021.html)  by  草梅友仁  at  2024-05-11 08:34:10
 
 [百度的槽点到底在哪里](http://weiwuhui.com/10670.html)  by  扯氮集  at  2024-05-11 06:17:53
-
-[RustDesk 自建服务器部署和使用教程](https://icloudnative.io/posts/how-to-set-up-rustdesk-server/)  by  云原生实验室  at  2024-05-11 05:04:19
-
-[zap 日志库的死锁问题](https://hunterx.xyz/zap-buffered-write-syncer-deadlock.html)  by  HunterX  at  2024-05-11 02:45:18
 
 [模糊蒙层](https://www.zddhub.com/2024/05/11/w19-hard-than-imagination.html)  by  ZDDHUB  at  2024-05-11 00:00:00
 
@@ -1765,6 +1693,8 @@
 
 [哪吒面板default主题小鸡底部增加购买同款按钮](https://www.bmqy.net/2664.html)  by  北门清燕  at  2024-05-08 10:29:00
 
+[树状数组](http://blog.wsq127.top/posts/59a0de58/)  by  wsq127  at  2024-05-08 08:40:57
+
 [这届百度公关 专业丢分了](http://weiwuhui.com/10675.html)  by  扯氮集  at  2024-05-08 06:28:11
 
 [我居然用回有线耳机了](https://tw93.fun/2024-05-08/sony.html)  by  Tw93 Blog  at  2024-05-08 00:00:00
@@ -1773,13 +1703,9 @@
 
 
 ### 2024-05-07
-[久违的晴天](https://www.mcaoyuan.com/archives/sunny0507)  by  马草原 の Blog  at  2024-05-07 23:58:01
-
 [记录一个噩梦](https://blog.est.im/2024/stderr-08)  by  est の 输入输出  at  2024-05-07 21:20:00
 
 [谈谈我用过的四个前端IDE](https://blog.yuxiangwang0525.com/archives/113/)  by  YuxiangWang_0525的博客  at  2024-05-07 16:38:00
-
-[小程序中使用 lottie 动画 | 踩坑经验分享](https://sugarat.top/technology/learn/mini-lottie.html)  by  粥里有勺糖  at  2024-05-07 14:56:53
 
 [说声再见](https://iamgodot.com/posts/a-new-podcast-app/)  by  Posts on Godot's Blog  at  2024-05-07 14:08:06
 
@@ -1801,6 +1727,8 @@
 
 
 ### 2024-05-06
+[操作系统备份](https://blog.c12th.cn/archives/22.html)  by  Reverse  at  2024-05-06 23:45:00
+
 [简评《饿殍：明末千里行》](https://blog.verynb.me/posts/52223.html)  by  晴雀  at  2024-05-06 12:55:24
 
 [简评《饿殍：明末千里行》](https://blog.verynb.me/posts/52223.html)  by  晴雀  at  2024-05-06 12:55:24
@@ -1824,8 +1752,6 @@
 [解决Zigbee2MQTT升级后京鱼座无线开关失效的问题](https://mianao.info/5318c801/)  by  Harry  at  2024-05-05 16:00:00
 
 [乐山峨眉五一游](https://hin.cool/posts/travel2leshan.html)  by  W4J1e  at  2024-05-05 15:30:00
-
-[周总结与反思](https://www.mcaoyuan.com/archives/20240505)  by  马草原 の Blog  at  2024-05-05 15:23:43
 
 [一日一技：效率翻倍，国产大模型App的正确应用](https://www.kingname.info/2024/05/05/tongyi/)  by  青南  at  2024-05-05 14:46:54
 
@@ -1861,18 +1787,16 @@
 
 [原来 k3s 的证书默认一年就会过期](https://mok.moe/p/3c20)  by  Mokeyjay's Blog - 超能小紫  at  2024-05-03 19:24:53
 
-[博客性能优化笔记 | 99分](https://sugarat.top/essay/dev/2024-blog-perf.html)  by  粥里有勺糖  at  2024-05-03 13:27:55
-
 [【五一之火，全球劳动者的呐喊】首尔、台北、东京、香港、吉隆坡、雅加达、新加坡、阿德莱德、柏林、巴黎、科隆、伦敦、纽约……](https://feed.laborinfocn7.com/wu-yi/)  by  工劳小报｜工劳快讯  at  2024-05-03 06:07:33
 
 [被誉为’杭州小三亚’，带娃玩水铲沙，宝寿山景区值得去么？](https://lmmsoft.github.io//Baoshou_mountain_play_water_with_baby)  by  lmm333  at  2024-05-03 04:00:00
 
 [LINGER：从单细胞多组学数据推断基因调控网络](https://www.zhuangqingyuan.site/2024/05/03/LINGER%EF%BC%9A%E4%BB%8E%E5%8D%95%E7%BB%86%E8%83%9E%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E6%8E%A8%E6%96%AD%E5%9F%BA%E5%9B%A0%E8%B0%83%E6%8E%A7%E7%BD%91%E7%BB%9C/)  by  Qingyuan Zhuang' Blog  at  2024-05-03 00:00:00
 
-[独善其身](https://www.saroprock.com/blog/out/)  by  SaroProck ⚡  at  2024-05-03 00:00:00
-
 
 ### 2024-05-02
+[操作系统安装](https://blog.c12th.cn/archives/21.html)  by  Reverse  at  2024-05-02 16:56:00
+
 [产科学疾病诊断](https://www.zhuangqingyuan.site/2024/05/03/%E4%BA%A7%E7%A7%91%E5%AD%A6%E7%96%BE%E7%97%85%E8%AF%8A%E6%96%AD/)  by  Qingyuan Zhuang' Blog  at  2024-05-02 16:10:46
 
 [我的省钱路数](https://ssshooter.com/money-saving-tips/)  by  Usubeni Fantasy  at  2024-05-02 15:33:42
@@ -1907,8 +1831,6 @@
 
 [史网｜24 权力论](https://kqh.me/net/24/)  by  赫赫文王  at  2024-05-01 00:00:00
 
-[舔狗的幸运](https://www.saroprock.com/blog/the-world/)  by  SaroProck ⚡  at  2024-05-01 00:00:00
-
 
 ### 2024-04-30
 [关我辟事 Vol.16：悬崖勒马](https://blog.douchi.space/spark-joy-digest-2024-4b/)  by  椒盐豆豉  at  2024-04-30 21:50:00
@@ -1925,15 +1847,11 @@
 
 [终端，控制台和外壳](https://f2h2h1.github.io/article/终端，控制台和外壳.html)  by  f2h2h1's blog  at  2024-04-29 18:21:54
 
-[记录我在腾讯云上部署一个简单静态网站的艰辛](https://github.red/migrate-blog-to-tencent-cloud/)  by  Light Cube  at  2024-04-29 17:44:04
-
 [网站卫士即将停止服务](https://hin.cool/posts/qaxwebguardbye.html)  by  W4J1e  at  2024-04-29 14:00:00
 
 [实现MySQL动态字段的步骤](https://blog.wexiami.com/chenxuyuan/58.html)  by  大熊要飞翔  at  2024-04-29 11:33:13
 
 [你在 Steam 上花过多少钱？](https://blog.douchi.space/steam-spending/)  by  椒盐豆豉  at  2024-04-29 10:32:00
-
-[Κυπελλούχος Κρήτης 2024 ο Ο.Φ.Η., φιναλίστ το Γάζι και 3ος ο Σ.Ο.Η.](https://essk.gr/el/kypelloyhos-kritis-2024-o-ofi-finalist-gazi-kai-3os-o-soi)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-04-29 10:28:54
 
 [来聊聊必学的sql知识](https://blackholemax.github.io/2024/04/29/tech/SQL%E5%BF%85%E5%AD%A6/)  by  BlackHoleMax  at  2024-04-29 10:10:08
 
@@ -1947,6 +1865,8 @@
 
 
 ### 2024-04-28
+[虚拟机软件环境下操作系统安装](https://blog.c12th.cn/archives/20.html)  by  Reverse  at  2024-04-28 23:45:00
+
 [【译】自由主义炼狱](https://blog.amamiyayuuko.com/p/liberal-infernos/)  by  Yuko's Blog  at  2024-04-28 17:33:00
 
 [【译】暴力中的暗物质，或曰，透视恐怖](https://blog.amamiyayuuko.com/p/the-dark-matter-of-violence-or-putting-terror-in-perspective/)  by  Yuko's Blog  at  2024-04-28 17:28:00
@@ -1983,8 +1903,6 @@
 
 [点点点！TBtools 完成论文复现](https://yuanj.top/posts/t4x3s5r5/)  by  yuanj's blog  at  2024-04-27 09:21:30
 
-[万城五一特别优惠](https://hunterx.xyz/vcity-coupon-2451.html)  by  HunterX  at  2024-04-27 03:48:20
-
 [先审题](https://www.zddhub.com/2024/04/27/w17-read-carefully.html)  by  ZDDHUB  at  2024-04-27 00:00:00
 
 [中国历代政治得失](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/merits-and-demerits-of-political-systems-in-dynastic-china/)  by  夜行人  at  2024-04-27 00:00:00
@@ -1996,6 +1914,8 @@
 [受灾小记](https://www.eallion.com/disaster-of-house/)  by  大大的小蜗牛  at  2024-04-26 21:13:45
 
 [赶在五一之前给乌龟做个自动喂食器](https://mianao.info/577fd5be/)  by  Harry  at  2024-04-26 16:00:00
+
+[窗边浅谈：形同陌路的“朋友”](https://www.lihaoyu.cn/posts/chat-prologu-by-the-windows-2)  by  晓雨杂记  at  2024-04-26 10:30:00
 
 [看呐 车展上的那对红男绿男](http://weiwuhui.com/10684.html)  by  扯氮集  at  2024-04-26 06:41:37
 
@@ -2029,6 +1949,8 @@
 
 
 ### 2024-04-25
+[虚拟机软件安装](https://blog.c12th.cn/archives/19.html)  by  Reverse  at  2024-04-25 19:39:00
+
 [戒了，再也不玩期货了](https://www.iccat.cn/2024/04/25/qihuo.html)  by  屹铭说 - LEO屹铭 - 朕弟先生的笔记  at  2024-04-25 16:16:05
 
 [上海德比买票那些事](https://lmmsoft.github.io//shanghai_derby_tickets)  by  lmm333  at  2024-04-25 16:00:00
@@ -2057,8 +1979,6 @@
 ### 2024-04-23
 [一日一技：如何强迫LLama3用中文回复？](https://www.kingname.info/2024/04/23/llama-chinese/)  by  青南  at  2024-04-23 21:42:26
 
-[【大模型系列】指令微调](https://hubojing.github.io//nA527PXE/)  by  靖待  at  2024-04-23 16:15:21
-
 [日本旅游杂记-东京篇](https://blog.mauve.icu/2024/04/23/tourist/Japan-Tokyo-1/)  by  Shiroha  at  2024-04-23 15:56:42
 
 [CJK 字体文件压缩方案](https://ssshooter.com/font-optimization/)  by  Usubeni Fantasy  at  2024-04-23 11:45:07
@@ -2073,7 +1993,7 @@
 
 [并不存在大彻大悟，那只是一种幻想。](https://zhurongshuo.com/posts/2024/04/2201/)  by  祝融说。  at  2024-04-22 12:28:19
 
-[Με επιτυχία ολοκληρώθηκε η "Σκακιστική Άνοιξη στην Κρήτη" 2024](https://essk.gr/el/me-epityhia-oloklirothike-i-skakistiki-anoixi-stin-kriti-2024)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-04-22 05:22:38
+[PHP将图片加密写入数据库并解密读取](https://www.yuezeyi.com/607.html)  by  岳泽以  at  2024-04-22 10:04:39
 
 [Snap! 中的嵌套精灵](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/snap-nesting-sprites/)  by  夜行人  at  2024-04-22 00:00:00
 
@@ -2084,10 +2004,6 @@
 [向着开放与智能的生活](https://ourai.ws/posts/toward-open-and-intelligent-life)  by  欧雷  at  2024-04-21 16:58:16
 
 [开源服务指南博客文章自动生成](https://blog.diqigan.cn/posts/independent-develop/auto-grenrate-post-for-osguider-blog.md.html)  by  Seven  at  2024-04-21 10:09:55
-
-[【大模型系列】提示学习](https://hubojing.github.io//s3H6oP3Z/)  by  靖待  at  2024-04-21 04:39:43
-
-[ICP 还能战否？](https://hunterx.xyz/will-icp-win-or-not.html)  by  HunterX  at  2024-04-21 03:16:03
 
 [高速公路编号背后的数学密码](https://www.longluo.me/blog/2024/04/21/decode-the-highway-system-numbers/)  by  Long Luo  at  2024-04-21 00:08:32
 
@@ -2117,13 +2033,13 @@
 ### 2024-04-18
 [源码分析：GORM是如何生成sql的](https://liudon.com/posts/how-gorm-generates-sql/)  by  流动  at  2024-04-18 21:14:24
 
+[517编程普及组数学之筛法](http://blog.wsq127.top/posts/a996222c/)  by  wsq127  at  2024-04-18 16:01:28
+
 [AppImage: 一次打包，到处运行](https://luyuhuang.tech/2024/04/19/appimage.html)  by  Luyu Huang  at  2024-04-18 16:00:00
 
 [我最爱的几件旅行装备](https://blog.douchi.space/travel-gears/)  by  椒盐豆豉  at  2024-04-18 15:10:00
 
 [揭示生命起源之谜|为什么蛋白质都是“左撇子”？](https://yuanj.top/posts/f4b0c7w1/)  by  yuanj's blog  at  2024-04-18 11:32:32
-
-[DeFi 圈应知应会的一些词汇](https://hunterx.xyz/defi-buzzwords.html)  by  HunterX  at  2024-04-18 07:27:28
 
 [递归与归并排序](https://www.cubik65536.top/java-ds-oop/recursion-and-merge-sort/)  by  Cubik65536  at  2024-04-18 02:06:43
 
@@ -2136,6 +2052,8 @@
 [基础的排序与搜索算法](https://www.cubik65536.top/java-ds-oop/basic-sorting-and-searching/)  by  Cubik65536  at  2024-04-17 19:06:43
 
 [语言是思想的边界](https://kinnoukabokudo.com/3832/)  by  木土金王可  at  2024-04-17 17:00:00
+
+[517编程普及组数学之图论基础](http://blog.wsq127.top/posts/362ffdf7/)  by  wsq127  at  2024-04-17 16:10:06
 
 [对电脑端微信小程序抓包](https://uuanqin.top/p/5744d011/)  by  wuanqin  at  2024-04-17 14:54:39
 
@@ -2155,7 +2073,9 @@
 
 [AI副业赚钱免费资源大汇总](https://www.linglan01.cn/post/73)  by  程序员凌览  at  2024-04-16 12:09:11
 
-[Προκήρυξη της "Σκακιστικής Άνοιξης" 2024](https://essk.gr/el/prokiryxi-tis-skakistikis-anoixis-2024)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-04-16 11:08:57
+[517编程普及组数学之二进制](http://blog.wsq127.top/posts/a8eee40e/)  by  wsq127  at  2024-04-16 09:53:08
+
+[517编程普及组数学之排列组合](http://blog.wsq127.top/posts/b0170d0e/)  by  wsq127  at  2024-04-16 09:50:33
 
 [2024 阿里巴巴全球数学竞赛预选赛 试题解答](https://www.longluo.me/blog/2024/04/16/2024-alibaba-global-mathematics-competition-qualifying-round/)  by  Long Luo  at  2024-04-16 03:13:48
 
@@ -2169,13 +2089,11 @@
 
 [[架构]单体和微服务](http://chestnutheng.github.io/%E5%8D%95%E4%BD%93%E5%92%8C%E5%BE%AE%E6%9C%8D%E5%8A%A1/)  by  子恒的博客  at  2024-04-15 19:31:56
 
-[Πρόσκληση εκδήλωσης ενδιαφέροντος για την διοργάνωση του FINAL 4 του Κυπέλλου](https://essk.gr/el/prosklisi-ekdilosis-endiaferontos-gia-tin-diorganosi-toy-final-4-toy-kypelloy-1)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-04-15 19:08:05
-
 [AVP 初印象 - 软件（2）](https://lenciel.com/2024/04/thoughts-on-avp-3)  by  Lenciel  at  2024-04-15 18:50:37
 
-[Πολύ μεγάλη επιτυχία στο 2ο ράπιντ της ΕΣΣΚ στο Ρέθυμνο...](https://essk.gr/el/poly-megali-epityhia-sto-2o-rapint-tis-essk-sto-rethymno)  by  Ε.Σ.Σ.Κ. - Ένωση Σκακιστικών Σωματείων Κρήτης  at  2024-04-15 18:45:27
-
 [如何设计一个符合工业标准的审计系统](https://sund.site/posts/2024/audit-system-design/)  by  The Context Works  at  2024-04-15 16:44:40
+
+[华为软件精英挑战赛感想](https://blog.zerolacqua.top/posts/f7e04c6.html)  by  Zerol Acqua  at  2024-04-15 14:32:41
 
 [华为软件精英挑战赛感想](https://blog.zerolacqua.top/posts/f7e04c6.html)  by  Zerol Acqua  at  2024-04-15 14:32:41
 
@@ -2201,11 +2119,11 @@
 
 [《路德维希·费尔巴哈和德国古典哲学的终结》 读书笔记](https://lihan3238.github.io/p/lfudadkdp/)  by  李寒的小窝  at  2024-04-14 20:18:00
 
-[折腾｜N1 搭建家庭影库/游戏机/NAS/智能家居中枢（持续更新）](https://ilimeng.cn/1487.html)  by  离梦博客  at  2024-04-14 19:54:00
-
 [AVP 初印象 - 软件（1）](https://lenciel.com/2024/04/thoughts-on-avp-2)  by  Lenciel  at  2024-04-14 18:19:32
 
 [工具分享 | 如此组织我的工作与生活](https://imzh.me/posts/my-efficient-tools/)  by  时光旅行者 on 小豪的博客天空  at  2024-04-14 11:14:17
+
+[没有衡水命，一身衡水病——盲目复制衡水模式的意义何在？](https://www.lihaoyu.cn/posts/hengshui-disease)  by  晓雨杂记  at  2024-04-14 06:37:21
 
 [思考，快与慢](http://wwj718.github.io/post/%E8%AF%BB%E4%B9%A6/thinking-fast-and-slow/)  by  夜行人  at  2024-04-14 00:00:00
 
@@ -2216,4 +2134,98 @@
 [青龙湾游湖](https://zishu.me/blog/225.html/)  by  子舒的博客  at  2024-04-14 00:00:00
 
 [埃隆·马斯克传 - 读书笔记](https://tw93.fun/2024-04-14/musk.html)  by  Tw93 Blog  at  2024-04-14 00:00:00
+
+[新手钓新手](https://luffy.cc/novice-angler-catches-a-novice-fish)  by  蒙奇日记  at  2024-04-14 00:00:00
+
+
+### 2024-04-13
+[探索开源以及开源商业模式研究](https://nsddd.top/zh/posts/navigating-the-open-source-landscape/)  by  Posts on 熊鑫伟（cubxxw）的简体中文博客 🇨🇳  at  2024-04-13 20:29:22
+
+[为什么说 PoW 比 PoS 更加去中心化](https://smallyu.net/2024/04/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4PoW%E6%AF%94PoS%E6%9B%B4%E5%8A%A0%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96/)  by  smallyu  at  2024-04-13 16:50:00
+
+[维生素每日摄入量](https://glooow1024.github.io/2024/04/13/vitamin/)  by  Glooow  at  2024-04-13 15:38:39
+
+[Mac 搭建本地 K8S 开发环境方案选型](https://www.xlabs.club/blog/easiest-k8s-on-macos/)  by  卫星实验室 on XLabs  at  2024-04-13 15:20:43
+
+[「蕴含」与「等价」自然语言表达的理解](https://uuanqin.top/p/cd939534/)  by  wuanqin  at  2024-04-13 07:26:24
+
+[时间很珍贵](https://www.zddhub.com/2024/04/13/w15-value-your-time.html)  by  ZDDHUB  at  2024-04-13 00:00:00
+
+[夫妻吵架不是末日](https://ioerr.github.io/posts/fuqi-chaojia-bushi-mori/)  by  读写错误  at  2024-04-13 00:00:00
+
+
+### 2024-04-12
+[数据处理中的责任链模式](https://blog.zhangyingwei.com/posts/2024m4d12h14m25s41/)  by  胡说  at  2024-04-12 14:25:41
+
+[一增遮百丑 不增百丑来](http://weiwuhui.com/10691.html)  by  扯氮集  at  2024-04-12 06:45:55
+
+[当Nashorn失去括号：非典型Java命令执行绕过](https://www.leavesongs.com/PENETRATION/nashorn-rce-without-parentheses.html)  by  离别歌  at  2024-04-12 02:00:00
+
+[[译] 调试模式是唯一模式](http://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/debug-mode-is-only-mode/)  by  夜行人  at  2024-04-12 00:00:00
+
+[葬送的芙莉莲](https://luffy.cc/20240412)  by  蒙奇日记  at  2024-04-12 00:00:00
+
+
+### 2024-04-11
+[家庭用电插座](https://lxb.wiki/0565b4f5/)  by  Xiaobin's Notes  at  2024-04-11 21:48:31
+
+[K8S 服务长连接负载不均衡问题分析和解决办法](https://www.xlabs.club/blog/tomcat-keepalive-load-balancer/)  by  卫星实验室 on XLabs  at  2024-04-11 21:05:46
+
+[边读边想简中版得删成筛子吧——读《Chip War》](https://blog.douchi.space/book-chip-war/)  by  椒盐豆豉  at  2024-04-11 18:38:00
+
+[Windows下通过PEB读取进程的环境变量](https://f2h2h1.github.io/article/Windows下通过PEB读取进程的环境变量.html)  by  f2h2h1's blog  at  2024-04-11 18:31:09
+
+[对JS原型链的理解](https://f2h2h1.github.io/article/对JS原型链的理解.html)  by  f2h2h1's blog  at  2024-04-11 18:31:09
+
+[为什么个体域变化引入特性谓词时，不同量词的命题变化不一样？](https://uuanqin.top/p/83ffd5d1/)  by  wuanqin  at  2024-04-11 16:09:10
+
+[写博客的意义](https://jw1.dev/2024/04/11/meaning-of-blog.html)  by  Jacky Wong  at  2024-04-11 00:00:00
+
+[奇趣周刊 - 第 48 期](https://zishu.me/blog/weekly-48.html/)  by  子舒的博客  at  2024-04-11 00:00:00
+
+
+### 2024-04-10
+[Hi-C—前沿技术带你走进 DNA 的三维空间](https://yuanj.top/posts/z4y2f0y5/)  by  yuanj's blog  at  2024-04-10 15:18:12
+
+[文献分享|编码和非编码调控之间的相互作用驱动拟南芥种子到幼苗的转变](https://yuanj.top/posts/o0j1j8n0/)  by  yuanj's blog  at  2024-04-10 14:41:35
+
+[回忆杀——初中的随笔](https://www.zhuangqingyuan.site/2024/04/10/%E5%9B%9E%E5%BF%86%E6%9D%80%E2%80%94%E2%80%94%E5%88%9D%E4%B8%AD%E7%9A%84%E9%9A%8F%E7%AC%94/)  by  Qingyuan Zhuang' Blog  at  2024-04-10 13:59:00
+
+[对前端同行的最后一次劝诫](https://ourai.ws/posts/the-last-advice-to-frontend-engineers)  by  欧雷  at  2024-04-10 13:00:52
+
+[JS计算字节大小，把字节转换为KB/MB/GB/TB等](https://blog.ctftools.com/2024/04/newpost-55/)  by  Dr3@m  at  2024-04-10 09:24:35
+
+[读书｜通过免费云盘传书到 Kindle](https://mazhuang.org/2024/04/10/kindle-tips-2024)  by  Zhuang Ma  at  2024-04-10 00:00:00
+
+
+### 2024-04-09
+[早安，吉隆坡](https://macin.org/2024/04/09/zao-an-ji-long-po/)  by  Macin CHEN  at  2024-04-09 23:10:34
+
+[家常煎羊排制作](https://jdhao.github.io/2024/04/09/pan-fried-lamb-chops/)  by  Blowfish  at  2024-04-09 23:02:47
+
+[凉拌茄子制作](https://jdhao.github.io/2024/04/09/eggplant_salad/)  by  Blowfish  at  2024-04-09 22:33:44
+
+[一日一技：在macOS上查看任意软件的调试信息](https://www.kingname.info/2024/04/09/mac-app-debug/)  by  青南  at  2024-04-09 21:12:11
+
+[如何阅读论文](https://youngforever.tech/posts/20240410-how-to-read-a-paper/)  by  从百草园到三味书屋  at  2024-04-09 19:59:00
+
+[[后台]设计合理的幂等方案](http://chestnutheng.github.io/%E8%AE%BE%E8%AE%A1%E5%90%88%E7%90%86%E7%9A%84%E5%B9%82%E7%AD%89%E6%96%B9%E6%A1%88/)  by  子恒的博客  at  2024-04-09 16:07:23
+
+[夏威夷大岛度假](https://blog.douchi.space/island-of-hawaii-2024/)  by  椒盐豆豉  at  2024-04-09 12:32:00
+
+[游记｜溧阳1号公路，三色轨迹，一路风光](https://blog.ops-coffee.cn/r/city-china-jiangsu-changzhou-liyang-yihaogonglu-01)  by  运维咖啡吧  at  2024-04-09 10:45:45
+
+[刷新了一下对内容审查粒度的认知](https://1byte.io/articles/book-censorship/)  by  0x01 byte  at  2024-04-09 00:00:00
+
+[读《纳瓦尔宝典》](https://luffy.cc/the-almanack-of-naval-ravikant)  by  蒙奇日记  at  2024-04-09 00:00:00
+
+
+### 2024-04-08
+[朴素贝叶斯法](https://www.zhuangqingyuan.site/2024/04/08/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%B3%95/)  by  Qingyuan Zhuang' Blog  at  2024-04-08 13:33:23
+
+[关于如何在晴天卖出 250 把雨伞这件事](https://www.qtmuniao.com/2024/04/08/paywall-one-year/)  by  木鸟杂记  at  2024-04-08 13:08:58
+
+[文献分享|在对拟南芥进行诱导转录因子 bZIP11 处理后利用 ATAC Seq 技术鉴定其全基因组可及染色质区域](https://yuanj.top/posts/x7g8z0v6/)  by  yuanj's blog  at  2024-04-08 13:04:30
+
+[.doc | 爷爷没等到我回来](https://mountaye.github.io/blog/articles/farewell-grandpa)  by  MountAye  at  2024-04-08 00:00:00
 
