@@ -1,9 +1,10 @@
 name: updateRss
 
-on:
-  push:
-    branches:
-      - main
+# easy to collect spam link, Temporarily pause
+# on:
+#   push:
+#     branches:
+#       - main
   # schedule:
   #   - cron: '0 0 * * *'
 
