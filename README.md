@@ -1,5 +1,5 @@
 # 中文独立博客
-收集独立中文博客，小时级更新，供无聊时浏览。
+收集独立中文博客，小时级更新，供无聊时浏览，[产品地址](https://informal.top/zhblog/)。
 
 做完发现已经有同类产品了，如下：
 + 十年之约：https://www.foreverblog.cn/feeds.html
