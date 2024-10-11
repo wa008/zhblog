@@ -1,7 +1,7 @@
 name: updateRss
 
 # easy to collect spam link, Temporarily pause
-on:
+# on:
   # push:
   #   branches:
   #     - main
